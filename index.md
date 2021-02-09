@@ -23,7 +23,8 @@
 ---
 
 ### 最新消息
-1. 消息1×××
+- One paper is accepted to PAKDD 2021! Congratulations to Xijia Tang and all authors!
+- 
 
 ### 研究方向
 - 文本挖掘
