@@ -17,7 +17,7 @@ permalink: /homepage/
 
 ### News
 
-* 2020.12.11: One paper "Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
+* 2021.02.09: One paper "Multiple Instance Learning for Unilateral Data" has been accepted by _**PAKDD 2021**_.
 
 * 2020.12.02: One paper "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion" has been accepted by _**AAAI 2021**_.
 
