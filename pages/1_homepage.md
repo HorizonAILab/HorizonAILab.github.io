@@ -35,7 +35,7 @@ permalink: /homepage/
 
 #### 2020
 
-* Ruidong Fan, **Tingjin Luo**, Wenzhang Zhuge, Sheng Qiang, Chenping Hou$^#$, "Multi-view Subspace Learning via Bidirectional Sparsity", _Pattern Recognition_. 108: 107524 (2020), doi: 10.1109/ACCESS.2020.2988764, (CCF B类期刊, IF: 7.196), [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)
+* Ruidong Fan, **Tingjin Luo**, Wenzhang Zhuge, Sheng Qiang, Chenping Hou$^#$, "Multi-view Subspace Learning via Bidirectional Sparsity", _Pattern Recognition_. 108: 107524, 2020, doi: 10.1109/ACCESS.2020.2988764, (CCF B类期刊, IF: 7.196). [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)
 
 #### 2019
 
