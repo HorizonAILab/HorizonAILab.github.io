@@ -25,11 +25,28 @@ permalink: /Chinese/
 
 ### 学术论文
 
+#### 2021
+
+
+
+#### 2020
+
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Qibin Zhao, Tai-Xiang Jiang, "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion", in _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)_, **accepted**, 2021.
 
 
 * Yun-Yang Liu, Xi-Le Zhao, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, "Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, 2021.
- 
+
+#### 2019
+
+
+#### 2018
+
+#### 2017
+
+#### 2016
+
+#### 2015
+
 ---
 
 ### 教育背景
