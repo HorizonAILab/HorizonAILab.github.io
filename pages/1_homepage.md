@@ -35,10 +35,13 @@ permalink: /homepage/
 
 #### 2020
 
-* Ruidong Fan, **Tingjin Luo**, Wenzhang Zhuge, Sheng Qiang, Chenping Hou<sup>#</sup>, "Multi-view Subspace Learning via Bidirectional Sparsity", _Pattern Recognition_. 108: 107524, 2020, doi: 10.1016/j.patcog.2020.107524, (CCF B类期刊, IF: 7.196). [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)[[Code]](https://HorizonAILab.github.io/codes/TGRS_FRCTR_PnP)
+* Ruidong Fan, **Tingjin Luo**, Wenzhang Zhuge, Sheng Qiang, Chenping Hou<sup>#</sup>, "Multi-view Subspace Learning via Bidirectional Sparsity", _Pattern Recognition_, 108: 107524, 2020, doi: 10.1016/j.patcog.2020.107524, (CCF B类期刊, IF: 7.196). [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)[[Code]](https://HorizonAILab.github.io/codes/TGRS_FRCTR_PnP)
 
-* Tianxiang Luan, **Tingjin Luo**, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, "Optimal Representative Distribution Margin Machine for Multi-Instance Learning", _IEEE Access_. vol. 8, pp. 74864-74874, 2020, doi: 10.1109/ACCESS.2020.2988764, (CCF B类期刊, IF: 7.196). [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MIORDM.pdf)
+* Tianxiang Luan, **Tingjin Luo**, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, "Optimal Representative Distribution Margin Machine for Multi-Instance Learning", _IEEE Access_, vol. 8, pp. 74864-74874, 2020, doi: 10.1109/ACCESS.2020.2988764. (IF: 3.745). [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MIORDM.pdf)
 
+* Wenzhang Zhuge, **Tingjin Luo**, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, "Multi-View Spectral Clustering With Incomplete Graphs", _IEEE Access_, vol. 8, pp. 99820-99831, 2020, doi: 10.1109/ACCESS.2020.2997755. (IF: 3.745) [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
+
+* W. Zhuge, H. Tao, T. Luo, L. -L. Zeng, C. Hou and D. Yi, "Joint Representation Learning and Clustering: A Framework for Grouping Partial Multiview Data," in IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2020.3028422. (CCF A类期刊, IF: 4.935)
 
 #### 2019
 
