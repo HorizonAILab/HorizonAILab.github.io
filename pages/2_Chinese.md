@@ -73,7 +73,7 @@ permalink: /Chinese/
 ---
 
 ### 报告
-* 10/2020: "基于非凸稀疏优化的鲁棒多示例学习方法", _中国系统工程学会年会 2020_, **陕西西安**,  大会报告
-* 08/2017: "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", _IGARSS 2019_, **日本横滨**,  小组报告
+* 10/2020: "基于非凸稀疏优化的鲁棒多示例学习方法", _中国系统工程学会第21届学术年会 2020_, **陕西西安**,  大会报告
+* 01/2019: "高维数据特征分析方法", _学校量子交叉学术年会 2018_, **湖南长沙**,  小组报告
 * 08/2017: "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning", _IGARSS 2019_, **加拿大哈利法克斯**,  大会报告
 
