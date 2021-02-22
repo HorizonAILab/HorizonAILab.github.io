@@ -13,7 +13,7 @@ permalink: /Chinese/
  
 ### 简介
  
-| <br>**罗廷金**, 电子科技大学数学科学学院2019级数学专业博士生, 导师为[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)。 本科就读于安徽财经大学统计与应用数学学院, 硕士就读于电子科技大学数学科学学院。目前研究方向包括高维图像处理、张量低秩建模和高性能算法设计。已发表或录用SCI论文8篇（其中第一作者4篇）, 会议论文3篇（其中第一作者2篇）。 <br> <br> **邮箱:** <tingjinluo@hotmail.com> <br>  **个人简历:** [CV-TJ-Luo.pdf](https://HorizonAILab.github.io/images/CV-ybzheng.pdf) <br> **链接:** [DBLP](https://dblp.org/pid/175/8608.html) &emsp; [Researchgate](https://www.researchgate.net/profile/Tingjin-Luo)  &emsp; [GitHub](https://github.com/HorizonAILab/) <br><br>| &emsp;![image](https://HorizonAILab.github.io/images/zhengjianzhao.jpg)&emsp; |
+| <br>**罗廷金**, 电子科技大学数学科学学院2019级数学专业博士生, 导师为[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)。 本科就读于安徽财经大学统计与应用数学学院, 硕士就读于电子科技大学数学科学学院。目前研究方向包括高维图像处理、张量低秩建模和高性能算法设计。已发表或录用SCI论文8篇（其中第一作者4篇）, 会议论文3篇（其中第一作者2篇）。 <br> <br> **邮箱:** <tingjinluo@hotmail.com> <br>  **个人简历:** [CV-TJ-Luo.pdf](https://HorizonAILab.github.io/images/CV-TJ-Luo.pdf) <br> **链接:** [DBLP](https://dblp.org/pid/175/8608.html) &emsp; [Researchgate](https://www.researchgate.net/profile/Tingjin-Luo)  &emsp; [GitHub](https://github.com/HorizonAILab/) <br><br>| &emsp;![image](https://HorizonAILab.github.io/images/zhengjianzhao.jpg)&emsp; |
 
 ### 消息
 
