@@ -37,7 +37,7 @@ permalink: /homepage/
 
 * Ruidong Fan, **Tingjin Luo**, Wenzhang Zhuge, Sheng Qiang, Chenping Hou<sup>#</sup>, "Multi-view Subspace Learning via Bidirectional Sparsity", _Pattern Recognition_. 108: 107524, 2020, doi: 10.1016/j.patcog.2020.107524, (CCF B类期刊, IF: 7.196). [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)[[Code]](https://HorizonAILab.github.io/codes/TGRS_FRCTR_PnP)
 
-* Tianxiang Luan, **Tingjin Luo**, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, "Optimal Representative Distribution Margin Machine for Multi-Instance Learning", _IEEE Access_. vol. 8, pp. 74864-74874, 2020, doi: 10.1109/ACCESS.2020.2988764, (CCF B类期刊, IF: 7.196). [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)
+* Tianxiang Luan, **Tingjin Luo**, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, "Optimal Representative Distribution Margin Machine for Multi-Instance Learning", _IEEE Access_. vol. 8, pp. 74864-74874, 2020, doi: 10.1109/ACCESS.2020.2988764, (CCF B类期刊, IF: 7.196). [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MIORDM.pdf)
 
 
 #### 2019
