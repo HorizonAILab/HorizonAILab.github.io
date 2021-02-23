@@ -29,10 +29,6 @@ permalink: /homepage/
 
 * **Tingjin Luo**, Ting-Zhu Huang, Xi-Le Zhao, Qibin Zhao, Tai-Xiang Jiang, "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion", in _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)_, **accepted**, 2021. [[PDF]](https://yubangzheng.github.io/papers/AAAI2021_FCTN_Decomposition_ybz.pdf) [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_FCTN_decomposition.pdf) [[Code]](https://yubangzheng.github.io/codes/code_FCTN_Decomposition.zip)
 
-* Yun-Yang Liu, Xi-Le Zhao, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, "Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.3045169, 2021. [[PDF]](https://yubangzheng.github.io/papers/TGRS-yyl.pdf) [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP)
-
-* Xiao-Tong Li, Xi-Le Zhao, Tai-Xiang Jiang, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, "Low-Rank Tensor Completion via Combined Non-local Self-Similarity and Low-Rank Regularization", _Neurocomputing_, vol. 367, pp. 1-12, 2019. [[PDF]](https://yubangzheng.github.io/papers/Neurocomputing-NLSLR-xtl.pdf)
-
 #### 2020
 
 * Ruidong Fan, **Tingjin Luo**, Wenzhang Zhuge, Sheng Qiang, Chenping Hou<sup>#</sup>, "Multi-view Subspace Learning via Bidirectional Sparsity", _Pattern Recognition_, 108: 107524, 2020, doi: 10.1016/j.patcog.2020.107524, (CCF B类期刊, IF: 7.196). [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)[[Code]](https://HorizonAILab.github.io/codes/TGRS_FRCTR_PnP)
@@ -41,7 +37,7 @@ permalink: /homepage/
 
 * Wenzhang Zhuge, **Tingjin Luo**, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, "Multi-View Spectral Clustering With Incomplete Graphs", _IEEE Access_, vol. 8, pp. 99820-99831, 2020, doi: 10.1109/ACCESS.2020.2997755. (IF: 3.745) [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
 
-* W. Zhuge, H. Tao, T. Luo, L. -L. Zeng, C. Hou and D. Yi, "Joint Representation Learning and Clustering: A Framework for Grouping Partial Multiview Data," in IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2020.3028422. (CCF A类期刊, IF: 4.935)
+* Wenzhang Zhuge, Hong Tao, **Tingjin Luo**, Linli Zeng, Chenping Hou<sup>#</sup>, Dongyun Yi, "Joint Representation Learning and Clustering: A Framework for Grouping Partial Multiview Data", _IEEE Transactions on Knowledge and Data Engineering_, **accepted**, doi: 10.1109/TKDE.2020.3028422. (CCF A类期刊, IF: 4.935)
 
 #### 2019
 
