@@ -95,6 +95,10 @@ Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Inst
 
 ---
 
+#### Teaching
+
+#### Projects
+
 ### Reports
 
 * 07/2019: "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", _IGARSS 2019_, **Yokohama, Japan** (Oral)
