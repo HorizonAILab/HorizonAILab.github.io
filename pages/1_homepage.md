@@ -79,13 +79,15 @@ Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Inst
 
 ---
 
-### Education & Work 
+### Education & Work
 
-* 09/2019-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 06/2018-Current: National University of Defense Technology (NUDT),  
 
-* 09/2017-06/2019: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 03/2014-06/2018: National University of Defense Technology (NUDT), Ph. D. student in System Analysis and Integration (Supervisor: [Prof. Dongyun Yi](https://www.researchgate.net/profile/Dongyun-Yi)
 
-* 09/2013-06/2017: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
+* 09/2011-12/2013: National University of Defense Technology (NUDT), Master student in Systems Engineering (Supervisor: [Prof. Jun Zhang](https://www.researchgate.net/profile/Jun-Zhang-75))
+
+* 09/2007-06/2011: National University of Defense Technology (NUDT), Bachelor student in Systems Engineering
 
 ---
 

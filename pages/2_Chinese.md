@@ -53,11 +53,11 @@ permalink: /Chinese/
 
 ### 教育背景
 
-* 03/2014-06/2018: 博士, 国防科技大学 系统分析与集成专业 (导师: [易东云教授](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 03/2014-06/2018: 博士, 国防科技大学 系统分析与集成专业 (导师: [易东云教授](https://www.researchgate.net/profile/Dongyun-Yi))
 
 * 10/2015-09/2017：联合培养博士，美国密歇根大学  计算医学与计算生物专业（导师：[叶杰平教授](http://www.yelabs.net/)）
 
-* 09/2011-12/2013: 硕士, 国防科学技术大学 系统工程专业 (导师: [张  军教授](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2011-12/2013: 硕士, 国防科学技术大学 系统工程专业 (导师: [张  军教授](https://www.researchgate.net/profile/Jun-Zhang-75))
 
 * 09/2007-06/2011: 本科, 国防科学技术大学 系统工程专业
 
