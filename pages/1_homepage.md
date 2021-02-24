@@ -72,7 +72,10 @@ Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Inst
 * Guangtao Wang, Jiayu Zhou, Jingjie Ni, Tingjin Luo, Wei Long, Hai Zhen, Gao Cong, Jieping Ye, Robust Self-Tuning Sparse Subspace Clustering. ICDM Workshops 2017: 858-865
 
 #### 2016
+
 * Tingjin Luo, Chenping Hou, Dongyun Yi, Jun Zhang, Discriminative orthogonal elastic preserving projections for classification. Neurocomputing 179: 54-68 (2016)
+
+
 #### 2015
 
 #### Before 2015
@@ -108,8 +111,7 @@ Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Inst
 
 ### Reports
 
-* 07/2019: "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", _IGARSS 2019_, **Yokohama, Japan** (Oral)
-
+* 08/2017: "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning", _ACM KDD 2017_, **Halifax, Canada** (Oral)
 
 ### Service
 
