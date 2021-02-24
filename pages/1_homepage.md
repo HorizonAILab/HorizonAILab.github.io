@@ -107,7 +107,7 @@ Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Inst
 
 ### Reports
 
-* 08/2017: "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning", _ACM KDD 2017_, **Halifax, Canada** (Oral)
+* 08/2017: "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning", _Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery & Data Mining_, **Halifax, Canada** (Oral)
 
 ### Service
 
