@@ -73,7 +73,7 @@ Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Inst
 
 ---
 
-### Experiences 
+### Education & Work 
 
 * 09/2019-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
