@@ -9,8 +9,6 @@ permalink: /homepage/
 * content
 {:toc}
 
-
- 
 ### Biography
  
 | <br> Hi, I am an Associate Professor with the [College of Liberal Arts and Sciences](https://www.nudt.edu.cn/xysz/wlxy/index.htm), [National University of Defense Technology (NUDT)](https://www.nudt.edu.cn/), Chengdu, China. He has received his Ph.D degree (advised by [Prof. Dongyun Yi](https://www.researchgate.net/profile/Dongyun-Yi)) in College of Science from the same university in 2018. He was a visiting Ph.D. student (advised by [Prof. Jieping Ye](http://www.yelabs.net/)) with the University of Michigan, Ann Arbor, MI, USA, from 2015 to 2017. He has authored more than 30 papers in journals and conferences, such as the IEEE TKDE, IEEE TCYB, IEEE TIP, KDD, ICME and PAKDD etc. He has been a Program Committee member of several conferences including IJCAI, AAAI, ICPR etc. His research interests include machine learning, multi-media analysis, data mining and computer vision. <br> <br> **Email:** <tingjinluo@hotmail.com>  <br> **Follow me:** [DBLP](https://dblp.org/pid/175/8608.html) &emsp; [Researchgate](https://www.researchgate.net/profile/Tingjin-Luo)  &emsp; [GitHub](https://github.com/HorizonAILab/) <br><br>| &emsp;![image](https://HorizonAILab.github.io/images/zhengjianzhao.jpg)&emsp; |
@@ -18,8 +16,6 @@ permalink: /homepage/
 ### News and Events
 
 * 2021.02.09: One paper "Multiple Instance Learning for Unilateral Data" has been accepted by _**PAKDD 2021**_.
-
-* 2020.12.02: One paper "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion" has been accepted by _**AAAI 2021**_.
 
 ---
 
