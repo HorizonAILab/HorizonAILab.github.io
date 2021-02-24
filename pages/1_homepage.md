@@ -115,6 +115,6 @@ Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Inst
 
 ### Contact
 
-- Prospective students: I am actively looking for strong and motivated students to join our group! If you are interested in working with me, please apply through the Princeton CS PhD program and mention me in your application (and I can't respond to all individual emails).
+- Prospective students: I am actively looking for strong and motivated students to join our group! If you are interested in working with me, please apply through the NUDT Master program and mention me in your application (and I can't respond to all individual emails).
 
-- Princeton students: (1) If you are already a graduate student at Princeton, feel free to reach out. (2) I am also accepting undergraduate students for senior thesis advising or independent work. Please fill out this form before e-mailing me. I also recommend you take COS 484 (or at least one of ML or computer vision classes) before getting into NLP research.
+- NUDT students: (1) If you are already a graduate student at NUDT, feel free to reach out. (2) I am also accepting undergraduate students for senior thesis advising or independent work. Please fill out this form before e-mailing me. I also recommend you take [Machine Learning Course](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) (or at least one of pattern recognition or computer vision classes) before getting into machine learning research.
