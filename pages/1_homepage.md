@@ -115,3 +115,4 @@ Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Inst
 
 ### Service
 
+* Area Chair or PC Committee: AAAI 2019-2020, ICLR 2019-2021, NeurIPS 2019-2020, IJCAI 2018-2021, ICPR 2016-2021
