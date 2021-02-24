@@ -23,11 +23,11 @@ permalink: /homepage/
 
 ---
 
-#### Preprints and Working Papers (* indicates equal contributions, and # indicates advisees)
+### Preprints and Working Papers (* indicates equal contributions, and # indicates advisees)
 
 * 
 
-#### Publications (* indicates equal contributions, and # indicates advisees)
+### Publications (* indicates equal contributions, and # indicates advisees)
 
 #### 2021
 
@@ -95,9 +95,9 @@ Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Inst
 
 ---
 
-#### Teaching
+### Teaching
 
-#### Projects
+### Projects
 
 ### Reports
 
