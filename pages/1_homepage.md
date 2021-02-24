@@ -15,7 +15,7 @@ permalink: /homepage/
  
 | <br> Hi, I am an Associate Professor with the [College of Liberal Arts and Sciences](https://www.nudt.edu.cn/xysz/wlxy/index.htm), [National University of Defense Technology (NUDT)](https://www.nudt.edu.cn/), Chengdu, China. He has received his Ph.D degree (advised by [Prof. Dongyun Yi](https://www.researchgate.net/profile/Dongyun-Yi)) in College of Science from the same university in 2018. He was a visiting Ph.D. student (advised by [Prof. Jieping Ye](http://www.yelabs.net/)) with the University of Michigan, Ann Arbor, MI, USA, from 2015 to 2017. He has authored more than 30 papers in journals and conferences, such as the IEEE TKDE, IEEE TCYB, IEEE TIP, KDD, ICME and PAKDD etc. He has been a Program Committee member of several conferences including IJCAI, AAAI, ICPR etc. His research interests include machine learning, multi-media analysis, data mining and computer vision. <br> <br> **Email:** <tingjinluo@hotmail.com>  <br> **Follow me:** [DBLP](https://dblp.org/pid/175/8608.html) &emsp; [Researchgate](https://www.researchgate.net/profile/Tingjin-Luo)  &emsp; [GitHub](https://github.com/HorizonAILab/) <br><br>| &emsp;![image](https://HorizonAILab.github.io/images/zhengjianzhao.jpg)&emsp; |
 
-### News
+### News and Events
 
 * 2021.02.09: One paper "Multiple Instance Learning for Unilateral Data" has been accepted by _**PAKDD 2021**_.
 
@@ -29,6 +29,11 @@ permalink: /homepage/
 
 * **Tingjin Luo**, Ting-Zhu Huang, Xi-Le Zhao, Qibin Zhao, Tai-Xiang Jiang, "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion", in _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)_, **accepted**, 2021. [[PDF]](https://yubangzheng.github.io/papers/AAAI2021_FCTN_Decomposition_ybz.pdf) [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_FCTN_decomposition.pdf) [[Code]](https://yubangzheng.github.io/codes/code_FCTN_Decomposition.zip)
 
+#### Preprints and Working Papers (* indicates equal contributions, and # indicates advisees)
+
+* 
+
+#### Publications (* indicates equal contributions, and # indicates advisees)
 #### 2020
 
 * Ruidong Fan, **Tingjin Luo**, Wenzhang Zhuge, Sheng Qiang, Chenping Hou<sup>#</sup>, "Multi-view Subspace Learning via Bidirectional Sparsity", _Pattern Recognition_, 108: 107524, 2020, doi: 10.1016/j.patcog.2020.107524, (CCF B类期刊, IF: 7.196). [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)[[Code]](https://HorizonAILab.github.io/codes/TGRS_FRCTR_PnP)
