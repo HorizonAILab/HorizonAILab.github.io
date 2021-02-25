@@ -60,9 +60,9 @@ permalink: /homepage/
 * Gongmin Lan, Chenping Hou, Feiping Nie, **Tingjin Luo**, Dongyun Yi, Robust feature selection via simultaneous sapped norm and sparse regularizer minimization. Neurocomputing 283: 228-240 (2018)
 
 #### 2017
-* **Tingjin Luo**, Weizhong Zhang, Shang Qiu, Yang Yang, Dongyun Yi, Guangtao Wang, Jieping Ye, Jie Wang, "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning", KDD 2017: 345-354
-
-* Chenping Hou, Yuanyuan Jiao, Feiping Nie, **Tingjin Luo**, Zhi-Hua Zhou, 2D Feature Selection by Sparse Matrix Regression. IEEE Trans. Image Process. 26(9): 4255-4268 (2017)
+* **Tingjin Luo**, Weizhong Zhang, Shang Qiu, Yang Yang, Dongyun Yi, Guangtao Wang, Jieping Ye, Jie Wang, "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning", _Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2017)_, Halifax, Canada, August 2017, pp. 345-354. [[PDF]](https://HorizonAILab.github.io/papers/KDD2017-NMIL.pdf)
+ 
+* Chenping Hou, Yuanyuan Jiao, Feiping Nie, **Tingjin Luo**, Zhi-Hua Zhou, 2D Feature Selection by Sparse Matrix Regression. IEEE Transations on Image Process. 26(9): 4255-4268 (2017)
 
 * Guangtao Wang, Jiayu Zhou, Jingjie Ni, **Tingjin Luo**, Wei Long, Hai Zhen, Gao Cong, Jieping Ye, Robust Self-Tuning Sparse Subspace Clustering. ICDM Workshops 2017: 858-865
 
