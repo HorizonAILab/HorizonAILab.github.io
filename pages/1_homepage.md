@@ -19,6 +19,11 @@ permalink: /homepage/
 
 ---
 
+### Books and Chapters
+
+Yulan Guo is currently an associate professor. He received the B.Eng. and Ph.D. degrees from National University of Defense Technology (NUDT) in 2008 and 2015, respectively. He was a visiting Ph.D. student with the University of Western Australia from 2011 to 2014. He worked as a postdoctorial research fellow with the Institute of Computing Technology, Chinese Academy of Sciences from 2016 to 2018. He has authored over 100 articles in journals and conferences, such as the IEEE TPAMI and IJCV. His current research interests focus on 3D vision, particularly on 3D feature learning, 3D modeling, 3D object recognition, and scene understanding. Dr. Guo received the CAAI Outstanding Doctoral Dissertation Award in 2016, the CAAI Wu-Wenjun Outstanding AI Youth Award in 2019, and the ACM China SIGAI Rising Star Award in 2019. He served/will serve as an associate editor for IET Computer Vision and IET Image Processing, a guest editor for IEEE TPAMI, an area chair for CVPR 2021, ICCV 2021, ICPR2020, an organizer for a tutorial in CVPR 2016 and a workshop in CVPR 2019. He is a senior member of IEEE.
+
+
 ### Preprints and Working Papers
 (* indicates equal contributions, and # indicates advisees)
 
@@ -90,7 +95,18 @@ permalink: /homepage/
 
 ### Awards and Honors
 * Fund for NUDT Young Innovator Awards, 12/2020
+* Outstanding Doctoral Dissertation
 
+2019 ACM China SIGAI Rising Star
+2019 CAAI Wu-Wenjun Excellent AI Youth Award (14 in China)
+2018 The 1st Prize in the Category of Stereo in Robust Vision Challenge, CVPR2018 2016 National Postdoctoral Program for Innovative Talents
+2016 CAAI Outstanding Doctoral Dissertation Award (9 in China)
+2015 NUDT Outstanding Doctoral Dissertation Award (5 out of 300+)
+2014 NUDT Postgraduate Academic Innovation Star
+2011 GuangHua Scholarship
+2009 GuangHua Scholarship
+2009 Excellent Postgraduate Innovation Fund
+2011-2013 CSC Scholarship
 ---
 
 ### Teaching
@@ -108,7 +124,20 @@ permalink: /homepage/
 
 ### Service
 
-* Area Chair or PC Committee: AAAI 2019-2020, ICLR 2019-2021, NeurIPS 2019-2020, IJCAI 2018-2021, ICPR 2016-2021
+* Area Chair: 
+
+* Associate Editor:
+
+* Conference Program Committee: AAAI 2019-2020, ICLR 2019-2021, NeurIPS 2019-2020, IJCAI 2018-2021, ICPR 2016-2021
+
+* Guest Editor: 
+
+* Journal Reviewer: IEEE TKDE, IEEE Access, 中国科学, Neurocomputing, Plos One, Information Processing & Management, International Journal of Intelligent Systems
+
+### Alumni
+
+Xiaoqiang Teng (PhD, 2015-2018) Now with DiDi Lab, China
+
 
 ### Contact
 
