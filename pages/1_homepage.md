@@ -89,6 +89,7 @@ permalink: /homepage/
 ---
 
 ### Awards and Honors
+* Fund for NUDT Young Innovator Awards, 12/2020
 
 ---
 
