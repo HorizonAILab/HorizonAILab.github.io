@@ -17,9 +17,9 @@ permalink: /Chinese/
 
 ### 消息
 
-* 2020.12.11: 文章 "Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization" 被期刊 _**IEEE Transactions on Geoscience and Remote Sensing**_ 接收.
+* 2020.12.11: 文章 "Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization" 被期刊 _**IEEE Transactions on Geoscience and Remote Sensing**_ 接收。
 
-* 2020.12.02: 文章 "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion" 被机器学习领域顶会 _**AAAI 2021**_ 接收.
+* 2021.02.09: 文章"Multiple Instance Learning for Unilateral Data" 被机器学习领域会议 _**PAKDD 2021**_接收。
 
 ---
 
@@ -75,5 +75,5 @@ permalink: /Chinese/
 ### 报告
 * 10/2020: "基于非凸稀疏优化的鲁棒多示例学习方法", _中国系统工程学会第21届学术年会 2020_, **陕西西安**,  大会报告
 * 01/2019: "高维数据特征分析方法", _学校量子交叉学术年会 2018_, **湖南长沙**,  小组报告
-* 08/2017: "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning", _IGARSS 2019_, **加拿大哈利法克斯**,  大会报告
+* 08/2017: "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning", _ACM KDD 2017_, **加拿大哈利法克斯**,  大会报告
 
