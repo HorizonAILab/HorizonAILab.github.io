@@ -111,6 +111,12 @@ permalink: /homepage/
 
 ### Contact
 
+Address: College of Liberal Arts and Sciences, National University of Defense Technology: No.1 Fuyuan Road, Kaifu District, Changsha, Hunan, China
+
+Postcode: 410073
+
+Office: Room 4201A, College of Liberal Arts and Sciences, National University of Defense Technology
+
 - Prospective students: I am actively looking for strong and motivated students to join our group! If you are interested in working with me, please apply through the NUDT Master program and mention me in your application (and I can't respond to all individual emails).
 
 - NUDT students: (1) If you are already a graduate student at NUDT, feel free to reach out. (2) I am also accepting undergraduate students for senior thesis advising or independent work. Please fill out this form before e-mailing me. I also recommend you take [Machine Learning Course instructed by Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) (or at least one of pattern recognition or computer vision classes) before getting into machine learning research.

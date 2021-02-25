@@ -69,3 +69,8 @@ permalink: /Chinese/
 * 01/2019: "高维数据特征分析方法", _学校量子交叉学术年会 2018_, **中国湖南长沙**,  小组报告
 * 08/2017: "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning", _ACM KDD 2017_, **加拿大哈利法克斯**,  大会报告
 
+### 联系方式
+
+通讯地址： 湖南省长沙市开福区福元路一号国防科技大学文理学院体系科学系
+邮政编码： 410073
+办公地址： 国防科技大学文理学院4201A室
