@@ -53,18 +53,20 @@ permalink: /homepage/
 
 #### 2018
 
-* **Tingjin Luo**, Chenping Hou, Feiping Nie, Hong Tao, Dongyun Yi, Semi-Supervised Feature Selection via Insensitive Sparse Regression with Application to Video Semantic Recognition. IEEE Trans. Knowl. Data Eng. 30(10): 1943-1956 (2018)
+* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Feiping Nie, Hong Tao, Dongyun Yi, "Semi-Supervised Feature Selection via Insensitive Sparse Regression with Application to Video Semantic Recognition", _IEEE Transactions on Knowledge and Data Engineering_, vol. 30, no. 10, pp. 1943-1956, 2018, doi: 10.1109/TKDE.2018.2810286, WOS:000444603900009. (CCF A类期刊, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2018-ISR.pdf)
 
-* Weizhong Zhang, **Tingjin Luo**, Shuang Qiu, Jieping Ye, Deng Cai, Xiaofei He, Jie Wang, Identifying Genetic Risk Factors for Alzheimer's Disease via Shared Tree-Guided Feature Learning Across Multiple Tasks. IEEE Trans. Knowl. Data Eng. 30(11): 2145-2156 (2018)
+* Weizhong Zhang<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Shuang Qiu, Jieping Ye, Deng Cai, Xiaofei He, Jie Wang<sup>#</sup>, "Identifying Genetic Risk Factors for Alzheimer's Disease via Shared Tree-Guided Feature Learning Across Multiple Tasks",  _IEEE Transactions on Knowledge and Data Engineering_, vol. 30, no. 11, pp. 2145-2156, 2018, doi: 10.1109/TKDE.2018.2816029, WOS:000446795900010. (CCF A类期刊, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2018-STM.pdf)
 
-* Gongmin Lan, Chenping Hou, Feiping Nie, **Tingjin Luo**, Dongyun Yi, Robust feature selection via simultaneous sapped norm and sparse regularizer minimization. Neurocomputing 283: 228-240 (2018)
+* Gongmin Lan, Chenping Hou<sup>#</sup>, Feiping Nie, **Tingjin Luo**, Dongyun Yi, "Robust feature selection via simultaneous capped norm and sparse regularizer minimization", _Neurocomputing_, vol. 283, pp. 228-240, 2018, doi: 10.1016/j.neucom.2017.12.055, WOS:000424896600021. (CCF B类期刊, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2018-RFS.pdf)
 
 #### 2017
 * **Tingjin Luo**, Weizhong Zhang, Shang Qiu, Yang Yang, Dongyun Yi, Guangtao Wang, Jieping Ye, Jie Wang, "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning", _Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2017)_, Halifax, Canada, August 2017, pp. 345-354. [[PDF]](https://HorizonAILab.github.io/papers/KDD2017-NMIL.pdf)
- 
-* Chenping Hou, Yuanyuan Jiao, Feiping Nie, **Tingjin Luo**, Zhi-Hua Zhou, 2D Feature Selection by Sparse Matrix Regression. IEEE Transations on Image Process. 26(9): 4255-4268 (2017)
 
-* Guangtao Wang, Jiayu Zhou, Jingjie Ni, **Tingjin Luo**, Wei Long, Hai Zhen, Gao Cong, Jieping Ye, Robust Self-Tuning Sparse Subspace Clustering. ICDM Workshops 2017: 858-865
+* 
+ 
+* Chenping Hou, Yuanyuan Jiao, Feiping Nie, **Tingjin Luo**, Zhi-Hua Zhou, "2D Feature Selection by Sparse Matrix Regression". _IEEE Transations on Image Processing_, vol. 26, no. 9, pp. 4255-4268, 2017, doi: 10.1109/TIP.2017.2713948, WOS:000405395900001. (CCF A类期刊, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/TIP2017-2DFS.pdf)
+
+* Guangtao Wang, Jiayu Zhou, Jingjie Ni, **Tingjin Luo**, Wei Long, Hai Zhen, Gao Cong, Jieping Ye, "Robust Self-Tuning Sparse Subspace Clustering", _ICDM Workshops_,  2017: 858-865
 
 #### 2016
 
