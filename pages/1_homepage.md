@@ -34,7 +34,7 @@ Yulan Guo is currently an associate professor. He received the B.Eng. and Ph.D. 
 
 #### 2021
 
-* Xijia Tang, **Tingjin Luo**<sup>#</sup>, Tianxiang Luan, Chenping Hou "Multiple Instance Learning for Unilateral Data", in _Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021)_, **accepted**, Delhi, India, 2021. (CCF C类会议)
+* Xijia Tang, **Tingjin Luo**<sup>#</sup>, Tianxiang Luan, Chenping Hou, "Multiple Instance Learning for Unilateral Data", in _Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021)_, **accepted**, Delhi, India, 2021. (CCF C类会议)
 
 #### 2020
 
