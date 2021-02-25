@@ -68,13 +68,11 @@ permalink: /homepage/
 
 * Guangtao Wang, Jiayu Zhou, Jingjie Ni, **Tingjin Luo**, Wei Long, Hai Zhen, Gao Cong, Jieping Ye<sup>#</sup>, "Robust Self-Tuning Sparse Subspace Clustering", _Procedings of 17th IEEE International Conference on Data Mining Workshops (ICDMW 2017)_, pp.858-865, New Orleans, USA, 2017, doi: 10.1109/ICDMW.2017.117, WOS:000425845700114. [[PDF]](https://HorizonAILab.github.io/papers/ICDMW2017-RSSSC.pdf)
 
-#### 2016
+#### Before 2017
 
 * **Tingjin Luo**, Chenping Hou<sup>#</sup>, Dongyun Yi, Jun Zhang, "Discriminative orthogonal elastic preserving projections for classification". Neurocomputing 179: 54-68, 2016, doi: 10.1016/j.neucom.2015.11.037, WOS:000370090300005. (CCF B类期刊, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2016-DOEPP.pdf)
 
-#### 2014
-
-#### Before 2014
+* 
 
 ---
 
