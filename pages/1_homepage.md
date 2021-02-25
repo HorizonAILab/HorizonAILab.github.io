@@ -62,7 +62,7 @@ permalink: /homepage/
 #### 2017
 * **Tingjin Luo**, Weizhong Zhang, Shang Qiu, Yang Yang, Dongyun Yi, Guangtao Wang, Jieping Ye, Jie Wang, "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning", _Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2017)_, Halifax, Canada, August 2017, pp. 345-354. [[PDF]](https://HorizonAILab.github.io/papers/KDD2017-NMIL.pdf)
 
-* 
+* Yang Yang<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Zhoujun Li, Xiaoming Zhang, Philip S. Yu, "A Robust Method for Inferring Network Structures", _Scientific Reports_, 
  
 * Chenping Hou, Yuanyuan Jiao, Feiping Nie, **Tingjin Luo**, Zhi-Hua Zhou, "2D Feature Selection by Sparse Matrix Regression". _IEEE Transations on Image Processing_, vol. 26, no. 9, pp. 4255-4268, 2017, doi: 10.1109/TIP.2017.2713948, WOS:000405395900001. (CCF A类期刊, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/TIP2017-2DFS.pdf)
 
@@ -80,7 +80,7 @@ permalink: /homepage/
 
 ### Education & Work
 
-* 06/2018-Current: National University of Defense Technology (NUDT),  
+* 06/2018-Current: National University of Defense Technology (NUDT), Assistant Professor in College of Liberal Arts and Sciences
 
 * 03/2014-06/2018: National University of Defense Technology (NUDT), Ph. D. student in System Analysis and Integration (Supervisor: [Prof. Dongyun Yi](https://www.researchgate.net/profile/Dongyun-Yi)
 
