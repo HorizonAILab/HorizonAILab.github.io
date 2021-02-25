@@ -29,7 +29,7 @@ permalink: /homepage/
 
 #### 2021
 
-* **Tingjin Luo**, Ting-Zhu Huang, Xi-Le Zhao, Qibin Zhao, Tai-Xiang Jiang, "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion", in _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)_, **accepted**, 2021. [[PDF]](https://yubangzheng.github.io/papers/AAAI2021_FCTN_Decomposition_ybz.pdf) [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_FCTN_decomposition.pdf) [[Code]](https://yubangzheng.github.io/codes/code_FCTN_Decomposition.zip)
+* Xijia Tang, **Tingjin Luo**<sup>#</sup>, Tianxiang Luan, Chenping Hou "Multiple Instance Learning for Unilateral Data", in _Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021)_, **accepted**, Delhi, India, 2021. (CCF C类会议)
 
 #### 2020
 
@@ -45,36 +45,34 @@ permalink: /homepage/
 
 * **Tingjin Luo**, Chenping Hou<sup>#</sup>, Feiping Nie, Dongyun Yi, "Dimension Reduction for Non-Gaussian Data by Adaptive Discriminative Analysis", _IEEE Transactions on Cybernetics_, vol. 49, no. 3, pp. 933-946, March 2019, doi: 10.1109/TCYB.2018.2789524. (中科院一区期刊, IF: 11.079) [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
 
-* Zhipeng Lin, Zhenyu Zhao, **Tingjin Luo**<sup>#</sup>, Wenjing Yang, Yongjun Zhang, Yuhua Tang, "Non-Convex Transfer Subspace Learning for Unsupervised Domain Adaptation," 2019 IEEE International Conference on Multimedia and Expo (ICME), Shanghai, China, 2019, pp. 1468-1473, doi: 10.1109/ICME.2019.00254. (CCF B类会议)
+* Zhipeng Lin, Zhenyu Zhao, **Tingjin Luo**<sup>#</sup>, Wenjing Yang, Yongjun Zhang, Yuhua Tang, "Non-Convex Transfer Subspace Learning for Unsupervised Domain Adaptation", _Proceedings of IEEE International Conference on Multimedia and Expo (ICME 2019)_, Shanghai, China, 2019, pp. 1468-1473, doi: 10.1109/ICME.2019.00254. (CCF B类会议) [[PDF]](https://HorizonAILab.github.io/papers/ICME2019-NTSL.pdf)
 
-* Haotian Wang, Wenjing Yang, Zhenyu Zhao, **Tingjin Luo**, Ji Wang, Yuhua Tang, "Rademacher Dropout: An Adaptive Dropout for Deep Neural Network via Optimizing Generalization Gap", _Neurocomputing_, vol. 357, pp. 177-187, 2019, doi: 10.1016/j.neucom.2019.05.008. (CCF B类期刊, IF: 4.438)
+* Haotian Wang, Wenjing Yang<sup>#</sup>, Zhenyu Zhao, **Tingjin Luo**, Ji Wang, Yuhua Tang, "Rademacher Dropout: An Adaptive Dropout for Deep Neural Network via Optimizing Generalization Gap", _Neurocomputing_, vol. 357, pp. 177-187, 2019, doi: 10.1016/j.neucom.2019.05.008. (CCF B类期刊, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2019-RademacherDropout.pdf)
 
-* Haodong Yang, Jun Zhang, Shuohao Li<sup>#</sup>, **Tingjin Luo**, "Bi-direction Hierarchical LSTM with Spatial-Temporal Attention for Action Recognition", Journal of Intelligent & Fuzzy Systems, vol.36, no. 1, pp. 775-786, 2019, doi: 10.3233/JIFS-18209. (IF: 1.851) 
+* Haodong Yang, Jun Zhang<sup>#</sup>, Shuohao Li<sup>#</sup>, **Tingjin Luo**, "Bi-direction Hierarchical LSTM with Spatial-Temporal Attention for Action Recognition", Journal of Intelligent & Fuzzy Systems, vol.36, no. 1, pp. 775-786, 2019, doi: 10.3233/JIFS-18209. (IF: 1.851) [[PDF]](https://HorizonAILab.github.io/papers/JIFS2019-BHLSTM.pdf)
 
 #### 2018
 
-* Tingjin Luo, Chenping Hou, Feiping Nie, Hong Tao, Dongyun Yi, Semi-Supervised Feature Selection via Insensitive Sparse Regression with Application to Video Semantic Recognition. IEEE Trans. Knowl. Data Eng. 30(10): 1943-1956 (2018)
+* **Tingjin Luo**, Chenping Hou, Feiping Nie, Hong Tao, Dongyun Yi, Semi-Supervised Feature Selection via Insensitive Sparse Regression with Application to Video Semantic Recognition. IEEE Trans. Knowl. Data Eng. 30(10): 1943-1956 (2018)
 
-* Weizhong Zhang, Tingjin Luo, Shuang Qiu, Jieping Ye, Deng Cai, Xiaofei He, Jie Wang, Identifying Genetic Risk Factors for Alzheimer's Disease via Shared Tree-Guided Feature Learning Across Multiple Tasks. IEEE Trans. Knowl. Data Eng. 30(11): 2145-2156 (2018)
+* Weizhong Zhang, **Tingjin Luo**, Shuang Qiu, Jieping Ye, Deng Cai, Xiaofei He, Jie Wang, Identifying Genetic Risk Factors for Alzheimer's Disease via Shared Tree-Guided Feature Learning Across Multiple Tasks. IEEE Trans. Knowl. Data Eng. 30(11): 2145-2156 (2018)
 
-* Gongmin Lan, Chenping Hou, Feiping Nie, Tingjin Luo, Dongyun Yi, Robust feature selection via simultaneous sapped norm and sparse regularizer minimization. Neurocomputing 283: 228-240 (2018)
+* Gongmin Lan, Chenping Hou, Feiping Nie, **Tingjin Luo**, Dongyun Yi, Robust feature selection via simultaneous sapped norm and sparse regularizer minimization. Neurocomputing 283: 228-240 (2018)
 
 #### 2017
-* Tingjin Luo, Weizhong Zhang, Shang Qiu, Yang Yang, Dongyun Yi, Guangtao Wang, Jieping Ye, Jie Wang:
-Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning. KDD 2017: 345-354
+* **Tingjin Luo**, Weizhong Zhang, Shang Qiu, Yang Yang, Dongyun Yi, Guangtao Wang, Jieping Ye, Jie Wang, "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning", KDD 2017: 345-354
 
-* Chenping Hou, Yuanyuan Jiao, Feiping Nie, Tingjin Luo, Zhi-Hua Zhou, 2D Feature Selection by Sparse Matrix Regression. IEEE Trans. Image Process. 26(9): 4255-4268 (2017)
+* Chenping Hou, Yuanyuan Jiao, Feiping Nie, **Tingjin Luo**, Zhi-Hua Zhou, 2D Feature Selection by Sparse Matrix Regression. IEEE Trans. Image Process. 26(9): 4255-4268 (2017)
 
-* Guangtao Wang, Jiayu Zhou, Jingjie Ni, Tingjin Luo, Wei Long, Hai Zhen, Gao Cong, Jieping Ye, Robust Self-Tuning Sparse Subspace Clustering. ICDM Workshops 2017: 858-865
+* Guangtao Wang, Jiayu Zhou, Jingjie Ni, **Tingjin Luo**, Wei Long, Hai Zhen, Gao Cong, Jieping Ye, Robust Self-Tuning Sparse Subspace Clustering. ICDM Workshops 2017: 858-865
 
 #### 2016
 
-* Tingjin Luo, Chenping Hou, Dongyun Yi, Jun Zhang, Discriminative orthogonal elastic preserving projections for classification. Neurocomputing 179: 54-68 (2016)
+* **Tingjin Luo**, Chenping Hou, Dongyun Yi, Jun Zhang, Discriminative orthogonal elastic preserving projections for classification. Neurocomputing 179: 54-68 (2016)
 
+#### 2014
 
-#### 2015
-
-#### Before 2015
+#### Before 2014
 
 ---
 
@@ -92,15 +90,11 @@ Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Inst
 
 ### Awards and Honors
 
-*  National Scholarship for Ph. D. student, UESTC, 2020
-*  Special postgraduate scholarship of science, UESTC, 2019
-*  Pacemaker to Merit Student, AUFE, 2015 and 2016
-
 ---
 
 ### Teaching
 
-* Basic Statistical Methods ISYE3030 -- 2019 Summer, 2019 Fall, 2020 Spring, 2020 Fall, Georgia Tech
+* Basic Statistical Methods ISYE3030 -- 2020 Spring, 2021 Spring, NUDT
 
 ### Projects
 * Grant Number: Name, 2017.9 - 2021.8. [[Link]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
