@@ -17,8 +17,6 @@ permalink: /Chinese/
 
 ### 消息
 
-* 2020.12.11: 文章 "Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization" 被期刊 _**IEEE Transactions on Geoscience and Remote Sensing**_ 接收。
-
 * 2021.02.09: 文章"Multiple Instance Learning for Unilateral Data" 被机器学习领域会议 _**PAKDD 2021**_接收。
 
 ---
@@ -26,7 +24,6 @@ permalink: /Chinese/
 ### 学术论文
 
 #### 2021
-
 
 
 #### 2020
@@ -43,11 +40,8 @@ permalink: /Chinese/
 
 #### 2017
 
-#### 2016
 
-#### 2015
-
-#### 2015以前
+#### 2017以前
 
 ---
 
