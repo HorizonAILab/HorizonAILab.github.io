@@ -95,8 +95,8 @@ permalink: /homepage/
 * Fund for NUDT Young Innovator Awards, 12/2020
 * SESC Outstanding Doctoral Dissertation, 10/2020 (4 in China)
 * Hunan Province Outstanding Doctoral Dissertation, 08/2020
-* NUDT Postgraduate Academic Innovation Star, 10/2017
-* ZhouMingXi Scholarship, 12/2017
+* NUDT Postgraduate Academic Innovation Star, 10/2017 (10/300+)
+* NUDT ZhouMingXi Scholarship, 12/2017
 * CSC Scholarship, 10/2019-09/2017
 ---
 
