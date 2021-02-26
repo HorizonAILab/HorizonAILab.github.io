@@ -124,7 +124,7 @@ permalink: /homepage/
 
 ### Service
 
-* Area Chair: 
+* Area Chair: Dynamic Feature Mining of ICDM Workshop
 
 * Associate Editor:
 
