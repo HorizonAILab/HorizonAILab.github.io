@@ -93,19 +93,11 @@ permalink: /homepage/
 
 ### Awards and Honors
 * Fund for NUDT Young Innovator Awards, 12/2020
-* SESC Outstanding Doctoral Dissertation, 10/2020
+* SESC Outstanding Doctoral Dissertation, 10/2020 (4 in China)
 * Hunan Province Outstanding Doctoral Dissertation, 08/2020
-
-2019 ACM China SIGAI Rising Star
-2019 CAAI Wu-Wenjun Excellent AI Youth Award (14 in China)
-2018 The 1st Prize in the Category of Stereo in Robust Vision Challenge, CVPR2018 2016 National Postdoctoral Program for Innovative Talents
-2016 CAAI Outstanding Doctoral Dissertation Award (9 in China)
-2015 NUDT Outstanding Doctoral Dissertation Award (5 out of 300+)
-2014 NUDT Postgraduate Academic Innovation Star
-2011 GuangHua Scholarship
-2009 GuangHua Scholarship
-2009 Excellent Postgraduate Innovation Fund
-2011-2013 CSC Scholarship
+* NUDT Postgraduate Academic Innovation Star, 10/2017
+* ZhouMingXi Scholarship, 12/2017
+* CSC Scholarship, 10/2019-09/2017
 ---
 
 ### Teaching
