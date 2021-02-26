@@ -117,7 +117,7 @@ permalink: /homepage/
 ### Projects
 * Grant Number: Name, 2017.9 - 2021.8. [[Link]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
 
-### Reports
+### Talks
 
 * 08/2017: "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning", _Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery & Data Mining_, **Halifax, Canada** (Oral)
 
@@ -133,10 +133,12 @@ permalink: /homepage/
 
 * Journal Reviewer: IEEE TKDE, IEEE Access, 中国科学, Neurocomputing, Plos One, Information Processing & Management, International Journal of Intelligent Systems
 
+---
 ### Alumni
 
-Xiaoqiang Teng (PhD, 2015-2018) Now with DiDi Lab, China
+Baolin Guo (Master, 2015-2017) Now with DiDi Lab, China
 
+---
 
 ### Contact
 
