@@ -80,7 +80,7 @@ permalink: /homepage/
 
 * Jun Zhang, Weiqiang Huang, **Tingjin Luo**, "3D Reconstruction of Periodic Human Walking Trajectories Based on Single View", _Chinese Journal of Electronics_, vol. 22, no. 3, pp.455-460, July 2013, WOS:000321481000004. (JCR Q4, IF: 0.941)
 
-* Jun Zhang, Shukui Xu, Kuihua Huang, **Tingjin Luo**, "Accurate Moving Target Detection Based on Background Subtraction and SUSAN", _International Journal of Computer and Electrical Engineering_, vol. 4, no. 4, pp.436-439, Aug. 2012, DOI: 10.7763/IJCEE.2012.V4.529, WOS:000321481000004. 
+* Jun Zhang, Shukui Xu, Kuihua Huang, **Tingjin Luo**, "Accurate Moving Target Detection Based on Background Subtraction and SUSAN", _International Journal of Computer and Electrical Engineering_, vol. 4, no. 4, pp.436-439, Aug. 2012, DOI: 10.7763/IJCEE.2012.V4.529, WOS:000321481000004. [[PDF]](https://HorizonAILab.github.io/papers/IJCEE2012-AMTD.pdf)
 
 ---
 
