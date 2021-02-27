@@ -9,9 +9,7 @@ permalink: /homepage/
 * content
 {:toc}
 
-### Biography
- 
-| <br> Hi, I am an Associate Professor with the [College of Liberal Arts and Sciences](https://www.nudt.edu.cn/xysz/wlxy/index.htm), [National University of Defense Technology (NUDT)](https://www.nudt.edu.cn/), Chengdu, China. He has received his Ph.D degree (advised by [Prof. Dongyun Yi](https://www.researchgate.net/profile/Dongyun-Yi)) in College of Science from the same university in 2018. He was a visiting Ph.D. student (advised by [Prof. Jieping Ye](http://www.yelabs.net/)) with the University of Michigan, Ann Arbor, MI, USA, from 2015 to 2017. He has authored more than 30 papers in journals and conferences, such as the IEEE TKDE, IEEE TCYB, IEEE TIP, KDD, ICME and PAKDD etc. He has been a Program Committee member of several conferences including IJCAI, AAAI, ICPR etc. His research interests include machine learning, multi-media analysis, data mining and computer vision. <br> <br> **Email:** <tingjinluo@hotmail.com>  <br> **Follow me:** [DBLP](https://dblp.org/pid/175/8608.html) &emsp; [Researchgate](https://www.researchgate.net/profile/Tingjin-Luo)  &emsp; [GitHub](https://github.com/HorizonAILab/) <br><br>| &emsp;![image](https://HorizonAILab.github.io/images/zhengjianzhao.jpg)&emsp; |
+| <br> **Biography**: Hi, I am an Associate Professor with the [College of Liberal Arts and Sciences](https://www.nudt.edu.cn/xysz/wlxy/index.htm), [National University of Defense Technology (NUDT)](https://www.nudt.edu.cn/), Chengdu, China. He has received his B.Eng. and Ph.D degree (advised by [Prof. Dongyun Yi](https://www.researchgate.net/profile/Dongyun-Yi)) from NUDT in 2011 and 2018, respectively. He was a visiting Ph.D. student (advised by [Prof. Jieping Ye](http://www.yelabs.net/)) with the University of Michigan from 2015 to 2017. He has authored more than 30 papers in journals and conferences, such as the IEEE TKDE, IEEE TCYB, IEEE TIP and KDD etc. His research interests focus on machine learning, multi-media analysis, data mining and scene understanding. Dr. Luo received the SESC Outstanding Doctoral Dissertation Award and Hunan Province Outstanding Doctoral Dissertation Award in 2020. He has served/will serve a program committee member of several conferences including IJCAI, AAAI and an organizer for a workshop in ICDM 2020. He is a member of IEEE and CCF.<br> <br> **Email:** <tingjinluo@hotmail.com>  <br> **Follow me:** [DBLP](https://dblp.org/pid/175/8608.html) &emsp; [Researchgate](https://www.researchgate.net/profile/Tingjin-Luo)  &emsp; [GitHub](https://github.com/HorizonAILab/) <br><br>| &emsp;![image](https://HorizonAILab.github.io/images/horizon.jpg)&emsp; |
 
 ### News and Events
 
@@ -21,8 +19,8 @@ permalink: /homepage/
 
 ### Books and Chapters
 
-Yulan Guo is currently an associate professor. He received the B.Eng. and Ph.D. degrees from National University of Defense Technology (NUDT) in 2008 and 2015, respectively. He was a visiting Ph.D. student with the University of Western Australia from 2011 to 2014. He worked as a postdoctorial research fellow with the Institute of Computing Technology, Chinese Academy of Sciences from 2016 to 2018. He has authored over 100 articles in journals and conferences, such as the IEEE TPAMI and IJCV. His current research interests focus on 3D vision, particularly on 3D feature learning, 3D modeling, 3D object recognition, and scene understanding. Dr. Guo received the CAAI Outstanding Doctoral Dissertation Award in 2016, the CAAI Wu-Wenjun Outstanding AI Youth Award in 2019, and the ACM China SIGAI Rising Star Award in 2019. He served/will serve as an associate editor for IET Computer Vision and IET Image Processing, a guest editor for IEEE TPAMI, an area chair for CVPR 2021, ICCV 2021, ICPR2020, an organizer for a tutorial in CVPR 2016 and a workshop in CVPR 2019. He is a senior member of IEEE.
 
+---
 
 ### Preprints and Working Papers
 (* indicates equal contributions, and # indicates advisees)
@@ -94,18 +92,11 @@ Yulan Guo is currently an associate professor. He received the B.Eng. and Ph.D. 
 
 ### Awards and Honors
 * Fund for NUDT Young Innovator Awards, 12/2020
-* Outstanding Doctoral Dissertation
-
-2019 ACM China SIGAI Rising Star
-2019 CAAI Wu-Wenjun Excellent AI Youth Award (14 in China)
-2018 The 1st Prize in the Category of Stereo in Robust Vision Challenge, CVPR2018 2016 National Postdoctoral Program for Innovative Talents
-2016 CAAI Outstanding Doctoral Dissertation Award (9 in China)
-2015 NUDT Outstanding Doctoral Dissertation Award (5 out of 300+)
-2014 NUDT Postgraduate Academic Innovation Star
-2011 GuangHua Scholarship
-2009 GuangHua Scholarship
-2009 Excellent Postgraduate Innovation Fund
-2011-2013 CSC Scholarship
+* SESC Outstanding Doctoral Dissertation, 10/2020 (4 in China)
+* Hunan Province Outstanding Doctoral Dissertation, 08/2020
+* NUDT Postgraduate Academic Innovation Star, 10/2017 (10 out of 300+)
+* NUDT ZhouMingXi Scholarship, 12/2017
+* CSC Scholarship, 10/2019-09/2017
 ---
 
 ### Teaching
@@ -117,13 +108,13 @@ Yulan Guo is currently an associate professor. He received the B.Eng. and Ph.D. 
 ### Projects
 * Grant Number: Name, 2017.9 - 2021.8. [[Link]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
 
-### Reports
+### Talks
 
 * 08/2017: "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning", _Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery & Data Mining_, **Halifax, Canada** (Oral)
 
 ### Service
 
-* Area Chair: 
+* Area Chair: Dynamic Feature Mining of ICDM Workshop
 
 * Associate Editor:
 
@@ -133,10 +124,12 @@ Yulan Guo is currently an associate professor. He received the B.Eng. and Ph.D. 
 
 * Journal Reviewer: IEEE TKDE, IEEE Access, 中国科学, Neurocomputing, Plos One, Information Processing & Management, International Journal of Intelligent Systems
 
+---
 ### Alumni
 
-Xiaoqiang Teng (PhD, 2015-2018) Now with DiDi Lab, China
+Baolin Guo (Master, 2015-2017) Now with DiDi Lab, China
 
+---
 
 ### Contact
 
