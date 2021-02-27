@@ -72,7 +72,13 @@ permalink: /homepage/
 
 #### Before 2017
 
-* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Dongyun Yi, Jun Zhang, "Discriminative orthogonal elastic preserving projections for classification". Neurocomputing 179: 54-68, 2016, doi: 10.1016/j.neucom.2015.11.037, WOS:000370090300005. (CCF B, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2016-DOEPP.pdf)
+* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Dongyun Yi, Jun Zhang, "Discriminative orthogonal elastic preserving projections for classification", _Neurocomputing_, vol. 179, pp. 54-68, 2016, doi: 10.1016/j.neucom.2015.11.037, WOS:000370090300005. (CCF B, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2016-DOEPP.pdf)
+
+* **Tingjin Luo**, Jun Zhang, Lin Lian, "Speed up junction detector based on azimuth consensus by Harris corner", _Optical Review_, vol. 21, no. 2, pp. 135-142, Mar. 2014, doi: 10.1007/s10043-014-0021-1, WOS:000334253000005. (IF: )
+
+* Jun Zhang, **Tingjin Luo**<sup>#</sup>, Gui Gao, Lin Lian, "Junction Point Detection Algorithm for SAR Image", _International Journal of Antennas and Propagation_, vol. 2013, pp. 1-9, Mar. 2013, doi: 10.1155/2013/357379, WOS:000317567100001. (IF: 1.207) [[PDF]](https://HorizonAILab.github.io/papers/IJAP2013-JPDA.pdf)
+
+* Jun Zhang, Weiqiang Huang, **Tingjin Luo**, "3D Reconstruction of Periodic Human Walking Trajectories Based on Single View", _Chinese Journal of Electronics_, vol. 22, no. 3, pp.455-460, July 2013, WOS:000321481000004. (IF: )
 
 * 
 
