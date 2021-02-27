@@ -49,7 +49,7 @@ permalink: /homepage/
 
 * Zhipeng Lin, Zhenyu Zhao, **Tingjin Luo**<sup>#</sup>, Wenjing Yang, Yongjun Zhang, Yuhua Tang, "Non-Convex Transfer Subspace Learning for Unsupervised Domain Adaptation", _Proceedings of IEEE International Conference on Multimedia and Expo (ICME 2019)_, Shanghai, China, 2019, pp. 1468-1473, doi: 10.1109/ICME.2019.00254, EI: 20193407349323. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/ICME2019-NTSL.pdf)
 
-* Haotian Wang, Wenjing Yang<sup>#</sup>, Zhenyu Zhao, **Tingjin Luo**, Ji Wang, Yuhua Tang, "Rademacher Dropout: An Adaptive Dropout for Deep Neural Network via Optimizing Generalization Gap", _Neurocomputing_, vol. 357, pp. 177-187, 2019, doi: 10.1016/j.neucom.2019.05.008. (CCF B类期刊, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2019-RademacherDropout.pdf)
+* Haotian Wang, Wenjing Yang<sup>#</sup>, Zhenyu Zhao, **Tingjin Luo**, Ji Wang, Yuhua Tang, "Rademacher Dropout: An Adaptive Dropout for Deep Neural Network via Optimizing Generalization Gap", _Neurocomputing_, vol. 357, pp. 177-187, 2019, doi: 10.1016/j.neucom.2019.05.008. (CCF B, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2019-RademacherDropout.pdf)
 
 * Haodong Yang, Jun Zhang<sup>#</sup>, Shuohao Li<sup>#</sup>, **Tingjin Luo**, "Bi-direction Hierarchical LSTM with Spatial-Temporal Attention for Action Recognition", Journal of Intelligent & Fuzzy Systems, vol.36, no. 1, pp. 775-786, 2019, doi: 10.3233/JIFS-18209. (IF: 1.851) [[PDF]](https://HorizonAILab.github.io/papers/JIFS2019-BHLSTM.pdf)
 
