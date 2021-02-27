@@ -27,30 +27,29 @@ Yulan Guo is currently an associate professor. He received the B.Eng. and Ph.D. 
 ### Preprints and Working Papers
 (* indicates equal contributions, and # indicates advisees)
 
-* 
 
 ### Publications
 (* indicates equal contributions, and # indicates advisees)
 
 #### 2021
 
-* Xijia Tang, **Tingjin Luo**<sup>#</sup>, Tianxiang Luan, Chenping Hou, "Multiple Instance Learning for Unilateral Data", in _Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021)_, **accepted**, Delhi, India, 2021. (CCF C类会议)
+* Xijia Tang, **Tingjin Luo**<sup>#</sup>, Tianxiang Luan, Chenping Hou, "Multiple Instance Learning for Unilateral Data", in _Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021)_, **accepted**, Delhi, India, 2021. (CCF C)
 
 #### 2020
 
-* Ruidong Fan, **Tingjin Luo**, Wenzhang Zhuge, Sheng Qiang, Chenping Hou<sup>#</sup>, "Multi-view Subspace Learning via Bidirectional Sparsity", _Pattern Recognition_, 108: 107524, 2020, doi: 10.1016/j.patcog.2020.107524, (CCF B类期刊, IF: 7.196). [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)[[Code]](https://HorizonAILab.github.io/codes/TGRS_FRCTR_PnP)
+* Ruidong Fan, **Tingjin Luo**, Wenzhang Zhuge, Sheng Qiang, Chenping Hou<sup>#</sup>, "Multi-view Subspace Learning via Bidirectional Sparsity", _Pattern Recognition_, 108: 107524, 2020, doi: 10.1016/j.patcog.2020.107524, (CCF B, IF: 7.196). [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)[[Code]](https://HorizonAILab.github.io/codes/TGRS_FRCTR_PnP)
 
 * Tianxiang Luan, **Tingjin Luo**, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, "Optimal Representative Distribution Margin Machine for Multi-Instance Learning", _IEEE Access_, vol. 8, pp. 74864-74874, 2020, doi: 10.1109/ACCESS.2020.2988764. (IF: 3.745). [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MIORDM.pdf)
 
 * Wenzhang Zhuge, **Tingjin Luo**, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, "Multi-View Spectral Clustering With Incomplete Graphs", _IEEE Access_, vol. 8, pp. 99820-99831, 2020, doi: 10.1109/ACCESS.2020.2997755. (IF: 3.745) [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
 
-* Wenzhang Zhuge, Hong Tao, **Tingjin Luo**, Linli Zeng, Chenping Hou<sup>#</sup>, Dongyun Yi, "Joint Representation Learning and Clustering: A Framework for Grouping Partial Multiview Data", _IEEE Transactions on Knowledge and Data Engineering_, **accepted**, doi: 10.1109/TKDE.2020.3028422. (CCF A类期刊, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
+* Wenzhang Zhuge, Hong Tao, **Tingjin Luo**, Linli Zeng, Chenping Hou<sup>#</sup>, Dongyun Yi, "Joint Representation Learning and Clustering: A Framework for Grouping Partial Multiview Data", _IEEE Transactions on Knowledge and Data Engineering_, **accepted**, doi: 10.1109/TKDE.2020.3028422. (CCF A, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
 
 #### 2019
 
-* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Feiping Nie, Dongyun Yi, "Dimension Reduction for Non-Gaussian Data by Adaptive Discriminative Analysis", _IEEE Transactions on Cybernetics_, vol. 49, no. 3, pp. 933-946, March 2019, doi: 10.1109/TCYB.2018.2789524. (中科院一区期刊, IF: 11.079) [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
+* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Feiping Nie, Dongyun Yi, "Dimension Reduction for Non-Gaussian Data by Adaptive Discriminative Analysis", _IEEE Transactions on Cybernetics_, vol. 49, no. 3, pp. 933-946, March 2019, doi: 10.1109/TCYB.2018.2789524. (JCR Q1, IF: 11.079) [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
 
-* Zhipeng Lin, Zhenyu Zhao, **Tingjin Luo**<sup>#</sup>, Wenjing Yang, Yongjun Zhang, Yuhua Tang, "Non-Convex Transfer Subspace Learning for Unsupervised Domain Adaptation", _Proceedings of IEEE International Conference on Multimedia and Expo (ICME 2019)_, Shanghai, China, 2019, pp. 1468-1473, doi: 10.1109/ICME.2019.00254, EI: 20193407349323. (CCF B类会议) [[PDF]](https://HorizonAILab.github.io/papers/ICME2019-NTSL.pdf)
+* Zhipeng Lin, Zhenyu Zhao, **Tingjin Luo**<sup>#</sup>, Wenjing Yang, Yongjun Zhang, Yuhua Tang, "Non-Convex Transfer Subspace Learning for Unsupervised Domain Adaptation", _Proceedings of IEEE International Conference on Multimedia and Expo (ICME 2019)_, Shanghai, China, 2019, pp. 1468-1473, doi: 10.1109/ICME.2019.00254, EI: 20193407349323. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/ICME2019-NTSL.pdf)
 
 * Haotian Wang, Wenjing Yang<sup>#</sup>, Zhenyu Zhao, **Tingjin Luo**, Ji Wang, Yuhua Tang, "Rademacher Dropout: An Adaptive Dropout for Deep Neural Network via Optimizing Generalization Gap", _Neurocomputing_, vol. 357, pp. 177-187, 2019, doi: 10.1016/j.neucom.2019.05.008. (CCF B类期刊, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2019-RademacherDropout.pdf)
 
@@ -58,24 +57,24 @@ Yulan Guo is currently an associate professor. He received the B.Eng. and Ph.D. 
 
 #### 2018
 
-* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Feiping Nie, Hong Tao, Dongyun Yi, "Semi-Supervised Feature Selection via Insensitive Sparse Regression with Application to Video Semantic Recognition", _IEEE Transactions on Knowledge and Data Engineering_, vol. 30, no. 10, pp. 1943-1956, 2018, doi: 10.1109/TKDE.2018.2810286, WOS:000444603900009. (CCF A类期刊, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2018-ISR.pdf)
+* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Feiping Nie, Hong Tao, Dongyun Yi, "Semi-Supervised Feature Selection via Insensitive Sparse Regression with Application to Video Semantic Recognition", _IEEE Transactions on Knowledge and Data Engineering_, vol. 30, no. 10, pp. 1943-1956, 2018, doi: 10.1109/TKDE.2018.2810286, WOS:000444603900009. (CCF A, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2018-ISR.pdf)
 
-* Weizhong Zhang<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Shuang Qiu, Jieping Ye, Deng Cai, Xiaofei He, Jie Wang<sup>#</sup>, "Identifying Genetic Risk Factors for Alzheimer's Disease via Shared Tree-Guided Feature Learning Across Multiple Tasks",  _IEEE Transactions on Knowledge and Data Engineering_, vol. 30, no. 11, pp. 2145-2156, 2018, doi: 10.1109/TKDE.2018.2816029, WOS:000446795900010. (CCF A类期刊, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2018-STM.pdf)
+* Weizhong Zhang<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Shuang Qiu, Jieping Ye, Deng Cai, Xiaofei He, Jie Wang<sup>#</sup>, "Identifying Genetic Risk Factors for Alzheimer's Disease via Shared Tree-Guided Feature Learning Across Multiple Tasks",  _IEEE Transactions on Knowledge and Data Engineering_, vol. 30, no. 11, pp. 2145-2156, 2018, doi: 10.1109/TKDE.2018.2816029, WOS:000446795900010. (CCF A, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2018-STM.pdf)
 
-* Gongmin Lan, Chenping Hou<sup>#</sup>, Feiping Nie, **Tingjin Luo**, Dongyun Yi, "Robust feature selection via simultaneous capped norm and sparse regularizer minimization", _Neurocomputing_, vol. 283, pp. 228-240, 2018, doi: 10.1016/j.neucom.2017.12.055, WOS:000424896600021. (CCF B类期刊, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2018-RFS.pdf)
+* Gongmin Lan, Chenping Hou<sup>#</sup>, Feiping Nie, **Tingjin Luo**, Dongyun Yi, "Robust feature selection via simultaneous capped norm and sparse regularizer minimization", _Neurocomputing_, vol. 283, pp. 228-240, 2018, doi: 10.1016/j.neucom.2017.12.055, WOS:000424896600021. (CCF B, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2018-RFS.pdf)
 
 #### 2017
-* **Tingjin Luo**, Weizhong Zhang, Shuang Qiu, Yang Yang, Dongyun Yi, Guangtao Wang, Jieping Ye<sup>#</sup>, Jie Wang<sup>#</sup>, "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning", _Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2017)_, Halifax, Canada, August 2017, pp. 345-354, doi: 10.1145/3097983.3097984, EI:  20173704157018. [[PDF]](https://HorizonAILab.github.io/papers/KDD2017-NMIL.pdf)
+* **Tingjin Luo**, Weizhong Zhang, Shuang Qiu, Yang Yang, Dongyun Yi, Guangtao Wang, Jieping Ye<sup>#</sup>, Jie Wang<sup>#</sup>, "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning", _Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2017)_, Halifax, Canada, August 2017, pp. 345-354, doi: 10.1145/3097983.3097984, EI:  20173704157018. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/KDD2017-NMIL.pdf)
 
-* Yang Yang<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Zhoujun Li, Xiaoming Zhang, Philip S. Yu, "A Robust Method for Inferring Network Structures", _Scientific Reports_, vol. 7, no. 5221, pp. 1-12, 2017, doi: 10.1038/s41598-017-04725-2, WOS:000405425000025. (IF: 4.576)[[PDF]](https://HorizonAILab.github.io/papers/SR2017-ISSS.pdf)
+* Yang Yang<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Zhoujun Li, Xiaoming Zhang, Philip S. Yu, "A Robust Method for Inferring Network Structures", _Scientific Reports_, vol. 7, no. 5221, pp. 1-12, 2017, doi: 10.1038/s41598-017-04725-2, WOS:000405425000025. (JCR Q2, IF: 4.576)[[PDF]](https://HorizonAILab.github.io/papers/SR2017-ISSS.pdf)
  
-* Chenping Hou, Yuanyuan Jiao, Feiping Nie, **Tingjin Luo**, Zhi-Hua Zhou<sup>#</sup>, "2D Feature Selection by Sparse Matrix Regression". _IEEE Transations on Image Processing_, vol. 26, no. 9, pp. 4255-4268, 2017, doi: 10.1109/TIP.2017.2713948, WOS:000405395900001. (CCF A类期刊, IF: 9.340) [[PDF]](https://HorizonAILab.github.io/papers/TIP2017-2DFS.pdf)
+* Chenping Hou, Yuanyuan Jiao, Feiping Nie, **Tingjin Luo**, Zhi-Hua Zhou<sup>#</sup>, "2D Feature Selection by Sparse Matrix Regression". _IEEE Transations on Image Processing_, vol. 26, no. 9, pp. 4255-4268, 2017, doi: 10.1109/TIP.2017.2713948, WOS:000405395900001. (CCF A, IF: 9.340) [[PDF]](https://HorizonAILab.github.io/papers/TIP2017-2DFS.pdf)
 
 * Guangtao Wang, Jiayu Zhou, Jingjie Ni, **Tingjin Luo**, Wei Long, Hai Zhen, Gao Cong, Jieping Ye<sup>#</sup>, "Robust Self-Tuning Sparse Subspace Clustering", _Procedings of 17th IEEE International Conference on Data Mining Workshops (ICDMW 2017)_, pp.858-865, New Orleans, USA, 2017, doi: 10.1109/ICDMW.2017.117, WOS:000425845700114. [[PDF]](https://HorizonAILab.github.io/papers/ICDMW2017-RSSSC.pdf)
 
 #### Before 2017
 
-* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Dongyun Yi, Jun Zhang, "Discriminative orthogonal elastic preserving projections for classification". Neurocomputing 179: 54-68, 2016, doi: 10.1016/j.neucom.2015.11.037, WOS:000370090300005. (CCF B类期刊, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2016-DOEPP.pdf)
+* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Dongyun Yi, Jun Zhang, "Discriminative orthogonal elastic preserving projections for classification". Neurocomputing 179: 54-68, 2016, doi: 10.1016/j.neucom.2015.11.037, WOS:000370090300005. (CCF B, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2016-DOEPP.pdf)
 
 * 
 
