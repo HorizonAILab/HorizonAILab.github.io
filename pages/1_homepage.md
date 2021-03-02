@@ -134,8 +134,6 @@ permalink: /homepage/
 ---
 ### Alumni
 
-Baolin Guo (Master, 2015-2017) Now with DiDi Lab, China
-
 ---
 
 ### Contact
