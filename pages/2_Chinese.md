@@ -10,10 +10,10 @@ permalink: /Chinese/
 {:toc}
 
 
- 
-### 简介
- 
 | <br>**罗廷金**, 电子科技大学数学科学学院2019级数学专业博士生, 导师为[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)。 本科就读于安徽财经大学统计与应用数学学院, 硕士就读于电子科技大学数学科学学院。目前研究方向包括高维图像处理、张量低秩建模和高性能算法设计。已发表或录用SCI论文8篇（其中第一作者4篇）, 会议论文3篇（其中第一作者2篇）。 <br> <br> **邮箱:** <tingjinluo@hotmail.com> <br>  **个人简历:** [CV-TJ-Luo.pdf](https://HorizonAILab.github.io/images/CV-TJ-Luo.pdf) <br> **链接:** [DBLP](https://dblp.org/pid/175/8608.html) &emsp; [Researchgate](https://www.researchgate.net/profile/Tingjin-Luo)  &emsp; [GitHub](https://github.com/HorizonAILab/) <br><br>| &emsp;![image](https://HorizonAILab.github.io/images/zhengjianzhao.jpg)&emsp; |
+
+| <br> **简介**: **罗廷金**,
+Hi, I am an Associate Professor with the [College of Liberal Arts and Sciences](https://www.nudt.edu.cn/xysz/wlxy/index.htm), [国防科技大学 (NUDT)](https://www.nudt.edu.cn/), Chengdu, China. He has received his B.Eng. and Ph.D degree (advised by [Prof. Dongyun Yi](https://www.researchgate.net/profile/Dongyun-Yi)) from NUDT in 2011 and 2018, respectively. He was a visiting Ph.D. student (advised by [Prof. Jieping Ye](http://www.yelabs.net/)) with the University of Michigan from 2015 to 2017. He has authored more than 30 papers in journals and conferences, such as the IEEE TKDE, IEEE TCYB, IEEE TIP and KDD etc. His research interests focus on machine learning, multi-media analysis, data mining and scene understanding. Dr. Luo received the SESC Outstanding Doctoral Dissertation Award and Hunan Province Outstanding Doctoral Dissertation Award in 2020. He has served/will serve a program committee member of several conferences including IJCAI, AAAI and an organizer for a workshop in ICDM 2020. He is a member of IEEE and CCF.<br> <br> **Email:** <tingjinluo@hotmail.com>  <br> **Follow me:** [DBLP](https://dblp.org/pid/175/8608.html) &emsp; [Researchgate](https://www.researchgate.net/profile/Tingjin-Luo)  &emsp; [GitHub](https://github.com/HorizonAILab/) <br><br>| &emsp;![image](https://HorizonAILab.github.io/images/zhengjianzhao.jpg)&emsp; |
 
 ### 消息
 
