@@ -9,7 +9,8 @@ permalink: /Chinese/
 * 目录
 {:toc}
 
-| <br> **简介**: **罗廷金**,博士，[国防科技大学 (NUDT)](https://www.nudt.edu.cn/)副教授。
+| <br> **简介**: **罗廷金**,博士，[国防科技大学 (NUDT)](https://www.nudt.edu.cn/)副教授。近5年围绕统计学习和情报挖掘开展研究，共发表高水平论文16篇，其中SCI检索13篇，EI检索3篇，一作/通讯9篇，包括CCF A类3篇和JCR一区1篇等。获CSC奖学金到美国密歇根大学进行2年联合培养，并在国际顶会KDD和MLA等会议上作学术报告3次，军内技术单位作专题报告3次。主持国家和湖南省自科青年基金各1项、学校自主科研专项和科研计划各1项、学院教改课题1项。参与国防973、国家优青和湖南省杰青等项目。承担多元统计分析，概率论与数理统计、统计模型与方法、统计预测与决策等课程教学，指导研究生竞赛获三等奖1项和本科毕设3人（1人优秀，2人良好）。担任IEEE TKDE、中国科学、ICML、NIPS等顶级国际期刊和会议审稿人，获学校学术创新之星、优秀党务工作者等多项荣誉。
+
 Hi, I am an Associate Professor with the [College of Liberal Arts and Sciences](https://www.nudt.edu.cn/xysz/wlxy/index.htm), , Chengdu, China. He has received his B.Eng. and Ph.D degree (advised by [Prof. Dongyun Yi](https://www.researchgate.net/profile/Dongyun-Yi)) from NUDT in 2011 and 2018, respectively. He was a visiting Ph.D. student (advised by [Prof. Jieping Ye](http://www.yelabs.net/)) with the University of Michigan from 2015 to 2017. He has authored more than 30 papers in journals and conferences, such as the IEEE TKDE, IEEE TCYB, IEEE TIP and KDD etc. His research interests focus on machine learning, multi-media analysis, data mining and scene understanding. Dr. Luo received the SESC Outstanding Doctoral Dissertation Award and Hunan Province Outstanding Doctoral Dissertation Award in 2020. He has served/will serve a program committee member of several conferences including IJCAI, AAAI and an organizer for a workshop in ICDM 2020. He is a member of IEEE and CCF.
 <br> <br> **Email:** <tingjinluo@hotmail.com>  <br> **Follow me:** [DBLP](https://dblp.org/pid/175/8608.html) &emsp; [Researchgate](https://www.researchgate.net/profile/Tingjin-Luo)  &emsp; [GitHub](https://github.com/HorizonAILab/) <br><br>| &emsp;![image](https://HorizonAILab.github.io/images/zhengjianzhao.jpg)&emsp; |
 
