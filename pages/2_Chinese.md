@@ -20,7 +20,7 @@ Hi, I am an Associate Professor with the [College of Liberal Arts and Sciences](
 
 ### 学术论文
 
-(* indicates equal contributions, and # indicates advisees)
+(*为同等贡献作者, #为通讯作者)
 
 #### 2021
 
