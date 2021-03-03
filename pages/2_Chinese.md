@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 中文版（罗廷金）
+title: 中文版
 comments: true
 permalink: /Chinese/
 

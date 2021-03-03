@@ -1,6 +1,6 @@
 ---
 layout: page
-title: English (Tingjin Luo)
+title: English
 comments: true
 permalink: /homepage/
 
