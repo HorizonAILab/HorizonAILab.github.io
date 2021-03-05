@@ -115,7 +115,6 @@ permalink: /homepage/
 * Multivariate Statistical Analysis -- 2020 Fall, NUDT
 
 ### Projects
-* Grant Number: Name, 2017.9 - 2021.8. [[Link]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
 
 ### Talks
 
