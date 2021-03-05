@@ -92,7 +92,7 @@ permalink: /homepage/
 
 * 06/2018-21/2020: National University of Defense Technology (NUDT), Assistant Professor in College of Liberal Arts and Sciences
 
-* 03/2014-06/2018: National University of Defense Technology (NUDT), Ph. D. student in System Analysis and Integration (Supervisor: [Prof. Dongyun Yi](https://www.researchgate.net/profile/Dongyun-Yi)
+* 03/2014-06/2018: National University of Defense Technology (NUDT), Ph. D. student in System Analysis and Integration (Supervisor: [Prof. Dongyun Yi](https://www.researchgate.net/profile/Dongyun-Yi))
 
 * 09/2011-12/2013: National University of Defense Technology (NUDT), Master student in Systems Engineering (Supervisor: [Prof. Jun Zhang](https://www.researchgate.net/profile/Jun-Zhang-75))
 
