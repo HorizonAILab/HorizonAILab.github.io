@@ -24,7 +24,7 @@ permalink: /homepage/
 
 ### Preprints and Working Papers
 (* indicates equal contributions, and # indicates advisees)
-
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Jun Lei, Shuohao Li, "Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation", in _IEEE International Conference on Multimedia and Expo (ICME)_, Shenzhen, China, July 5-9, 2021, Submitted. (CCF B)
 
 ### Publications
 (* indicates equal contributions, and # indicates advisees)
