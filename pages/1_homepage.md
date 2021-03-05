@@ -88,7 +88,9 @@ permalink: /homepage/
 
 ### Education & Work
 
-* 06/2018-Current: National University of Defense Technology (NUDT), Assistant Professor in College of Liberal Arts and Sciences
+* 12/2020-Current: National University of Defense Technology (NUDT), Associate Professor in College of Liberal Arts and Sciences
+
+* 06/2018-21/2020: National University of Defense Technology (NUDT), Assistant Professor in College of Liberal Arts and Sciences
 
 * 03/2014-06/2018: National University of Defense Technology (NUDT), Ph. D. student in System Analysis and Integration (Supervisor: [Prof. Dongyun Yi](https://www.researchgate.net/profile/Dongyun-Yi)
 
