@@ -36,9 +36,9 @@ permalink: /homepage/
 
 #### 2021
 
-* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Jun Lei, Shuohao Li, "Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation", in _IEEE International Conference on Multimedia and Expo (ICME)_, Shenzhen, China, July 5-9, 2021, Accepted. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/ICME2021-RPDGAT.pdf)
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Jun Lei, Shuohao Li, "Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation", in _IEEE International Conference on Multimedia and Expo (ICME)_, Shenzhen, China, July 5-9, 2021, **Accepted**. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/ICME2021-RPDGAT.pdf)
 
-* Xijia Tang, **Tingjin Luo**<sup>#</sup>, Tianxiang Luan, Chenping Hou, "Multiple Instance Learning for Unilateral Data", in _Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021)_, **accepted**, Delhi, India, 2021. (CCF C) [[PDF]](https://HorizonAILab.github.io/papers/PAKDD2021-MILUD.pdf)
+* Xijia Tang, **Tingjin Luo**<sup>#</sup>, Tianxiang Luan, Chenping Hou, "Multiple Instance Learning for Unilateral Data", in _Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021)_, **Accepted**, Delhi, India, 2021. (CCF C) [[PDF]](https://HorizonAILab.github.io/papers/PAKDD2021-MILUD.pdf)
 
 * Xinyue Dong, Shilin Gu, Wenzhang Zhuge, **Tingjin Luo**, Chenping Hou<sup>#</sup>, "Active Label Distribution Learning", _Neurocomputing_, vol. 436, pp. 12-21, 2021, DOI: 10.1016/j.neucom.2020.12.128. (CCF B, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2021-ALDL.pdf)
 
