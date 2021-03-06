@@ -24,13 +24,14 @@ permalink: /homepage/
 
 ### Preprints and Working Papers
 (* indicates equal contributions, and # indicates advisees)
+
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Jun Lei, Shuohao Li, "Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation", in _IEEE International Conference on Multimedia and Expo (ICME)_, Shenzhen, China, July 5-9, 2021, Submitted. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/ICME2021-RPDGAT.pdf)
 
 * Hao Zhou, Yazhou Yang, **Tingjin Luo**<sup>#</sup>, Jun Zhang<sup>#</sup>, Jun Lei, Shuohao Li, "An Unified Deep Sparse Graph Attention Network for Scene Graph Generation", _Pattern Recognition_, 2021, Submitted. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-DSGAT.pdf)
 
-* Xinyue Dong, Ruidong Fan, Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Chenping Hou<sup>#</sup>,, "Active Label Distribution Learning via Kernel Maximum Mean Discrepancy", _IEEE Transactions on Artificial Intelligence_, 2021, Submitted. [[PDF]](https://HorizonAILab.github.io/papers/IEEETAI2021-KALDL.pdf)
+* Xinyue Dong, Ruidong Fan, Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Chenping Hou<sup>#</sup>,, "Active Label Distribution Learning via Kernel Maximum Mean Discrepancy", _IEEE Transactions on Artificial Intelligence_, 2021, Submitted. [[PDF]](https://HorizonAILab.github.io/papers/TAI2021-KALDL.pdf)
 
-* Ningzhao Sun<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dewen Hu<sup>#</sup>, "Semi-supervised Learning with Label Proportion",  _IEEE Transactions on Knowledge and Data Engineering_, **Major Revision**. (CCF A, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/IEEETKDE2021-SSLLP.pdf)
+* Ningzhao Sun<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dewen Hu<sup>#</sup>, "Semi-supervised Learning with Label Proportion",  _IEEE Transactions on Knowledge and Data Engineering_, **Major Revision**. (CCF A, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2021-SSLLP.pdf)
 
 ### Publications
 (* indicates equal contributions, and # indicates advisees)
@@ -43,17 +44,17 @@ permalink: /homepage/
 
 #### 2020
 
-* Ruidong Fan, **Tingjin Luo**, Wenzhang Zhuge, Sheng Qiang, Chenping Hou<sup>#</sup>, "Multi-view Subspace Learning via Bidirectional Sparsity", _Pattern Recognition_, 108: 107524, 2020, DOI: 10.1016/j.patcog.2020.107524, (CCF B, IF: 7.196). [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)[[Code]](https://HorizonAILab.github.io/codes/TGRS_FRCTR_PnP)
+* Ruidong Fan, **Tingjin Luo**, Wenzhang Zhuge, Sheng Qiang, Chenping Hou<sup>#</sup>, "Multi-view Subspace Learning via Bidirectional Sparsity", _Pattern Recognition_, 108: 107524, 2020, DOI: 10.1016/j.patcog.2020.107524, (CCF B, IF: 7.196). [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)[[Code]](https://HorizonAILab.github.io/codes/MvSLBS)
 
 * Tianxiang Luan, **Tingjin Luo**, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, "Optimal Representative Distribution Margin Machine for Multi-Instance Learning", _IEEE Access_, vol. 8, pp. 74864-74874, 2020, DOI: 10.1109/ACCESS.2020.2988764. (IF: 3.745). [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MIORDM.pdf)
 
 * Wenzhang Zhuge, **Tingjin Luo**, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, "Multi-View Spectral Clustering With Incomplete Graphs", _IEEE Access_, vol. 8, pp. 99820-99831, 2020, DOI: 10.1109/ACCESS.2020.2997755. (IF: 3.745) [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
 
-* Wenzhang Zhuge, Hong Tao, **Tingjin Luo**, Linli Zeng, Chenping Hou<sup>#</sup>, Dongyun Yi, "Joint Representation Learning and Clustering: A Framework for Grouping Partial Multiview Data", _IEEE Transactions on Knowledge and Data Engineering_, **accepted**, DOI: 10.1109/TKDE.2020.3028422. (CCF A, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
+* Wenzhang Zhuge, Hong Tao, **Tingjin Luo**, Linli Zeng, Chenping Hou<sup>#</sup>, Dongyun Yi, "Joint Representation Learning and Clustering: A Framework for Grouping Partial Multiview Data", _IEEE Transactions on Knowledge and Data Engineering_, **accepted**, DOI: 10.1109/TKDE.2020.3028422. (CCF A, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2020-JRLC.pdf)
 
 #### 2019
 
-* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Feiping Nie, Dongyun Yi, "Dimension Reduction for Non-Gaussian Data by Adaptive Discriminative Analysis", _IEEE Transactions on Cybernetics_, vol. 49, no. 3, pp. 933-946, March 2019, DOI: 10.1109/TCYB.2018.2789524. (JCR Q1, IF: 11.079) [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
+* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Feiping Nie, Dongyun Yi, "Dimension Reduction for Non-Gaussian Data by Adaptive Discriminative Analysis", _IEEE Transactions on Cybernetics_, vol. 49, no. 3, pp. 933-946, March 2019, DOI: 10.1109/TCYB.2018.2789524. (JCR Q1, IF: 11.079) [[PDF]](https://HorizonAILab.github.io/papers/TCYB2019-ADA.pdf)
 
 * Zhipeng Lin, Zhenyu Zhao, **Tingjin Luo**<sup>#</sup>, Wenjing Yang, Yongjun Zhang, Yuhua Tang, "Non-Convex Transfer Subspace Learning for Unsupervised Domain Adaptation", _Proceedings of IEEE International Conference on Multimedia and Expo (ICME 2019)_, Shanghai, China, 2019, pp. 1468-1473, DOI: 10.1109/ICME.2019.00254, EI: 20193407349323. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/ICME2019-NTSL.pdf)
 
