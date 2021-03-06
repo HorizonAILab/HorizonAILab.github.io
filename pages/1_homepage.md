@@ -25,8 +25,6 @@ permalink: /homepage/
 ### Preprints and Working Papers
 (* indicates equal contributions, and # indicates advisees)
 
-* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Jun Lei, Shuohao Li, "Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation", in _IEEE International Conference on Multimedia and Expo (ICME)_, Shenzhen, China, July 5-9, 2021, Submitted. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/ICME2021-RPDGAT.pdf)
-
 * Hao Zhou, Yazhou Yang, **Tingjin Luo**<sup>#</sup>, Jun Zhang<sup>#</sup>, Jun Lei, Shuohao Li, "An Unified Deep Sparse Graph Attention Network for Scene Graph Generation", _Pattern Recognition_, 2021, Submitted. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-DSGAT.pdf)
 
 * Xinyue Dong, Ruidong Fan, Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Chenping Hou<sup>#</sup>,, "Active Label Distribution Learning via Kernel Maximum Mean Discrepancy", _IEEE Transactions on Artificial Intelligence_, 2021, Submitted. [[PDF]](https://HorizonAILab.github.io/papers/TAI2021-KALDL.pdf)
@@ -37,6 +35,8 @@ permalink: /homepage/
 (* indicates equal contributions, and # indicates advisees)
 
 #### 2021
+
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Jun Lei, Shuohao Li, "Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation", in _IEEE International Conference on Multimedia and Expo (ICME)_, Shenzhen, China, July 5-9, 2021, Accepted. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/ICME2021-RPDGAT.pdf)
 
 * Xijia Tang, **Tingjin Luo**<sup>#</sup>, Tianxiang Luan, Chenping Hou, "Multiple Instance Learning for Unilateral Data", in _Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021)_, **accepted**, Delhi, India, 2021. (CCF C) [[PDF]](https://HorizonAILab.github.io/papers/PAKDD2021-MILUD.pdf)
 
