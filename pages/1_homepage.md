@@ -135,11 +135,7 @@ permalink: /homepage/
 
 * Area Chair: Dynamic Feature Mining of ICDM Workshop
 
-* Associate Editor:
-
 * Conference Program Committee: AAAI 2019-2020, ICLR 2019-2021, NeurIPS 2019-2020, IJCAI 2018-2021, ICPR 2016-2021
-
-* Guest Editor: 
 
 * Journal Reviewer: IEEE TKDE, IEEE Access, 中国科学, Neurocomputing, Plos One, Information Processing & Management, International Journal of Intelligent Systems
 
