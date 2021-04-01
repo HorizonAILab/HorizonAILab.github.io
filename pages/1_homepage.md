@@ -60,7 +60,7 @@ permalink: /homepage/
 
 #### 2019
 
-* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Feiping Nie, Dongyun Yi, "Dimension Reduction for Non-Gaussian Data by Adaptive Discriminative Analysis", _IEEE Transactions on Cybernetics_, vol. 49, no. 3, pp. 933-946, March 2019, DOI: 10.1109/TCYB.2018.2789524. (JCR Q1, IF: 11.079) [[PDF]](https://HorizonAILab.github.io/papers/TCYB2019-ADA.pdf)[[CODE]](https://HorizonAILab.github.io/codes/code-ADA.zip)
+* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Feiping Nie, Dongyun Yi, "Dimension Reduction for Non-Gaussian Data by Adaptive Discriminative Analysis", _IEEE Transactions on Cybernetics_, vol. 49, no. 3, pp. 933-946, March 2019, DOI: 10.1109/TCYB.2018.2789524. (JCR Q1, IF: 11.079) [[PDF]](https://HorizonAILab.github.io/papers/TCYB2019-ADA.pdf)[[CODE]](https://HorizonAILab.github.io/codes/code_ADA.zip)
 
 * Zhipeng Lin, Zhenyu Zhao, **Tingjin Luo**<sup>#</sup>, Wenjing Yang, Yongjun Zhang, Yuhua Tang, "Non-Convex Transfer Subspace Learning for Unsupervised Domain Adaptation", _Proceedings of IEEE International Conference on Multimedia and Expo (ICME 2019)_, Shanghai, China, 2019, pp. 1468-1473, DOI: 10.1109/ICME.2019.00254, EI: 20193407349323. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/ICME2019-NTSL.pdf)
 
