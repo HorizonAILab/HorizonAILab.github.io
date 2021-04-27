@@ -33,8 +33,6 @@ permalink: /homepage/
 
 * Xinyue Dong, Ruidong Fan, Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Chenping Hou<sup>#</sup>,, "Active Label Distribution Learning via Kernel Maximum Mean Discrepancy", _IEEE Transactions on Artificial Intelligence_, 2021, Submitted. [[PDF]](https://HorizonAILab.github.io/papers/TAI2021-KALDL.pdf)
 
-* Ningzhao Sun<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dewen Hu<sup>#</sup>, "Semi-supervised Learning with Label Proportion",  _IEEE Transactions on Knowledge and Data Engineering_, **Major Revision**. (CCF A, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2021-SSLLP.pdf)
-
 * Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, "Absent Multi-view Semi-supervised Classification", _IEEE Transactions on Cybernetics_, 2021, Major Revision. (JCR Q1, IF: 11.079) [[PDF]](https://HorizonAILab.github.io/papers/IEEETCYB-AMSC.pdf)
 
 ### Publications
@@ -47,6 +45,8 @@ permalink: /homepage/
 * Xijia Tang, **Tingjin Luo**<sup>#</sup>, Tianxiang Luan, Chenping Hou, "Multiple Instance Learning for Unilateral Data", in _Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021)_, **Accepted**, Delhi, India, 2021. (CCF C) [[PDF]](https://HorizonAILab.github.io/papers/PAKDD2021-MILUD.pdf)
 
 * Xinyue Dong, Shilin Gu, Wenzhang Zhuge, **Tingjin Luo**, Chenping Hou<sup>#</sup>, "Active Label Distribution Learning", _Neurocomputing_, vol. 436, pp. 12-21, 2021, DOI: 10.1016/j.neucom.2020.12.128. (CCF B, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2021-ALDL.pdf)
+
+* Ningzhao Sun<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dewen Hu<sup>#</sup>, "Semi-supervised Learning with Label Proportion",  _IEEE Transactions on Knowledge and Data Engineering_, **Accepted**. (CCF A, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2021-SSLLP.pdf)
 
 #### 2020
 
