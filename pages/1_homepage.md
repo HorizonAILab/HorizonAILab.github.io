@@ -31,7 +31,7 @@ permalink: /homepage/
 
 * Hao Zhou, Yazhou Yang, **Tingjin Luo**<sup>#</sup>, Jun Zhang<sup>#</sup>, Jun Lei, Shuohao Li, "An Unified Deep Sparse Graph Attention Network for Scene Graph Generation", _Pattern Recognition_, 2021, Major Revision. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-DSGAT.pdf)
 
-* Xinyue Dong, Ruidong Fan, Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Chenping Hou<sup>#</sup>,, "Active Label Distribution Learning via Kernel Maximum Mean Discrepancy", _IEEE Transactions on Artificial Intelligence_, 2021, Submitted. [[PDF]](https://HorizonAILab.github.io/papers/TAI2021-KALDL.pdf)
+* Xinyue Dong, Ruidong Fan, Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Chenping Hou<sup>#</sup>,, "Active Label Distribution Learning via Kernel Maximum Mean Discrepancy", _IEEE Transactions on Emerging Topics in Computational Intelligence_, 2021, Submitted. [[PDF]](https://HorizonAILab.github.io/papers/TAI2021-KALDL.pdf)
 
 * Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, "Absent Multi-view Semi-supervised Classification", _IEEE Transactions on Cybernetics_, 2021, Major Revision. (JCR Q1, IF: 11.079) [[PDF]](https://HorizonAILab.github.io/papers/IEEETCYB-AMSC.pdf)
 
