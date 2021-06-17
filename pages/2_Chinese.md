@@ -13,7 +13,11 @@ permalink: /Chinese/
 
 ### 消息
 
-* 2021.02.09: 文章"Multiple Instance Learning for Unilateral Data" 被机器学习领域会议 _**PAKDD 2021**_接收。
+* 2021.04.27: 恭喜孙宁朝等人的论文"Semi-supervised Learning with Label Proportion"被CCF A类期刊 _**IEEE TKDE**_接收。
+
+* 2021.03.06: 恭喜周皓等人的文章"Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation"被会议 _**ICME 2021**_接收。
+
+* 2021.02.09: 恭喜汤西嘉等人的文章"Multiple Instance Learning for Unilateral Data" 被机器学习领域会议 _**PAKDD 2021**_接收。
 
 ---
 

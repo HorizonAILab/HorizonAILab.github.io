@@ -13,6 +13,8 @@ permalink: /homepage/
 
 ### News and Events
 
+* 2021.04.27: One paper "Semi-supervised Learning with Label Proportion" has been accepted by _**IEEE TKDE**_. Congratulations to Ningzhao Sun and all coauthors.
+
 * 2021.03.06: One paper "Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation" has been accepted by _**ICME 2021**_. Congratulations to Hao Zhou and all coauthors.
 
 * 2021.02.09: One paper "Multiple Instance Learning for Unilateral Data" has been accepted by _**PAKDD 2021**_. Congratulations to Xijia Tang and all coauthors.
