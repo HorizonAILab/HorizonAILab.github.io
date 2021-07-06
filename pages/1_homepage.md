@@ -27,7 +27,7 @@ permalink: /homepage/
 ---
 
 ### Preprints and Working Papers
-(* indicates equal contributions, and # indicates advisees)
+(* indicates equal contributions and # indicates advisees)
 
 * Jing Zhang, Hong Tao, Tingjin Luo, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2021, Under Review. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
 
