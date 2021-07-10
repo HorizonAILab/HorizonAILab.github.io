@@ -131,7 +131,7 @@ permalink: /homepage/
 ### Teaching
 
 * Probability and Mathematical Statistics -- 2020 Spring, 2021 Spring, NUDT
-* Statistical Forecasting and Decision Making -- 2019 Fall, 2020 Fall, NUDT
+* Statistical Forecasting and Decision Making -- 2019 Fall, 2020 Fall, 2021 Fall, NUDT
 * Multivariate Statistical Analysis -- 2020 Fall, NUDT
 
 ### Projects
