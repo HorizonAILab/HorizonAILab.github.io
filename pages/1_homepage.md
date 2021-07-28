@@ -29,9 +29,9 @@ permalink: /homepage/
 ### Preprints and Working Papers
 (* indicates equal contributions and # indicates advisees)
 
-* Jing Zhang, Hong Tao, Tingjin Luo, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2021, Under Review. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
+* Jing Zhang, Hong Tao, Tingjin Luo, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2021, Major Revision. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
 
-* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Zhang<sup>#</sup>, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _International Conference on Computer Vision (ICCV)_, 2021, Submitted. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/ICCV2021-DSDI.pdf)
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Zhang<sup>#</sup>, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _Journal_, 2021, Submitted. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/ICCV2021-DSDI.pdf)
 
 * Hao Zhou, Yazhou Yang, **Tingjin Luo**<sup>#</sup>, Jun Zhang<sup>#</sup>, Jun Lei, Shuohao Li, An Unified Deep Sparse Graph Attention Network for Scene Graph Generation, _Pattern Recognition_, 2021, Major Revision. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-DSGAT.pdf)
 
