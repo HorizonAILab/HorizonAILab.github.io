@@ -118,7 +118,6 @@ permalink: /homepage/
 ---
 
 ### Awards and Honors
-* Outstanding Talents Program of Hunan Province, 07/2021
 * Outstanding Talents Program of NUDT, 07/2021
 * Fund for NUDT Young Innovator Awards, 12/2020
 * SESC Outstanding Doctoral Dissertation, 10/2020 (4 in China)
