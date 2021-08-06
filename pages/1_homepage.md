@@ -134,7 +134,11 @@ permalink: /homepage/
 * Statistical Forecasting and Decision Making -- 2019 Fall, 2020 Fall, 2021 Fall, NUDT
 * Multivariate Statistical Analysis -- 2020 Fall, NUDT
 
-### Projects
+### Projects & Grants
+
+* “Robust Multiple Instance Learning via Sparse Optimization”, National Science Foundation of China, ¥270,000, 01/01/20–12/31/22, PI.
+* “Dynamic Feature Mining and Applications”, Outstanding Youth Fund of NSFC China, ¥1,300,000, 01/01/20–12/31/22, Principle Participant.
+* “High Dimensional Data Analysis”, Distinguished Young Scholars Program of Hunan Provincial Natural Science Fund, ¥500,000, 01/01/19–12/31/21, Principle Participant.
 
 ### Talks
 
