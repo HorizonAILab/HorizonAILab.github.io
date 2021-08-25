@@ -60,7 +60,7 @@ permalink: /homepage/
 
 * Wenzhang Zhuge, **Tingjin Luo**, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Multi-View Spectral Clustering With Incomplete Graphs, _IEEE Access_, vol. 8, pp. 99820-99831, 2020, DOI: 10.1109/ACCESS.2020.2997755. (IF: 3.745) [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
 
-* Wenzhang Zhuge, Hong Tao, **Tingjin Luo**, Linli Zeng, Chenping Hou<sup>#</sup>, Dongyun Yi, Joint Representation Learning and Clustering: A Framework for Grouping Partial Multiview Data, _IEEE Transactions on Knowledge and Data Engineering_, **accepted**, DOI: 10.1109/TKDE.2020.3028422. (CCF A, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2020-JRLC.pdf)
+* Wenzhang Zhuge, Hong Tao, **Tingjin Luo**<sup>#</sup>, Linli Zeng, Chenping Hou<sup>#</sup>, Dongyun Yi, Joint Representation Learning and Clustering: A Framework for Grouping Partial Multiview Data, _IEEE Transactions on Knowledge and Data Engineering_, **accepted**, DOI: 10.1109/TKDE.2020.3028422. (CCF A, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2020-JRLC.pdf)
 
 #### 2019
 
