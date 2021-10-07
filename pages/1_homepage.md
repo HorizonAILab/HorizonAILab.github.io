@@ -13,6 +13,8 @@ permalink: /homepage/
 
 ### News and Events
 
+* 2021.10.06: One paper "A Unified Deep Sparse Graph Attention Network for Scene Graph Generation" accepted by _**Pattern Recognition**_. Congratulations to Hao Zhou and all coauthors.
+
 * 2021.04.27: One paper "Semi-supervised Learning with Label Proportion" accepted by _**IEEE TKDE**_. Congratulations to Ningzhao Sun and all coauthors.
 
 * 2021.03.06: One paper "Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation" accepted by _**ICME 2021**_. Congratulations to Hao Zhou and all coauthors.
@@ -33,8 +35,6 @@ permalink: /homepage/
 
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Zhang<sup>#</sup>, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Journal_, 2021, Submitted. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/IEEE-DSDI.pdf)
 
-* Hao Zhou, Yazhou Yang, **Tingjin Luo**<sup>#</sup>, Jun Zhang<sup>#</sup>, Jun Lei, Shuohao Li, An Unified Deep Sparse Graph Attention Network for Scene Graph Generation, _Pattern Recognition_, 2021, Major Revision. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-DSGAT.pdf)
-
 * Xinyue Dong, Ruidong Fan, Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _IEEE Transactions on Emerging Topics in Computational Intelligence_, 2021, Submitted. [[PDF]](https://HorizonAILab.github.io/papers/TAI2021-KALDL.pdf)
 
 * Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 2021, Major Revision. (JCR Q1, IF: 11.079) [[PDF]](https://HorizonAILab.github.io/papers/IEEETCYB-AMSC.pdf)
@@ -43,6 +43,8 @@ permalink: /homepage/
 (* indicates equal contributions, and # indicates advisees)
 
 #### 2021
+
+* Hao Zhou, Yazhou Yang, **Tingjin Luo**<sup>#</sup>, Jun Zhang<sup>#</sup>, Jun Lei, Shuohao Li, A Unified Deep Sparse Graph Attention Network for Scene Graph Generation, _Pattern Recognition_, 2021, **Accepted**. (JCR Q1, CCF B) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-DSGAT.pdf)
 
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Jun Lei, Shuohao Li, Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation, in _IEEE International Conference on Multimedia and Expo (ICME)_, Shenzhen, China, July 5-9, 2021, **Accepted**. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/ICME2021-RPDGAT.pdf)
 
