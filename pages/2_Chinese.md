@@ -13,9 +13,11 @@ permalink: /Chinese/
 
 ### 消息
 
+* 2021.10.06: 恭喜周浩等人的论文"A Unified Deep Sparse Graph Attention Network for Scene Graph Generation"被JCR Q1期刊 _**Pattern Recognition**_接收。
+
 * 2021.04.27: 恭喜孙宁朝等人的论文"Semi-supervised Learning with Label Proportion"被CCF A类期刊 _**IEEE TKDE**_接收。
 
-* 2021.03.06: 恭喜周皓等人的文章"Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation"被会议 _**ICME 2021**_接收。
+* 2021.03.06: 恭喜周浩等人的文章"Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation"被会议 _**ICME 2021**_接收。
 
 * 2021.02.09: 恭喜汤西嘉等人的文章"Multiple Instance Learning for Unilateral Data" 被机器学习领域会议 _**PAKDD 2021**_接收。
 
@@ -26,6 +28,8 @@ permalink: /Chinese/
 (*为同等贡献作者, #为通讯作者)
 
 #### 2021
+
+* Hao Zhou, Yazhou Yang, **Tingjin Luo**<sup>#</sup>, Jun Zhang<sup>#</sup>, Jun Lei, Shuohao Li, A Unified Deep Sparse Graph Attention Network for Scene Graph Generation, _Pattern Recognition_, 2021, **Accepted**. (JCR Q1期刊, CCF B类期刊) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-DSGAT.pdf)
 
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Jun Lei, Shuohao Li, "Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation", in _IEEE International Conference on Multimedia and Expo (ICME)_, Shenzhen, China, July 5-9, 2021, **Accepted**. (CCF B类会议) [[PDF]](https://HorizonAILab.github.io/papers/ICME2021-RPDGAT.pdf)
 
