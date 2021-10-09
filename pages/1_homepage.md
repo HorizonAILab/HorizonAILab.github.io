@@ -31,13 +31,20 @@ permalink: /homepage/
 ### Preprints and Working Papers
 (* indicates equal contributions and # indicates advisees)
 
-* 1. Jing Zhang, Hong Tao, Tingjin Luo, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2021, Major Revision. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
+<ol>
+<li>Jing Zhang, Hong Tao, Tingjin Luo, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2021, Major Revision. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)</li>
+<li>Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Zhang<sup>#</sup>, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Journal_, 2021, Submitted. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/IEEE-DSDI.pdf)</li>
+<li>Xinyue Dong, Ruidong Fan, Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _IEEE Transactions on Emerging Topics in Computational Intelligence_, 2021, Submitted. [[PDF]](https://HorizonAILab.github.io/papers/TAI2021-KALDL.pdf)</li>
+<li>Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 2021, Major Revision. (JCR Q1, IF: 11.079) [[PDF]](https://HorizonAILab.github.io/papers/IEEETCYB-AMSC.pdf)</li>
+</ol>
 
-* 1. Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Zhang<sup>#</sup>, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Journal_, 2021, Submitted. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/IEEE-DSDI.pdf)
+* Jing Zhang, Hong Tao, Tingjin Luo, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2021, Major Revision. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
 
-* 1. Xinyue Dong, Ruidong Fan, Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _IEEE Transactions on Emerging Topics in Computational Intelligence_, 2021, Submitted. [[PDF]](https://HorizonAILab.github.io/papers/TAI2021-KALDL.pdf)
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Zhang<sup>#</sup>, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Journal_, 2021, Submitted. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/IEEE-DSDI.pdf)
 
-* 1. Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 2021, Major Revision. (JCR Q1, IF: 11.079) [[PDF]](https://HorizonAILab.github.io/papers/IEEETCYB-AMSC.pdf)
+* Xinyue Dong, Ruidong Fan, Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _IEEE Transactions on Emerging Topics in Computational Intelligence_, 2021, Submitted. [[PDF]](https://HorizonAILab.github.io/papers/TAI2021-KALDL.pdf)
+
+* Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 2021, Major Revision. (JCR Q1, IF: 11.079) [[PDF]](https://HorizonAILab.github.io/papers/IEEETCYB-AMSC.pdf)
 
 ### Publications
 (* indicates equal contributions, and # indicates advisees)
