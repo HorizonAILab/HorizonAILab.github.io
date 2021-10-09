@@ -15,6 +15,8 @@ permalink: /Chinese/
 
 * 2021.10.06: 恭喜周浩等人的论文"A Unified Deep Sparse Graph Attention Network for Scene Graph Generation"被JCR Q1期刊 _**Pattern Recognition**_接收。
 
+* 2021.08.27: 恭喜诸葛文章等人的论文"基于独立自表达学习的不完全多视图聚类方法"被CCF A类期刊 _**中国科学: 信息科学**_接收。
+
 * 2021.04.27: 恭喜孙宁朝等人的论文"Semi-supervised Learning with Label Proportion"被CCF A类期刊 _**IEEE TKDE**_接收。
 
 * 2021.03.06: 恭喜周浩等人的文章"Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation"被会议 _**ICME 2021**_接收。
@@ -37,7 +39,7 @@ permalink: /Chinese/
 
 * Xinyue Dong, Shilin Gu, Wenzhang Zhuge, **Tingjin Luo**, Chenping Hou<sup>#</sup>, "Active Label Distribution Learning", _Neurocomputing_, vol. 436, pp. 12-21, 2021, DOI: 10.1016/j.neucom.2020.12.128. (CCF B类期刊, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2021-ALDL.pdf)
 
-* 诸葛文章，范瑞东，**罗廷金**，陶红，侯臣平，基于独立自表达学习的不完全多视图聚类方法，_中国科学: 信息科学_, 大修. (CCFA类中文期刊，SCI检索)
+* 诸葛文章，范瑞东，**罗廷金**，陶红，侯臣平，基于独立自表达学习的不完全多视图聚类方法，_中国科学: 信息科学_, 录用. (CCFA类中文期刊，SCI检索)
 
 #### 2020
 
