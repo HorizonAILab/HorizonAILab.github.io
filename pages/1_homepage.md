@@ -132,9 +132,9 @@ permalink: /homepage/
 
 ### Projects & Grants
 
-* “Robust Multiple Instance Learning via Sparse Optimization”, National Science Foundation of China, 01/01/20–12/31/22, Principal Investigator.
-* “Dynamic Feature Mining and Applications”, Outstanding Youth Fund of NSFC China, 01/01/20–12/31/22, Principle Participant.
-* “High Dimensional Data Analysis”, Distinguished Young Scholars Program of Hunan Provincial Natural Science Fund, 01/01/19–12/31/21, Principle Participant.
+* “Robust Multiple Instance Learning via Sparse Optimization”, National Science Foundation of China, 2020–2022, Principal Investigator.
+* “Dynamic Feature Mining and Applications”, Outstanding Youth Fund of NSFC China,2020–2022, Principle Participant.
+* “High Dimensional Data Analysis”, Distinguished Young Scholars Program of Hunan Provincial Natural Science Fund, 2019–2021, Principle Participant.
 
 ### Talks
 
