@@ -31,7 +31,7 @@ permalink: /homepage/
 ### Preprints and Working Papers
 (* indicates equal contributions and # indicates advisees)
 
-* Jiacheng Jiang, Hong Tao, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Chenping Hou<sup>#</sup>, Compound Weakly Supervised Clustering,_IEEE Transactions on Image Processing_, 2021, Submitted. [[PDF]](https://HorizonAILab.github.io/papers/TIP2021-CWSC.pdf)
+* Jiacheng Jiang, Hong Tao, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Chenping Hou<sup>#</sup>, Compound Weakly Supervised Clustering,_IEEE Transactions on Image Processing_, 2021, Submitted. (JCR Q1, CCF A) [[PDF]](https://HorizonAILab.github.io/papers/TIP2021-CWSC.pdf)
 
 * Jing Zhang, Hong Tao, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2021, Major Revision. (JCR Q1, CCF B, IF: 7.740) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
 
