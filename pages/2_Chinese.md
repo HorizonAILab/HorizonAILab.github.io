@@ -9,7 +9,7 @@ permalink: /Chinese/
 * 目录
 {:toc}
 
-| <br> **简介**: 罗廷金现任[国防科技大学](https://www.nudt.edu.cn/)[文理学院](https://www.nudt.edu.cn/xysz/wlxy/index.htm)副教授。于2018年获国防科技大学博士学位。已在顶级期刊或会议上发表30余篇学术论文，主要包括IEEE TKDE, IEEE TIP, IEEE TCYB, KDD, ICME, PAKDD等。目前担任IEEE TIP、IEEE TKDE、中国科学等10余家国际权威期刊审稿人，并受邀担任ICML、IJCAI、AAAI、ICDM、ICPR等多个国际会议的PC Member。 曾获中国系统工程学会优秀博士学位论文奖、湖南省优秀博士学位论文、学校秀青年创新奖等荣誉。<br> <br> **Email:** <tingjinluo@hotmail.com>  <br> **Follow me:** [DBLP](https://dblp.org/pid/175/8608.html) &emsp; [Researchgate](https://www.researchgate.net/profile/Tingjin-Luo)  &emsp; [GitHub](https://github.com/HorizonAILab/) <br><br>| &emsp;![image](https://HorizonAILab.github.io/images/zhengjianzhao.jpg)&emsp; |
+| <br> **简介**: 罗廷金现任[国防科技大学](https://www.nudt.edu.cn/)[文理学院](https://www.nudt.edu.cn/xysz/wlxy/index.htm)副教授。于2018年获博士学位，已在顶级期刊或会议上发表30余篇学术论文，主要包括IEEE TKDE, IEEE TIP, IEEE TCYB, KDD, ICME, PAKDD等。目前担任IEEE TIP、IEEE TKDE、中国科学等10余家国际权威期刊审稿人，并受邀担任ICML、IJCAI、AAAI、ICDM、ICPR等多个国际会议的PC Member。 曾获中国系统工程学会优秀博士学位论文奖、湖南省优秀博士学位论文、学校秀青年创新奖等荣誉。<br> <br> **Email:** <tingjinluo@hotmail.com>  <br> **Follow me:** [DBLP](https://dblp.org/pid/175/8608.html) &emsp; [Researchgate](https://www.researchgate.net/profile/Tingjin-Luo)  &emsp; [GitHub](https://github.com/HorizonAILab/) <br><br>| &emsp;![image](https://HorizonAILab.github.io/images/zhengjianzhao.jpg)&emsp; |
 
 ### 消息
 
@@ -90,15 +90,10 @@ permalink: /Chinese/
 
 ---
 
-### 教育背景
+### 工作经历
 
-* 03/2014-06/2018: 博士, 国防科技大学 系统分析与集成专业 (导师: [易东云教授](https://www.researchgate.net/profile/Dongyun-Yi))
-
-* 10/2015-09/2017：联合培养博士，美国密歇根大学  计算医学与计算生物专业（导师：[叶杰平教授](http://www.yelabs.net/)）
-
-* 09/2011-12/2013: 硕士, 国防科学技术大学 系统工程专业 (导师: [张  军教授](https://www.researchgate.net/profile/Jun-Zhang-75))
-
-* 09/2007-06/2011: 本科, 国防科学技术大学 系统工程专业
+* 12/2020-至今：副教授，国防科技大学文理学院体系科学系
+* 06/2018-12/2020: 助理讲授, 国防科技大学文理学院数学系
 
 ---
 
