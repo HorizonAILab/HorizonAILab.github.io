@@ -31,9 +31,9 @@ permalink: /homepage/
 ### Preprints and Working Papers
 (* indicates equal contributions and # indicates advisees)
 
-* Jing Zhang, Hong Tao, Tingjin Luo, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2021, Major Revision. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
+* Jing Zhang, Hong Tao, Tingjin Luo, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2021, Major Revision. (JCR Q1, CCF B, IF: 7.740) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
 
-* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Zhang<sup>#</sup>, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Journal_, 2021, Submitted. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/IEEE-DSDI.pdf)
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Zhang<sup>#</sup>, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Journal_, 2021, Submitted. (JCR Q1, CCF A) [[PDF]](https://HorizonAILab.github.io/papers/IEEE-DSDI.pdf)
 
 * Xinyue Dong, Ruidong Fan, Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _IEEE Transactions on Emerging Topics in Computational Intelligence_, 2021, Submitted. [[PDF]](https://HorizonAILab.github.io/papers/TAI2021-KALDL.pdf)
 
@@ -44,7 +44,7 @@ permalink: /homepage/
 
 #### 2021
 
-* Hao Zhou, Yazhou Yang, **Tingjin Luo**<sup>#</sup>, Jun Zhang<sup>#</sup>, Jun Lei, Shuohao Li, A Unified Deep Sparse Graph Attention Network for Scene Graph Generation, _Pattern Recognition_, 2021, **Accepted**. (JCR Q1, CCF B, IF: ) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-DSGAT.pdf)
+* Hao Zhou, Yazhou Yang, **Tingjin Luo**<sup>#</sup>, Jun Zhang<sup>#</sup>, Jun Lei, Shuohao Li, A Unified Deep Sparse Graph Attention Network for Scene Graph Generation, _Pattern Recognition_, 2021, **Accepted**. (JCR Q1, CCF B, IF: 7.740) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-DSGAT.pdf)
 
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Jun Lei, Shuohao Li, Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation, in _IEEE International Conference on Multimedia and Expo (ICME)_, Shenzhen, China, July 5-9, 2021, **Accepted**. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/ICME2021-RPDGAT.pdf)
 
@@ -56,7 +56,7 @@ permalink: /homepage/
 
 #### 2020
 
-* Ruidong Fan, **Tingjin Luo**, Wenzhang Zhuge, Sheng Qiang, Chenping Hou<sup>#</sup>, Multi-view Subspace Learning via Bidirectional Sparsity, _Pattern Recognition_, 108: 107524, 2020, DOI: 10.1016/j.patcog.2020.107524, (CCF B, IF: 7.196). [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)[[Code]](https://HorizonAILab.github.io/codes/MvSLBS)
+* Ruidong Fan, **Tingjin Luo**, Wenzhang Zhuge, Sheng Qiang, Chenping Hou<sup>#</sup>, Multi-view Subspace Learning via Bidirectional Sparsity, _Pattern Recognition_, 108: 107524, 2020, DOI: 10.1016/j.patcog.2020.107524, (CCF B, IF: 7.740). [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)[[Code]](https://HorizonAILab.github.io/codes/MvSLBS)
 
 * Tianxiang Luan, **Tingjin Luo**, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, Optimal Representative Distribution Margin Machine for Multi-Instance Learning, _IEEE Access_, vol. 8, pp. 74864-74874, 2020, DOI: 10.1109/ACCESS.2020.2988764. (IF: 3.745). [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MIORDM.pdf)
 
