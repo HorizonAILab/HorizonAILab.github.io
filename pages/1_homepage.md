@@ -50,7 +50,7 @@ permalink: /homepage/
 
 * Xijia Tang, **Tingjin Luo**<sup>#</sup>, Tianxiang Luan, Chenping Hou, Multiple Instance Learning for Unilateral Data, in _Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021)_, **Accepted**, Delhi, India, 2021. (CCF C) [[PDF]](https://HorizonAILab.github.io/papers/PAKDD2021-MILUD.pdf)
 
-* Xinyue Dong, Shilin Gu, Wenzhang Zhuge, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Active Label Distribution Learning, _Neurocomputing_, vol. 436, pp. 12-21, 2021, DOI: 10.1016/j.neucom.2020.12.128. (CCF B, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2021-ALDL.pdf)
+* Xinyue Dong, Shilin Gu, Wenzhang Zhuge, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Active Label Distribution Learning, _Neurocomputing_, vol. 436, pp. 12-21, 2021, DOI: 10.1016/j.neucom.2020.12.128. (JCR Q1, CCF B, IF: 5.719) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2021-ALDL.pdf)
 
 * Ningzhao Sun<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dewen Hu<sup>#</sup>, Semi-supervised Learning with Label Proportion,  _IEEE Transactions on Knowledge and Data Engineering_, **Accepted**. (CCF A, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2021-SSLLP.pdf)
 
@@ -70,7 +70,7 @@ permalink: /homepage/
 
 * Zhipeng Lin, Zhenyu Zhao, **Tingjin Luo**<sup>#</sup>, Wenjing Yang, Yongjun Zhang, Yuhua Tang, Non-Convex Transfer Subspace Learning for Unsupervised Domain Adaptation, _Proceedings of IEEE International Conference on Multimedia and Expo (ICME 2019)_, Shanghai, China, 2019, pp. 1468-1473, DOI: 10.1109/ICME.2019.00254, EI: 20193407349323. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/ICME2019-NTSL.pdf)
 
-* Haotian Wang, Wenjing Yang<sup>#</sup>, Zhenyu Zhao, **Tingjin Luo**, Ji Wang, Yuhua Tang, Rademacher Dropout: An Adaptive Dropout for Deep Neural Network via Optimizing Generalization Gap, _Neurocomputing_, vol. 357, pp. 177-187, 2019, DOI: 10.1016/j.neucom.2019.05.008. (CCF B, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2019-RademacherDropout.pdf)
+* Haotian Wang, Wenjing Yang<sup>#</sup>, Zhenyu Zhao, **Tingjin Luo**, Ji Wang, Yuhua Tang, Rademacher Dropout: An Adaptive Dropout for Deep Neural Network via Optimizing Generalization Gap, _Neurocomputing_, vol. 357, pp. 177-187, 2019, DOI: 10.1016/j.neucom.2019.05.008. (JCR Q1, CCF B, IF: 5.719) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2019-RademacherDropout.pdf)
 
 * Haodong Yang, Jun Zhang<sup>#</sup>, Shuohao Li<sup>#</sup>, **Tingjin Luo**, Bi-direction Hierarchical LSTM with Spatial-Temporal Attention for Action Recognition, Journal of Intelligent & Fuzzy Systems, vol.36, no. 1, pp. 775-786, 2019, DOI: 10.3233/JIFS-18209. (IF: 1.851) [[PDF]](https://HorizonAILab.github.io/papers/JIFS2019-BHLSTM.pdf)
 
@@ -80,7 +80,7 @@ permalink: /homepage/
 
 * Weizhong Zhang<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Shuang Qiu, Jieping Ye, Deng Cai, Xiaofei He, Jie Wang<sup>#</sup>, Identifying Genetic Risk Factors for Alzheimer's Disease via Shared Tree-Guided Feature Learning Across Multiple Tasks,  _IEEE Transactions on Knowledge and Data Engineering_, vol. 30, no. 11, pp. 2145-2156, 2018, DOI: 10.1109/TKDE.2018.2816029, WOS:000446795900010. (CCF A, IF: 4.935) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2018-STM.pdf)
 
-* Gongmin Lan, Chenping Hou<sup>#</sup>, Feiping Nie, **Tingjin Luo**, Dongyun Yi, Robust Feature Selection via Simultaneous Capped Norm and Sparse Regularizer Minimization, _Neurocomputing_, vol. 283, pp. 228-240, 2018, DOI: 10.1016/j.neucom.2017.12.055, WOS:000424896600021. (CCF B, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2018-RFS.pdf)
+* Gongmin Lan, Chenping Hou<sup>#</sup>, Feiping Nie, **Tingjin Luo**, Dongyun Yi, Robust Feature Selection via Simultaneous Capped Norm and Sparse Regularizer Minimization, _Neurocomputing_, vol. 283, pp. 228-240, 2018, DOI: 10.1016/j.neucom.2017.12.055, WOS:000424896600021. (JCR Q1, CCF B, IF: 5.719) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2018-RFS.pdf)
 
 #### 2017
 * **Tingjin Luo**, Weizhong Zhang, Shuang Qiu, Yang Yang, Dongyun Yi, Guangtao Wang, Jieping Ye<sup>#</sup>, Jie Wang<sup>#</sup>, Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning, _Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2017)_, Halifax, Canada, August 2017, pp. 345-354, DOI: 10.1145/3097983.3097984, EI:  20173704157018. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/KDD2017-NMIL.pdf)
@@ -93,7 +93,7 @@ permalink: /homepage/
 
 #### Before 2017
 
-* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Dongyun Yi, Jun Zhang, Discriminative Orthogonal Elastic Preserving Projections for Classification, _Neurocomputing_, vol. 179, pp. 54-68, 2016, DOI: 10.1016/j.neucom.2015.11.037, WOS:000370090300005. (CCF B, IF: 4.438) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2016-DOEPP.pdf)
+* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Dongyun Yi, Jun Zhang, Discriminative Orthogonal Elastic Preserving Projections for Classification, _Neurocomputing_, vol. 179, pp. 54-68, 2016, DOI: 10.1016/j.neucom.2015.11.037, WOS:000370090300005. (JCR Q1, CCF B, IF: 5.719) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2016-DOEPP.pdf)
 
 * **Tingjin Luo**, Jun Zhang, Lin Lian, Speed up Junction Detector based on Azimuth Consensus by Harris Corner, _Optical Review_, vol. 21, no. 2, pp. 135-142, Mar. 2014, DOI: 10.1007/s10043-014-0021-1, WOS:000334253000005. (IF: )
 
