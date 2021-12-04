@@ -22,6 +22,24 @@ permalink: /homepage/
 * 2021.02.09: One paper "Multiple Instance Learning for Unilateral Data" accepted by _**PAKDD 2021**_. Congratulations to Xijia Tang and all coauthors.
 
 ---
+### Opening Positions
+1. There are opening research positions in my group at all levels, including Postdoc, research assistant, Ph.D. student, and master student. Please send me an E-mail which contains your CV, score sheet, certificates, and representative publications if you are interested.
+
+2. I'm always looking for self-motivated undergraduate students (mainly @NUDT) to join my group for research training!
+
+### Prospective students
+
+I am currently recruiting self-motivated PhD and MPhil students to join our group. Please carefully read the following contents before sending me an E-mail:
+
+**Research interests**: I mainly study how to design advanced machine learning algorithms using mathematical tools, which can be further applied to computer vision, data mining, and other fields. Recent research interests include weakly supervised learning (e.g., semi-supervised learning, label noise robust learning, PU learning, partial label learning, etc.), interactive machine learning (curriculum learning, machine teaching, etc.).
+
+**Admission expectations**: I prefer the students who have solid mathematical foundations, strong programming skills, and good English abilities (listening/speaking/reading/writing). The experiences in research (e.g. academic competition, publications, extracurricular academic activities, etc.) will be a benefit. Besides, I also recommend you take [Machine Learning Course instructed by Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) (or at least one of pattern recognition or computer vision classes) before getting into machine learning research.
+
+**Training objectives**: 1) After carefully organized scientific research training, the students are expected to gain solid professional knowledge, rigorous scientific thinking, strong practical ability, broad academic vision, and important scientific literacy for independent problem discovery, thinking, and solving; 2)Publish high-level and impactful papers in top journals or conferences, and is interested in continuing academic research after graduation.
+
+My promise: 1) Since I have always been in the frontline of scientific research, I will provide you a full range of effective guidance in algorithm design, coding, experimental verification, paper writing, patent application, presentation, etc. 2) Provide you enjoyable scientific research atmosphere, comfortable research environment, generous allowance/rewards, and efficient computing equipment; 3) I will not let you deal with administrative affairs that are not related to your research, so as to ensure that you have sufficient time for your research; 4) For the students who succesfully get their papers accepted by top conferences, I will try my best to financially support them to participate in the conferences; 5) For outstanding PhD students, I will provide a joint training opportunity with overseas universities with a duration of 0.5-2 years; 6) For outstanding graduates, I would be happy to write recommendation letters for job hunting or university application.
+
+---
 
 ### Books and Chapters
 
@@ -157,12 +175,6 @@ permalink: /homepage/
 
 ### Contact
 
-Address: College of Liberal Arts and Sciences, National University of Defense Technology: No.1 Fuyuan Road, Kaifu District, Changsha, Hunan, China
-
-Postcode: 410073
+Address: College of Liberal Arts and Sciences, National University of Defense Technology: No.1 Fuyuan Road, Kaifu District, Changsha, Hunan, China, 410073
 
 Office: Room 4201A, College of Liberal Arts and Sciences, National University of Defense Technology
-
-- Prospective students: I am actively looking for strong and motivated students to join our group! If you are interested in working with me, please apply through the NUDT Master program and mention me in your application (and I can't respond to all individual emails).
-
-- NUDT students: (1) If you are already a graduate student at NUDT, feel free to reach out. (2) I am also accepting undergraduate students for senior thesis advising or independent work. Please fill out this form before e-mailing me. I also recommend you take [Machine Learning Course instructed by Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) (or at least one of pattern recognition or computer vision classes) before getting into machine learning research.
