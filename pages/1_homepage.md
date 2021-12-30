@@ -51,6 +51,8 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 ### Preprints and Working Papers
 (* indicates equal contributions and # indicates advisees)
 
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Jun Lei, Shuohao Li, Not the Statistical Bias, Mining the Essential Causality for Scene Graph Generation via Causal Association Extraction Network, _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition_, 2021, Under Review. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/CVPR-CAE-Net.pdf)
+
 * Jiacheng Jiang, Hong Tao, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Chenping Hou<sup>#</sup>, Compound Weakly Supervised Clustering,_IEEE Transactions on Image Processing_, 2021, Submitted. (JCR Q1, CCF A, IF: 10.856) [[PDF]](https://HorizonAILab.github.io/papers/TIP2021-CWSC.pdf)
 
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Zhang<sup>#</sup>, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2021, Major Revision. (JCR Q1, CCF A, IF: 16.389) [[PDF]](https://HorizonAILab.github.io/papers/IEEE-DSDI.pdf)
