@@ -13,6 +13,8 @@ permalink: /homepage/
 
 ### News and Events
 
+* 2021.12.29: One paper "Safe Incomplete Label Distribution Learning" accepted by _**Pattern Recognition**_. Congratulations to Jing Zhang and all coauthors.
+  
 * 2021.10.06: One paper "A Unified Deep Sparse Graph Attention Network for Scene Graph Generation" accepted by _**Pattern Recognition**_. Congratulations to Hao Zhou and all coauthors.
 
 * 2021.04.27: One paper "Semi-supervised Learning with Label Proportion" accepted by _**IEEE TKDE**_. Congratulations to Ningzhao Sun and all coauthors.
@@ -51,8 +53,6 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Jiacheng Jiang, Hong Tao, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Chenping Hou<sup>#</sup>, Compound Weakly Supervised Clustering,_IEEE Transactions on Image Processing_, 2021, Submitted. (JCR Q1, CCF A, IF: 10.856) [[PDF]](https://HorizonAILab.github.io/papers/TIP2021-CWSC.pdf)
 
-* Jing Zhang, Hong Tao, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2021, Major Revision. (JCR Q1, CCF B, IF: 7.740) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
-
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Zhang<sup>#</sup>, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2021, Major Revision. (JCR Q1, CCF A, IF: 16.389) [[PDF]](https://HorizonAILab.github.io/papers/IEEE-DSDI.pdf)
 
 * Xinyue Dong, Ruidong Fan, Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _Frontiers of Computer Science_, 2021, Submitted. [[PDF]](https://HorizonAILab.github.io/papers/TAI2021-KALDL.pdf)
@@ -70,9 +70,11 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Xijia Tang, **Tingjin Luo**<sup>#</sup>, Tianxiang Luan, Chenping Hou, Multiple Instance Learning for Unilateral Data, in _Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021)_, **Accepted**, Delhi, India, 2021. (CCF C) [[PDF]](https://HorizonAILab.github.io/papers/PAKDD2021-MILUD.pdf)
 
-* Xinyue Dong, Shilin Gu, Wenzhang Zhuge, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Active Label Distribution Learning, _Neurocomputing_, vol. 436, pp. 12-21, 2021, DOI: 10.1016/j.neucom.2020.12.128. (JCR Q1, CCF B, IF: 5.719) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2021-ALDL.pdf)
-
 * Ningzhao Sun<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dewen Hu<sup>#</sup>, Semi-supervised Learning with Label Proportion,  _IEEE Transactions on Knowledge and Data Engineering_, **Accepted**. (CCF A, IF: 6.977) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2021-SSLLP.pdf)
+
+* Jing Zhang, Hong Tao, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2021, **Accepted**. (JCR Q1, CCF B, IF: 7.740) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
+
+* Xinyue Dong, Shilin Gu, Wenzhang Zhuge, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Active Label Distribution Learning, _Neurocomputing_, vol. 436, pp. 12-21, 2021, DOI: 10.1016/j.neucom.2020.12.128. (JCR Q1, CCF B, IF: 5.719) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2021-ALDL.pdf)
 
 #### 2020
 
