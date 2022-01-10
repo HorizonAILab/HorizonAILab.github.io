@@ -46,7 +46,7 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 ### Machine Learning Resources
 - [Practical tips for machine learning practitioners](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), via Pedro Domingos.
 - [The Master Algorithm](http://www.basicbooks.com/full-details?isbn=9780465065707), written by Pedro Domingos.
-- [Introduction to machine learning for social scientists](https://tyleransom.github.io/research/IntroMachineLearning.pdf)Introduction to machine learning for social scientists: Slides from a short presentation that outlines what machine learning is and how social scientists can benefit from using its methods.
+- [Introduction to machine learning for social scientists](https://tyleransom.github.io/research/IntroMachineLearning.pdf), Introduction to machine learning for social scientists: Slides from a short presentation that outlines what machine learning is and how social scientists can benefit from using its methods.
 
 ---
 
