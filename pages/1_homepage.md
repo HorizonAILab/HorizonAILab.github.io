@@ -57,7 +57,7 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 ### Preprints and Working Papers
 (* indicates equal contributions and # indicates advisees)
 
-* Jun Lu, Kai Li, Lu Lin, **Tingjin Luo**. A global k-means algorithm for the heterogeneous regressions.  _Pattern Recognition_, 2022, Under Review. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/PR-2022-globalkmeans.pdf)
+* Jun Lu, Kai Li, Lu Lin, **Tingjin Luo**. A global k-means algorithm for the heterogeneous regressions.  _Pattern Recognition_, 2022, Under Review. (JCR Q1, CCF B, IF: 7.740) [[PDF]](https://HorizonAILab.github.io/papers/PR-2022-globalkmeans.pdf)
 
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Jun Lei, Shuohao Li, Not the Statistical Bias, Mining the Essential Causality for Scene Graph Generation via Causal Association Extraction Network, _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition_, 2021, Under Review. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/CVPR-CAE-Net.pdf)
 
