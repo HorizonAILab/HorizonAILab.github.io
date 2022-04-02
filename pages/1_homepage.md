@@ -73,6 +73,7 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 (* indicates equal contributions, and # indicates advisees)
 
 #### 2022
+
 * Jing Zhang, Hong Tao<sup>#</sup>, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2022, **Accepted**. (JCR Q1, CCF B, IF: 7.740) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
 
 #### 2021
