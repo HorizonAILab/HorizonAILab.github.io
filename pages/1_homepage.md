@@ -13,6 +13,8 @@ permalink: /homepage/
 
 ### News and Events
 
+* 2022.05.27: One paper "Active Label Distribution Learning via Kernel Maximum Mean Discrepancy" accepted by _**Frontiers of Computer Science**_. Congratulations to Xinyue Dong and all coauthors.
+
 * 2021.12.29: One paper "Safe Incomplete Label Distribution Learning" accepted by _**Pattern Recognition**_. Congratulations to Jing Zhang and all coauthors.
   
 * 2021.10.06: One paper "A Unified Deep Sparse Graph Attention Network for Scene Graph Generation" accepted by _**Pattern Recognition**_. Congratulations to Hao Zhou and all coauthors.
@@ -57,15 +59,15 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 ### Preprints and Working Papers
 (* indicates equal contributions and # indicates advisees)
 
+* Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Dewen Hu, Chenping Hou. Incomplete Multi-view Learning under Label Shift. _Thirty-Sixth Conference on Neural Information Processing Systems (NeurIPS 2022)_, 2022, Under Review. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/NeurIPS2022-IMLLS.pdf)
+
 * Jun Lu, Kai Li, Lu Lin, **Tingjin Luo**. A global k-means algorithm for the heterogeneous regressions.  _Pattern Recognition_, 2022, Under Review. (JCR Q1, CCF B, IF: 7.740) [[PDF]](https://HorizonAILab.github.io/papers/PR-2022-globalkmeans.pdf)
 
-* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Jun Lei, Shuohao Li, Not the Statistical Bias, Mining the Essential Causality for Scene Graph Generation via Causal Association Extraction Network, _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition_, 2021, Under Review. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/CVPR-CAE-Net.pdf)
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Jun Lei, Shuohao Li, Not the Statistical Bias, Mining the Essential Causality for Scene Graph Generation via Causal Association Extraction Network, _IEEE Transactions on Image Processing_, 2022, Under Review. (JCR Q1, CCF A, IF: 10.856) [[PDF]](https://HorizonAILab.github.io/papers/TIP2022-CAE-Net.pdf)
 
-* Jiacheng Jiang, Hong Tao, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Chenping Hou<sup>#</sup>, Compound Weakly Supervised Clustering,_IEEE Transactions on Image Processing_, 2021, Submitted. (JCR Q1, CCF A, IF: 10.856) [[PDF]](https://HorizonAILab.github.io/papers/TIP2021-CWSC.pdf)
+* Jiacheng Jiang, Hong Tao, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Chenping Hou<sup>#</sup>, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2021, Submitted. (JCR Q1, CCF A, IF: 10.856) [[PDF]](https://HorizonAILab.github.io/papers/TIP2021-CWSC.pdf)
 
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Zhang<sup>#</sup>, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2021, Major Revision. (JCR Q1, CCF A, IF: 16.389) [[PDF]](https://HorizonAILab.github.io/papers/IEEE-DSDI.pdf)
-
-* Xinyue Dong, Ruidong Fan, Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _Frontiers of Computer Science_, 2021, Submitted. [[PDF]](https://HorizonAILab.github.io/papers/TAI2021-KALDL.pdf)
 
 * Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 2021, Major Revision. (JCR Q1, IF: 11.448) [[PDF]](https://HorizonAILab.github.io/papers/IEEETCYB-AMSC.pdf)
 
@@ -73,6 +75,8 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 (* indicates equal contributions, and # indicates advisees)
 
 #### 2022
+
+* Xinyue Dong, **Tingjin Luo**<sup>#</sup>, Ruidong Fan, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _Frontiers of Computer Science_, 2022, **Accepted**. [[PDF]](https://HorizonAILab.github.io/papers/FCS2022-KALDL.pdf)
 
 * Jing Zhang, Hong Tao<sup>#</sup>, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2022, **Accepted**. (JCR Q1, CCF B, IF: 7.740) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
 
