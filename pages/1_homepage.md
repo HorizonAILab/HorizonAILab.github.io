@@ -13,6 +13,8 @@ permalink: /homepage/
 
 ### News and Events
 
+* 2022.08.09：One paper "Debiased Scene Graph Generation for Dual Imbalance Learning" accepted by _**IEEE Transactions on Pattern Analysis and Machine Intelligence**_. Congratulations to Hao Zhou and all coauthors.
+
 * 2022.05.27: One paper "Active Label Distribution Learning via Kernel Maximum Mean Discrepancy" accepted by _**Frontiers of Computer Science**_. Congratulations to Xinyue Dong and all coauthors.
 
 * 2021.12.29: One paper "Safe Incomplete Label Distribution Learning" accepted by _**Pattern Recognition**_. Congratulations to Jing Zhang and all coauthors.
@@ -67,14 +69,14 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Jiacheng Jiang, Hong Tao, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Chenping Hou<sup>#</sup>, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2021, Submitted. (JCR Q1, CCF A, IF: 10.856) [[PDF]](https://HorizonAILab.github.io/papers/TIP2021-CWSC.pdf)
 
-* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Zhang<sup>#</sup>, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2021, Major Revision. (JCR Q1, CCF A, IF: 16.389) [[PDF]](https://HorizonAILab.github.io/papers/IEEE-DSDI.pdf)
-
 * Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 2021, Major Revision. (JCR Q1, IF: 11.448) [[PDF]](https://HorizonAILab.github.io/papers/IEEETCYB-AMSC.pdf)
 
 ### Publications
 (* indicates equal contributions, and # indicates advisees)
 
 #### 2022
+
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Zhang<sup>#</sup>, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2021, **Accepted**. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://HorizonAILab.github.io/papers/IEEE-DSDI.pdf)
 
 * Xinyue Dong, **Tingjin Luo**<sup>#</sup>, Ruidong Fan, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _Frontiers of Computer Science_, 2022, **Accepted**. [[PDF]](https://HorizonAILab.github.io/papers/FCS2022-KALDL.pdf)
 
