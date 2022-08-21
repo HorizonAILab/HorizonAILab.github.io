@@ -76,7 +76,7 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 #### 2022
 
-* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Zhang<sup>#</sup>, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2021, **Accepted**. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://HorizonAILab.github.io/papers/IEEE-DSDI.pdf)
+* Hao Zhou, Jun Zhang<sup>#</sup>, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2021, **Accepted**. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://HorizonAILab.github.io/papers/IEEE-DSDI.pdf)
 
 * Xinyue Dong, **Tingjin Luo**<sup>#</sup>, Ruidong Fan, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _Frontiers of Computer Science_, 2022, **Accepted**. [[PDF]](https://HorizonAILab.github.io/papers/FCS2022-KALDL.pdf)
 
