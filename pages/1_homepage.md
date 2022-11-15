@@ -82,6 +82,8 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Jing Zhang, Hong Tao<sup>#</sup>, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2022, **Accepted**. (JCR Q1, CCF B, IF: 7.740) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
 
+* Wenzhang Zhuge, Hong Tao, **Tingjin Luo**<sup>#</sup>, Linli Zeng, Chenping Hou<sup>#</sup>, Dongyun Yi, Joint Representation Learning and Clustering: A Framework for Grouping Partial Multiview Data, _IEEE Transactions on Knowledge and Data Engineering_, 34(8): 3826 - 3840, 2022.08, DOI: 10.1109/TKDE.2020.3028422. (CCF A, IF: 6.977) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2020-JRLC.pdf)
+
 * Xijia Tang, Chao Xu, **Tingjin Luo**, Chenping Hou<sup>#</sup>. Multi-instance positive and unlabeled learning with bi-level embedding, _Intelligent Data Analysis_, 26(3): 659-678, 2022. 
 
 #### 2021
