@@ -61,7 +61,7 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 ### Preprints and Working Papers
 (* indicates equal contributions and # indicates advisees)
 
-* Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Dewen Hu, Chenping Hou. Incomplete Multi-view Learning under Label Shift. _Thirty-Sixth Conference on Neural Information Processing Systems (NeurIPS 2022)_, 2022, Under Review. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/NeurIPS2022-IMLLS.pdf)
+* Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Dewen Hu, Chenping Hou. Incomplete Multi-view Learning under Label Shift. _IEEE Transactions on Image Processing_, 2022, Under Review. (JCR Q1, CCF A, IF: 10.856) [[PDF]](https://HorizonAILab.github.io/papers/NeurIPS2022-IMLLS.pdf)
 
 * Jun Lu, Kai Li, Lu Lin, **Tingjin Luo**. A global k-means algorithm for the heterogeneous regressions.  _Pattern Recognition_, 2022, Under Review. (JCR Q1, CCF B, IF: 7.740) [[PDF]](https://HorizonAILab.github.io/papers/PR-2022-globalkmeans.pdf)
 
