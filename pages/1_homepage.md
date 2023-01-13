@@ -61,15 +61,17 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 ### Preprints and Working Papers
 (* indicates equal contributions and # indicates advisees)
 
-* Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Dewen Hu, Chenping Hou. Incomplete Multi-view Learning under Label Shift. _IEEE Transactions on Image Processing_, 2022, Under Review. (JCR Q1, CCF A, IF: 10.856) [[PDF]](https://HorizonAILab.github.io/papers/NeurIPS2022-IMLLS.pdf)
+* Shilin Gu, **Tingjin Luo**, Ming He, and Chenping Hou, Online Learning with Incremental Feature Space and Bandit Feedback, _IEEE Transactions on Knowledge and Data Engineering_, 2022, Major Revision. (CCF A, IF: 9.235)
 
-* Jun Lu, Kai Li, Lu Lin, **Tingjin Luo**. A global k-means algorithm for the heterogeneous regressions.  _Pattern Recognition_, 2022, Under Review. (JCR Q1, CCF B, IF: 7.740) [[PDF]](https://HorizonAILab.github.io/papers/PR-2022-globalkmeans.pdf)
+* Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Dewen Hu, Chenping Hou. Incomplete Multi-view Learning under Label Shift. _IEEE Transactions on Image Processing_, 2022, Under Review. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://HorizonAILab.github.io/papers/NeurIPS2022-IMLLS.pdf)
 
-* Hao Zhou, Jun Zhang, **Tingjin Luo**<sup>#</sup>, Jun Lei, Shuohao Li, Not the Statistical Bias, Mining the Essential Causality for Scene Graph Generation via Causal Association Extraction Network, _IEEE Transactions on Image Processing_, 2022, Under Review. (JCR Q1, CCF A, IF: 10.856) [[PDF]](https://HorizonAILab.github.io/papers/TIP2022-CAE-Net.pdf)
+* Jun Lu, Kai Li, Lu Lin, **Tingjin Luo**. A global k-means algorithm for the heterogeneous regressions.  _Pattern Recognition_, 2022, Under Review. (JCR Q1, CCF B, IF: 8.518) [[PDF]](https://HorizonAILab.github.io/papers/PR-2022-globalkmeans.pdf)
 
-* Jiacheng Jiang, Hong Tao, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Chenping Hou<sup>#</sup>, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2021, Submitted. (JCR Q1, CCF A, IF: 10.856) [[PDF]](https://HorizonAILab.github.io/papers/TIP2021-CWSC.pdf)
+* Hao Zhou, Jun Zhang, **Tingjin Luo**<sup>#</sup>, Jun Lei, Shuohao Li, Not the Statistical Bias, Mining the Essential Causality for Scene Graph Generation via Causal Association Extraction Network, _IEEE Transactions on Image Processing_, 2022, Under Review. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://HorizonAILab.github.io/papers/TIP2022-CAE-Net.pdf)
 
-* Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 2021, Major Revision. (JCR Q1, IF: 11.448) [[PDF]](https://HorizonAILab.github.io/papers/IEEETCYB-AMSC.pdf)
+* Jiacheng Jiang, Hong Tao, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Chenping Hou<sup>#</sup>, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2021, Major Revision. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://HorizonAILab.github.io/papers/TIP2021-CWSC.pdf)
+
+* Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 2021, Minor Revision. (JCR Q1, IF: 19.118) [[PDF]](https://HorizonAILab.github.io/papers/IEEETCYB-AMSC.pdf)
 
 ### Publications
 (* indicates equal contributions, and # indicates advisees)
@@ -78,9 +80,9 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Hao Zhou, Jun Zhang<sup>#</sup>, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2021, **Accepted**. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://HorizonAILab.github.io/papers/IEEE-DSDI.pdf)
 
-* Xinyue Dong, **Tingjin Luo**<sup>#</sup>, Ruidong Fan, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _Frontiers of Computer Science_, 2022, **Accepted**. [[PDF]](https://HorizonAILab.github.io/papers/FCS2022-KALDL.pdf)
+* Xinyue Dong, **Tingjin Luo**<sup>#</sup>, Ruidong Fan, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _Frontiers of Computer Science_, 2022, **Accepted**.  (JCR Q2, CCF B, 计算领域T1级期刊, IF: 2.669) [[PDF]](https://HorizonAILab.github.io/papers/FCS2022-KALDL.pdf)
 
-* Jing Zhang, Hong Tao<sup>#</sup>, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2022, **Accepted**. (JCR Q1, CCF B, IF: 7.740) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
+* Jing Zhang, Hong Tao<sup>#</sup>, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2022, **Accepted**. (JCR Q1, CCF B, IF: 8.518) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
 
 * Wenzhang Zhuge, Hong Tao, **Tingjin Luo**<sup>#</sup>, Linli Zeng, Chenping Hou<sup>#</sup>, Dongyun Yi, Joint Representation Learning and Clustering: A Framework for Grouping Partial Multiview Data, _IEEE Transactions on Knowledge and Data Engineering_, 34(8): 3826 - 3840, 2022.08, DOI: 10.1109/TKDE.2020.3028422. (CCF A, IF: 9.235) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2020-JRLC.pdf)
 
@@ -88,7 +90,7 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 #### 2021
 
-* Hao Zhou, Yazhou Yang, **Tingjin Luo**<sup>#</sup>, Jun Zhang<sup>#</sup>, Jun Lei, Shuohao Li, A Unified Deep Sparse Graph Attention Network for Scene Graph Generation, _Pattern Recognition_, 2021, **Accepted**. (JCR Q1, CCF B, IF: 7.740) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-DSGAT.pdf)
+* Hao Zhou, Yazhou Yang, **Tingjin Luo**<sup>#</sup>, Jun Zhang<sup>#</sup>, Jun Lei, Shuohao Li, A Unified Deep Sparse Graph Attention Network for Scene Graph Generation, _Pattern Recognition_, 2021, **Accepted**. (JCR Q1, CCF B, IF: 8.518) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-DSGAT.pdf)
 
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Jun Lei, Shuohao Li, Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation, in _IEEE International Conference on Multimedia and Expo (ICME)_, Shenzhen, China, July 5-9, 2021, **Accepted**. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/ICME2021-RPDGAT.pdf)
 
@@ -100,7 +102,7 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 #### 2020
 
-* Ruidong Fan, **Tingjin Luo**, Wenzhang Zhuge, Sheng Qiang, Chenping Hou<sup>#</sup>, Multi-view Subspace Learning via Bidirectional Sparsity, _Pattern Recognition_, 108: 107524, 2020, DOI: 10.1016/j.patcog.2020.107524, (JCR Q1, CCF B, IF: 7.740). [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)[[Code]](https://HorizonAILab.github.io/codes/MvSLBS)
+* Ruidong Fan, **Tingjin Luo**, Wenzhang Zhuge, Sheng Qiang, Chenping Hou<sup>#</sup>, Multi-view Subspace Learning via Bidirectional Sparsity, _Pattern Recognition_, 108: 107524, 2020, DOI: 10.1016/j.patcog.2020.107524, (JCR Q1, CCF B, IF: 8.518). [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)[[Code]](https://HorizonAILab.github.io/codes/MvSLBS)
 
 * Tianxiang Luan, **Tingjin Luo**, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, Optimal Representative Distribution Margin Machine for Multi-Instance Learning, _IEEE Access_, vol. 8, pp. 74864-74874, 2020, DOI: 10.1109/ACCESS.2020.2988764. (IF: 3.745). [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MIORDM.pdf)
 
@@ -110,7 +112,7 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 #### 2019
 
-* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Feiping Nie, Dongyun Yi, Dimension Reduction for Non-Gaussian Data by Adaptive Discriminative Analysis, _IEEE Transactions on Cybernetics_, vol. 49, no. 3, pp. 933-946, March 2019, DOI: 10.1109/TCYB.2018.2789524. (JCR Q1, IF: 11.448) [[PDF]](https://HorizonAILab.github.io/papers/TCYB2019-ADA.pdf)[[CODE]](https://HorizonAILab.github.io/codes/code_ADA.zip)
+* **Tingjin Luo**, Chenping Hou<sup>#</sup>, Feiping Nie, Dongyun Yi, Dimension Reduction for Non-Gaussian Data by Adaptive Discriminative Analysis, _IEEE Transactions on Cybernetics_, vol. 49, no. 3, pp. 933-946, March 2019, DOI: 10.1109/TCYB.2018.2789524. (JCR Q1, IF: 19.118) [[PDF]](https://HorizonAILab.github.io/papers/TCYB2019-ADA.pdf)[[CODE]](https://HorizonAILab.github.io/codes/code_ADA.zip)
 
 * Zhipeng Lin, Zhenyu Zhao, **Tingjin Luo**<sup>#</sup>, Wenjing Yang, Yongjun Zhang, Yuhua Tang, Non-Convex Transfer Subspace Learning for Unsupervised Domain Adaptation, _Proceedings of IEEE International Conference on Multimedia and Expo (ICME 2019)_, Shanghai, China, 2019, pp. 1468-1473, DOI: 10.1109/ICME.2019.00254, EI: 20193407349323. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/ICME2019-NTSL.pdf)
 
