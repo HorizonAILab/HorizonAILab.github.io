@@ -31,7 +31,7 @@ permalink: /homepage/
 ### Opening Positions
 - There are opening research positions in my group at all levels, including Postdoc, research assistant, Ph.D. student, and master student. Please send me an E-mail which contains your CV, score sheet, certificates, and representative publications if you are interested.
 
-- I'm always looking for self-motivated undergraduate students (mainly @NUDT) to join my group for research training!
+- I am always looking for self-motivated undergraduate students (mainly @NUDT) to join my group for research training!
 
 ### Prospective students
 
