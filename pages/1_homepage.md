@@ -110,8 +110,6 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Wenzhang Zhuge, **Tingjin Luo**, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Multi-View Spectral Clustering With Incomplete Graphs, _IEEE Access_, vol. 8, pp. 99820-99831, 2020, DOI: 10.1109/ACCESS.2020.2997755. (IF: 3.745) [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
 
-* Wenzhang Zhuge, Hong Tao, **Tingjin Luo**<sup>#</sup>, Linli Zeng, Chenping Hou<sup>#</sup>, Dongyun Yi, Joint Representation Learning and Clustering: A Framework for Grouping Partial Multiview Data, _IEEE Transactions on Knowledge and Data Engineering_, **accepted**, DOI: 10.1109/TKDE.2020.3028422. (CCF A, IF: 9.235) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2020-JRLC.pdf)
-
 #### 2019
 
 * **Tingjin Luo**, Chenping Hou<sup>#</sup>, Feiping Nie, Dongyun Yi, Dimension Reduction for Non-Gaussian Data by Adaptive Discriminative Analysis, _IEEE Transactions on Cybernetics_, vol. 49, no. 3, pp. 933-946, March 2019, DOI: 10.1109/TCYB.2018.2789524. (JCR Q1, IF: 19.118) [[PDF]](https://HorizonAILab.github.io/papers/TCYB2019-ADA.pdf)[[CODE]](https://HorizonAILab.github.io/codes/code_ADA.zip)
