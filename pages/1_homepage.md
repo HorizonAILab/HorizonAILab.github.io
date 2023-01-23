@@ -80,13 +80,15 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Xinyue Dong, **Tingjin Luo**<sup>#</sup>, Ruidong Fan, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _Frontiers of Computer Science_, 2023, 17(4): 174327.  (JCR Q2, CCF B, CCF T1, IF: 2.669) 
 
+* Ningzhao Sun<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dewen Hu<sup>#</sup>, Semi-supervised Learning with Label Proportion,  _IEEE Transactions on Knowledge and Data Engineering_, 2023.01.01, 35(1): 877 - 890. (CCF A, IF: 9.235) [[PDF]](https://HorizonAILab.github.io/papers/)
+
 #### 2022
 
 * Hao Zhou, Jun Zhang<sup>#</sup>, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2021, **Accepted**. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://HorizonAILab.github.io/papers/IEEE-DSDI.pdf)
 
 * Jing Zhang, Hong Tao<sup>#</sup>, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2022, **Accepted**. (JCR Q1, CCF B, IF: 8.518) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
 
-* Wenzhang Zhuge, Hong Tao, **Tingjin Luo**<sup>#</sup>, Linli Zeng, Chenping Hou<sup>#</sup>, Dongyun Yi, Joint Representation Learning and Clustering: A Framework for Grouping Partial Multiview Data, _IEEE Transactions on Knowledge and Data Engineering_, 34(8): 3826 - 3840, 2022.08, DOI: 10.1109/TKDE.2020.3028422. (CCF A, IF: 9.235) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2020-JRLC.pdf)
+* Wenzhang Zhuge, Hong Tao, **Tingjin Luo**<sup>#</sup>, Linli Zeng, Chenping Hou<sup>#</sup>, Dongyun Yi, Joint Representation Learning and Clustering: A Framework for Grouping Partial Multiview Data, _IEEE Transactions on Knowledge and Data Engineering_, 34(8): 3826 - 3840, 2022.08.01, DOI: 10.1109/TKDE.2020.3028422. (CCF A, IF: 9.235) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2020-JRLC.pdf)
 
 * Xijia Tang, Chao Xu, **Tingjin Luo**, Chenping Hou<sup>#</sup>. Multi-instance positive and unlabeled learning with bi-level embedding, _Intelligent Data Analysis_, 26(3): 659-678, 2022. 
 
@@ -97,8 +99,6 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Jun Lei, Shuohao Li, Relationship-aware Primal-Dual Graph Attention Network for Scene Graph Generation, in _IEEE International Conference on Multimedia and Expo (ICME)_, Shenzhen, China, July 5-9, 2021, **Accepted**. (CCF B) [[PDF]](https://HorizonAILab.github.io/papers/ICME2021-RPDGAT.pdf)
 
 * Xijia Tang, **Tingjin Luo**<sup>#</sup>, Tianxiang Luan, Chenping Hou, Multiple Instance Learning for Unilateral Data, in _Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021)_, **Accepted**, Delhi, India, 2021. (CCF C) [[PDF]](https://HorizonAILab.github.io/papers/PAKDD2021-MILUD.pdf)
-
-* Ningzhao Sun<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dewen Hu<sup>#</sup>, Semi-supervised Learning with Label Proportion,  _IEEE Transactions on Knowledge and Data Engineering_, **Accepted**. (CCF A, IF: 9.235) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2021-SSLLP.pdf)
 
 * Xinyue Dong, Shilin Gu, Wenzhang Zhuge, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Active Label Distribution Learning, _Neurocomputing_, vol. 436, pp. 12-21, 2021, DOI: 10.1016/j.neucom.2020.12.128. (JCR Q1, CCF B, IF: 5.779) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2021-ALDL.pdf)
 
