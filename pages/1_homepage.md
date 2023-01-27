@@ -13,6 +13,8 @@ permalink: /homepage/
 
 ### News and Events
 
+* 2023.01.27：One paper "Absent Multi-view Semi-supervised Classification" accepted by _**IEEE Transactions on Cybernetics**_. Congratulations to Wenzhang Zhuge, Tingjin Luo and all coauthors.
+
 * 2022.08.09：One paper "Debiased Scene Graph Generation for Dual Imbalance Learning" accepted by _**IEEE Transactions on Pattern Analysis and Machine Intelligence**_. Congratulations to Hao Zhou and all coauthors.
 
 * 2022.05.27: One paper "Active Label Distribution Learning via Kernel Maximum Mean Discrepancy" accepted by _**Frontiers of Computer Science**_. Congratulations to Xinyue Dong and all coauthors.
@@ -71,12 +73,12 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Jiacheng Jiang, Hong Tao, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Chenping Hou<sup>#</sup>, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2021, Major Revision. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://HorizonAILab.github.io/papers/TIP2021-CWSC.pdf)
 
-* Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 2021, Minor Revision. (JCR Q1, IF: 19.118) [[PDF]](https://HorizonAILab.github.io/papers/IEEETCYB-AMSC.pdf)
-
 ### Publications
 (* indicates equal contributions, and # indicates advisees)
 
 #### 2023
+
+* Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 2023, Accepted. (JCR Q1, IF: 19.118) [[PDF]](https://HorizonAILab.github.io/papers/IEEETCYB-AMSC.pdf)
 
 * Xinyue Dong, **Tingjin Luo**<sup>#</sup>, Ruidong Fan, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _Frontiers of Computer Science_, 2023, 17(4): 174327.  (JCR Q2, CCF B, CCF T1, IF: 2.669) 
 
