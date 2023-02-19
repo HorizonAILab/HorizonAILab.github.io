@@ -71,7 +71,7 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Dewen Hu, Chenping Hou. Incomplete Multi-view Learning under Label Shift. _IEEE Transactions on Image Processing_, 2022, Major Revision. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://HorizonAILab.github.io/papers/TIP2022-IMLLS.pdf)
 
-* Jun Lu, Kai Li, Lu Lin, **Tingjin Luo**. A global k-means algorithm for the heterogeneous regressions.  _Pattern Recognition_, 2022, Under Review. (JCR Q1, CCF B, IF: 8.518) [[PDF]](https://HorizonAILab.github.io/papers/PR-2022-globalkmeans.pdf)
+* Jun Lu, Kai Li, Lu Lin, **Tingjin Luo**<sup>#</sup>. A global k-means algorithm for the heterogeneous regressions.  _Pattern Recognition_, 2022, Under Review. (JCR Q1, CCF B, IF: 8.518) [[PDF]](https://HorizonAILab.github.io/papers/PR-2022-globalkmeans.pdf)
 
 * Jiacheng Jiang, Hong Tao, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Chenping Hou<sup>#</sup>, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2021, Major Revision. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://HorizonAILab.github.io/papers/TIP2021-CWSC.pdf)
 
