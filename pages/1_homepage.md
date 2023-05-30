@@ -65,13 +65,9 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Hao Zhou, Jun Zhang, **Tingjin Luo**<sup>#</sup>, Jun Lei, Shuohao Li, Not the Statistical Bias, Mining the Essential Causality for Scene Graph Generation via Causal Association Extraction Network, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2023, Under Review. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://HorizonAILab.github.io/papers/TPAMI2023-CAE-Net.pdf)
 
-* Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Chenping Hou. Label Shift Correction via Confidence-Guided Self-Training. _ICML_, 2023, Major Revision. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/ICML2023-SSLF.pdf)
-
-* Shilin Gu, **Tingjin Luo**, Ming He, and Chenping Hou, Online Learning with Incremental Feature Space and Bandit Feedback, _IEEE Transactions on Knowledge and Data Engineering_, 2022, Major Revision. (CCF A, IF: 9.235)
+* Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Chenping Hou. Label Shift Correction via Confidence-Guided Self-Training. _NeurIPS_, 2023, Review. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/ICML2023-SSLF.pdf)
 
 * Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Dewen Hu, Chenping Hou. Incomplete Multi-view Learning under Label Shift. _IEEE Transactions on Image Processing_, 2022, Major Revision. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://HorizonAILab.github.io/papers/TIP2022-IMLLS.pdf)
-
-* Jun Lu, Kai Li, Lu Lin, **Tingjin Luo**<sup>#</sup>. A global k-means algorithm for the heterogeneous regressions.  _Pattern Recognition_, 2022, Under Review. (JCR Q1, CCF B, IF: 8.518) [[PDF]](https://HorizonAILab.github.io/papers/PR-2022-globalkmeans.pdf)
 
 * Jiacheng Jiang, Hong Tao, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Chenping Hou<sup>#</sup>, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2021, Major Revision. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://HorizonAILab.github.io/papers/TIP2021-CWSC.pdf)
 
@@ -79,6 +75,10 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 (* indicates equal contributions, and # indicates advisees)
 
 #### 2023
+
+* Xiuqi Huang, Haotian Ni, **Tingjin Luo**, Hong Tao, Chenping Hou<sup>#</sup>, Decorrelated Spectral Regression: An Unsupervised Dimension Reduction Method under Data Selection Bias, Neuroconputing, Accepted, 2023. 
+
+* Shilin Gu, **Tingjin Luo**, Ming He, and Chenping Hou, Online Learning with Incremental Feature Space and Bandit Feedback, _IEEE Transactions on Knowledge and Data Engineering_, 2023, Accepted. (CCF A, IF: 9.235)
 
 * Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 2023, Accepted. (JCR Q1, IF: 19.118) [[PDF]](https://HorizonAILab.github.io/papers/IEEETCYB-AMSC.pdf)
 
