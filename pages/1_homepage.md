@@ -13,6 +13,8 @@ permalink: /homepage/
 
 ### News and Events
 
+* 2023.06.21：One paper "Incomplete Multi-view Learning under Label Shift" accepted by _**IEEE Transactions on Image Processing**_. Congratulations to Ruidong Fan, Xiao Ouyang, Tingjin Luo and all coauthors.
+
 * 2023.01.27：One paper "Absent Multi-view Semi-supervised Classification" accepted by _**IEEE Transactions on Cybernetics**_. Congratulations to Wenzhang Zhuge, Tingjin Luo and all coauthors.
 
 * 2022.08.09：One paper "Debiased Scene Graph Generation for Dual Imbalance Learning" accepted by _**IEEE Transactions on Pattern Analysis and Machine Intelligence**_. Congratulations to Hao Zhou and all coauthors.
@@ -67,14 +69,14 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Chenping Hou. Label Shift Correction via Confidence-Guided Self-Training. _NeurIPS_, 2023, Review. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/ICML2023-SSLF.pdf)
 
-* Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Dewen Hu, Chenping Hou. Incomplete Multi-view Learning under Label Shift. _IEEE Transactions on Image Processing_, 2022, Major Revision. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://HorizonAILab.github.io/papers/TIP2022-IMLLS.pdf)
-
 * Jiacheng Jiang, Hong Tao, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Chenping Hou<sup>#</sup>, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2021, Major Revision. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://HorizonAILab.github.io/papers/TIP2021-CWSC.pdf)
 
 ### Publications
 (* indicates equal contributions, and # indicates advisees)
 
 #### 2023
+
+* Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Dewen Hu, Chenping Hou. Incomplete Multi-view Learning under Label Shift. _IEEE Transactions on Image Processing_, 2023.06, Accepted. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://HorizonAILab.github.io/papers/TIP2022-IMLLS.pdf)
 
 * Xiuqi Huang, Haotian Ni, **Tingjin Luo**, Hong Tao, Chenping Hou<sup>#</sup>, Decorrelated Spectral Regression: An Unsupervised Dimension Reduction Method under Data Selection Bias, Neuroconputing, Accepted, 2023. 
 
