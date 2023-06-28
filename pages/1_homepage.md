@@ -71,6 +71,8 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Jiacheng Jiang, Hong Tao, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Chenping Hou<sup>#</sup>, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2021, Major Revision. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://HorizonAILab.github.io/papers/TIP2021-CWSC.pdf)
 
+* Yueying Liu, **Tingjin Luo**<sup>#</sup>. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. _Frontiers of Computer Science_, 2023, Major Revision.  (JCR Q2, CCF B)
+
 ### Publications
 (* indicates equal contributions, and # indicates advisees)
 
@@ -78,7 +80,7 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Dewen Hu, Chenping Hou. Incomplete Multi-view Learning under Label Shift. _IEEE Transactions on Image Processing_, 2023.06, Accepted. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://HorizonAILab.github.io/papers/TIP2022-IMLLS.pdf)
 
-* Xiuqi Huang, Haotian Ni, **Tingjin Luo**, Hong Tao, Chenping Hou<sup>#</sup>, Decorrelated Spectral Regression: An Unsupervised Dimension Reduction Method under Data Selection Bias, Neuroconputing, Accepted, 2023. 
+* Xiuqi Huang, Haotian Ni, **Tingjin Luo**, Hong Tao, Chenping Hou<sup>#</sup>, Decorrelated Spectral Regression: An Unsupervised Dimension Reduction Method under Data Selection Bias, Neurocomputing, Accepted, 2023. (JCR Q2, IF: 5.779)
 
 * Shilin Gu, **Tingjin Luo**, Ming He, and Chenping Hou, Online Learning with Incremental Feature Space and Bandit Feedback, _IEEE Transactions on Knowledge and Data Engineering_, 2023, Accepted. (CCF A, IF: 9.235)
 
