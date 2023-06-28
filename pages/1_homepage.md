@@ -13,9 +13,9 @@ permalink: /homepage/
 
 ### News and Events
 
-* 2023.06.21：One paper "Incomplete Multi-view Learning under Label Shift" accepted by _**IEEE Transactions on Image Processing**_. Congratulations to Ruidong Fan, Xiao Ouyang, Tingjin Luo and all coauthors.
+* 2023.06.21：One paper "Incomplete Multi-view Learning under Label Shift" accepted by _**IEEE Transactions on Image Processing**_. Congratulations to Ruidong Fan and all coauthors.
 
-* 2023.01.27：One paper "Absent Multi-view Semi-supervised Classification" accepted by _**IEEE Transactions on Cybernetics**_. Congratulations to Wenzhang Zhuge, Tingjin Luo and all coauthors.
+* 2023.01.27：One paper "Absent Multi-view Semi-supervised Classification" accepted by _**IEEE Transactions on Cybernetics**_. Congratulations to Wenzhang Zhuge and all coauthors.
 
 * 2022.08.09：One paper "Debiased Scene Graph Generation for Dual Imbalance Learning" accepted by _**IEEE Transactions on Pattern Analysis and Machine Intelligence**_. Congratulations to Hao Zhou and all coauthors.
 
