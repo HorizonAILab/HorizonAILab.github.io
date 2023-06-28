@@ -73,6 +73,10 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Yueying Liu, **Tingjin Luo**<sup>#</sup>. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. _Frontiers of Computer Science_, 2023, Major Revision.  (JCR Q2, CCF B)
 
+* Yueying Liu, **Tingjin Luo**<sup>#</sup>. Joint distribution alignment and transfer subspace learning for unsupervised domain adaptation. IEEE CCIS, 2023, Under Review.
+
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Multi-experts Collaboration Learning for Long-tailed Visual Recognition, _Proceedings of the 31st ACM International Conference on Multimedia_, 2023, Under Review. (CCF A)
+
 ### Publications
 (* indicates equal contributions, and # indicates advisees)
 
