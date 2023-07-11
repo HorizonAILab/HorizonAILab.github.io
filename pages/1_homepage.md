@@ -141,6 +141,7 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 * Gongmin Lan, Chenping Hou<sup>#</sup>, Feiping Nie, **Tingjin Luo**, Dongyun Yi, Robust Feature Selection via Simultaneous Capped Norm and Sparse Regularizer Minimization, _Neurocomputing_, vol. 283, pp. 228-240, 2018, DOI: 10.1016/j.neucom.2017.12.055, WOS:000424896600021. (JCR Q1, CCF B, IF: 5.779) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2018-RFS.pdf)
 
 #### 2017
+
 * **Tingjin Luo**, Weizhong Zhang, Shuang Qiu, Yang Yang, Dongyun Yi, Guangtao Wang, Jieping Ye<sup>#</sup>, Jie Wang<sup>#</sup>, Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning, _Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2017)_, Halifax, Canada, August 2017, pp. 345-354, DOI: 10.1145/3097983.3097984, EI:  20173704157018. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/KDD2017-NMIL.pdf)
 
 * Yang Yang<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Zhoujun Li, Xiaoming Zhang, Philip S. Yu, A Robust Method for Inferring Network Structures, _Scientific Reports_, vol. 7, no. 5221, pp. 1-12, 2017, DOI: 10.1038/s41598-017-04725-2, WOS:000405425000025. (JCR Q2, IF: 4.576)[[PDF]](https://HorizonAILab.github.io/papers/SR2017-ISSS.pdf)
