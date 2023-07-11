@@ -80,23 +80,23 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 #### 2023
 
+* Hao Zhou, Jun Zhang<sup>#</sup>, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, , vol. 45, no. 4, pp. 4274-4288, 1 April 2023. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9858006)
+
+* Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 2023, Accepted. (JCR Q1, IF: 19.118) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10045779)
+
+* Xinyue Dong, **Tingjin Luo**<sup>#</sup>, Ruidong Fan, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _Frontiers of Computer Science_, 2023, 17(4): 174327.  (JCR Q2, CCF B, CCF T1, IF: 2.669) [[PDF]](https://link.springer.com/article/10.1007/s11704-022-1624-5)
+
+* Ningzhao Sun<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dewen Hu<sup>#</sup>, Semi-supervised Learning with Label Proportion,  _IEEE Transactions on Knowledge and Data Engineering_, vol. 35, no. 1, pp. 877-890, 1 Jan. 2023. (CCF A, IF: 9.235) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9419731)
+
 * Yueying Liu, **Tingjin Luo**<sup>#</sup>. Joint Distribution Alignment and Transfer Subspace Learning for Unsupervised Domain Adaptation. IEEE 9th International Conference on Cloud Computing and Intelligence Systems, Accepted, 2023.
 
-* Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Dewen Hu, Chenping Hou. Incomplete Multi-view Learning under Label Shift. _IEEE Transactions on Image Processing_, 2023.06, Accepted. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://HorizonAILab.github.io/papers/TIP2022-IMLLS.pdf)
+* Shilin Gu, **Tingjin Luo**, Ming He, and Chenping Hou, Online Learning with Incremental Feature Space and Bandit Feedback, _IEEE Transactions on Knowledge and Data Engineering_, 2023, Accepted. (CCF A, IF: 9.235) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10114584)
 
-* Xiuqi Huang, Haotian Ni, **Tingjin Luo**, Hong Tao, Chenping Hou<sup>#</sup>, Decorrelated Spectral Regression: An Unsupervised Dimension Reduction Method under Data Selection Bias, Neurocomputing, Accepted, 2023. (JCR Q2, IF: 5.779)
+* Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Dewen Hu, Chenping Hou. Incomplete Multi-view Learning under Label Shift. _IEEE Transactions on Image Processing_, 2023.06, Accepted. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10173762)
 
-* Shilin Gu, **Tingjin Luo**, Ming He, and Chenping Hou, Online Learning with Incremental Feature Space and Bandit Feedback, _IEEE Transactions on Knowledge and Data Engineering_, 2023, Accepted. (CCF A, IF: 9.235)
-
-* Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 2023, Accepted. (JCR Q1, IF: 19.118) [[PDF]](https://HorizonAILab.github.io/papers/IEEETCYB-AMSC.pdf)
-
-* Xinyue Dong, **Tingjin Luo**<sup>#</sup>, Ruidong Fan, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _Frontiers of Computer Science_, 2023, 17(4): 174327.  (JCR Q2, CCF B, CCF T1, IF: 2.669) 
-
-* Ningzhao Sun<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dewen Hu<sup>#</sup>, Semi-supervised Learning with Label Proportion,  _IEEE Transactions on Knowledge and Data Engineering_, 2023.01.01, 35(1): 877 - 890. (CCF A, IF: 9.235) [[PDF]](https://HorizonAILab.github.io/papers/)
+* Xiuqi Huang, Haotian Ni, **Tingjin Luo**, Hong Tao, Chenping Hou<sup>#</sup>, Decorrelated Spectral Regression: An Unsupervised Dimension Reduction Method under Data Selection Bias, Neurocomputing, Accepted, 2023. (JCR Q2, IF: 5.779) [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005295)
 
 #### 2022
-
-* Hao Zhou, Jun Zhang<sup>#</sup>, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2021, **Accepted**. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://HorizonAILab.github.io/papers/IEEE-DSDI.pdf)
 
 * Jing Zhang, Hong Tao<sup>#</sup>, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, 2022, **Accepted**. (JCR Q1, CCF B, IF: 8.518) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
 
