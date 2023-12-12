@@ -175,15 +175,19 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 #### PhD Students
 
+* Yueying Liu (2024-)
+
 #### Master Students
 
-* Yueying Liu (2021-)
+* Yueying Liu (2021-2023)
 
 * Xingyue Zhang (2022-)
 
 * Quanjiang Li (2023-)
 
 * Zhangqi Jiang (2023-)
+
+* Huiting Yuan (2023-)
 
 ---
 
