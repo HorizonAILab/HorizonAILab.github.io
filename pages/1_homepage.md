@@ -13,6 +13,10 @@ permalink: /homepage/
 
 ### News and Events
 
+* 2023.12.25: One page of "Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation" accepted by _**Frontiers of Computer Science**_. Congratulations to Yueyin Liu and all coauthors.
+
+* 2023.12.09：One paper "Deep Incomplete Multi-View Learning Network with Insufficient Label Information" accepted by _**38th AAAI Conference on Artificial Intelligence (AAAI-24)**_. Congratulations to Zhangqi Jiang and all coauthors.
+
 * 2023.06.21：One paper "Incomplete Multi-view Learning under Label Shift" accepted by _**IEEE Transactions on Image Processing**_. Congratulations to Ruidong Fan and all coauthors.
 
 * 2023.01.27：One paper "Absent Multi-view Semi-supervised Classification" accepted by _**IEEE Transactions on Cybernetics**_. Congratulations to Wenzhang Zhuge and all coauthors.
@@ -71,16 +75,20 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Jiacheng Jiang, Hong Tao, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Chenping Hou<sup>#</sup>, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2021, Major Revision. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://HorizonAILab.github.io/papers/TIP2021-CWSC.pdf)
 
-* Yueying Liu, **Tingjin Luo**<sup>#</sup>. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. _Frontiers of Computer Science_, 2023, Major Revision.  (JCR Q2, CCF B)
-
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Multi-experts Collaboration Learning for Long-tailed Visual Recognition, _Proceedings of the 31st ACM International Conference on Multimedia_, 2023, Under Review. (CCF A)
 
 ### Publications
 (* indicates equal contributions, and # indicates advisees)
 
+#### 2024
+
+* Zhangqi Jiang, **Tingjin Luo**<sup>#</sup>, Xinyan Liang. Deep Incomplete Multi-View Learning Network with Insufficient Label Information, _38th AAAI Conference on Artificial Intelligence (AAAI-24)_, Accepted. (CCF A) [[PDF]]()
+
+* Yueying Liu, **Tingjin Luo**<sup>#</sup>. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. _Frontiers of Computer Science_, 2023, Accepted.  (JCR Q2, CCF B) [[PDF]]()
+
 #### 2023
 
-* Hao Zhou, Jun Zhang<sup>#</sup>, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, , vol. 45, no. 4, pp. 4274-4288, 1 April 2023. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9858006)
+* Hao Zhou, Jun Zhang<sup>#</sup>, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 45, no. 4, pp. 4274-4288, 1 April 2023. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9858006)
 
 * Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 2023, Accepted. (JCR Q1, IF: 19.118) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10045779)
 
