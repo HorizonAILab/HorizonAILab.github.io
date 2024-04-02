@@ -73,7 +73,6 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Chenping Hou. Label Shift Correction via Confidence-Guided Self-Training. _NeurIPS_, 2023, Review. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/ICML2023-SSLF.pdf)
 
-* Jiacheng Jiang, Hong Tao, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Chenping Hou<sup>#</sup>, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2021, Major Revision. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://HorizonAILab.github.io/papers/TIP2021-CWSC.pdf)
 
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Multi-experts Collaboration Learning for Long-tailed Visual Recognition, _Proceedings of the 31st ACM International Conference on Multimedia_, 2023, Under Review. (CCF A)
 
@@ -82,9 +81,11 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 #### 2024
 
-* Zhangqi Jiang, **Tingjin Luo**<sup>#</sup>, Xinyan Liang. Deep Incomplete Multi-View Learning Network with Insufficient Label Information, _38th AAAI Conference on Artificial Intelligence (AAAI-24)_, Accepted. (CCF A) [[PDF]]()
+* Zhangqi Jiang, **Tingjin Luo**<sup>#</sup>, Xinyan Liang. Deep Incomplete Multi-View Learning Network with Insufficient Label Information, _38th AAAI Conference on Artificial Intelligence (AAAI-24)_, Accepted. (CCF A) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/29189)
 
-* Yueying Liu, **Tingjin Luo**<sup>#</sup>. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. _Frontiers of Computer Science_, 2023, Accepted.  (JCR Q2, CCF B) [[PDF]]()
+* Yueying Liu, **Tingjin Luo**<sup>#</sup>. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. _Frontiers of Computer Science_, 2023, Accepted.  (JCR Q2, CCF B) [[PDF]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-3228-0)
+
+* Hong Tao, Jiacheng Jiang, Chenping Hou<sup>#</sup>, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2024, 33(1): 957 - 971. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://ieeexplore.ieee.org/document/10411763)
 
 #### 2023
 
