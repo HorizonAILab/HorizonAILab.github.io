@@ -73,9 +73,11 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Chenping Hou. Label Shift Correction via Confidence-Guided Self-Training. _NeurIPS_, 2023, Review. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/ICML2023-SSLF.pdf)
 
-* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Multi-experts Collaboration Learning for Long-tailed Visual Recognition, _Proceedings of the 31st ACM International Conference on Multimedia_, 2023, Under Review. (CCF A)
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Multi-experts Collaboration Learning for Long-tailed Visual Recognition, _The 33rd International Joint Conference on Artificial Intelligence_, 2023, Under Review. (CCF A)
 
-* 
+* Pinhan Fu, Xinyan Liang, **Tingjin Luo**, Yuhua Qian. Core-Structures-Guided Multi-Modal Classification Neural Architecture Search. _The 33rd International Joint Conference on Artificial Intelligence_, 2024, Under Review. (CCF A)
+
+* Feijiang Li, Yuhua Qian, Jieting Wang, Hongren Yan, **Tingjin Luo**. SoCo: Second Order Induced Co-association Relation for Clustering Ensemble, 2024, Under Review.
 
 ### Publications
 (* indicates equal contributions, and # indicates advisees)
