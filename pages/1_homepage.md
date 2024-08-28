@@ -13,9 +13,11 @@ permalink: /homepage/
 
 ### News and Events
 
-* 2024.
+* 2024.08.11: One papers "Imbalanced Multi-instance Multi-label Learning via Tensor Product-based Semantic Fusion" accepted by _**Frontiers of Computer Science**_. Congratulations to Xinyue Zhang and all coauthors.
 
-* 2023.12.19: One page of "Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation" accepted by _**Frontiers of Computer Science**_. Congratulations to Yueyin Liu and all coauthors.
+* 2024.07.21: Two papers accepted by _**ACM MM**_. Congratulations to Quangjiang Li, Xinyue Zhang and all coauthors.
+
+* 2023.12.19: One paper "Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation" accepted by _**Frontiers of Computer Science**_. Congratulations to Yueyin Liu and all coauthors.
 
 * 2023.12.09：One paper "Deep Incomplete Multi-View Learning Network with Insufficient Label Information" accepted by _**38th AAAI Conference on Artificial Intelligence (AAAI-24)**_. Congratulations to Zhangqi Jiang and all coauthors.
 
