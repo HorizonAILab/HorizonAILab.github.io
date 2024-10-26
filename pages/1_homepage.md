@@ -183,19 +183,27 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 #### PhD Students
 
-* Yueying Liu (2024-)
+* Yueying Liu (Co-supervised: Zhenming Wang, 2024-)
+
+* Xingyue Zhang (Co-supervised: Chenping Hou, 2025)
 
 #### Master Students
 
 * Yueying Liu (2021-2023)
 
-* Xingyue Zhang (2022-)
+* Xingyue Zhang (2022-2024)
 
 * Quanjiang Li (2023-)
 
 * Zhangqi Jiang (2023-)
 
 * Huiting Yuan (2023-)
+
+* Mingdie Jiang (2024-)
+
+* Yuchen Zhang (2024-)
+
+* Mengtao Yang (2024-)
 
 ---
 
