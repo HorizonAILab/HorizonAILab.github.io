@@ -88,7 +88,7 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 #### 2024
 
-* **Tingjin Luo**, Yang Yang<sup>*</sup>, Dongyun Yi, Jieping Ye. Robust discriminative feature learning with calibrated data reconstruction and sparse low-rank model, _Applied Intelligence_, vol. 54, 2867–2880 (2024). https://doi.org/10.1007/s10489-017-1060-7. (ESI, JCR Q2, IF: 3.4)[[PDF]](https://link.springer.com/article/10.1007/s10489-017-1060-7)
+* **Tingjin Luo**, Yang Yang<sup>#</sup>, Dongyun Yi, Jieping Ye. Robust discriminative feature learning with calibrated data reconstruction and sparse low-rank model, _Applied Intelligence_, vol. 54, 2867–2880 (2024). (ESI, JCR Q2, IF: 3.4)[[PDF]](https://link.springer.com/article/10.1007/s10489-017-1060-7)
 
 * Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 54(3): 1708 - 1721, March 2024. (JCR Q1, IF: 9.4) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10045779)
 
