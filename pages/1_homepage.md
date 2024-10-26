@@ -248,6 +248,8 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 ### Service
 
+* Associate Editor: Information Fusion, Pattern Recognition
+
 * Area Chair: Dynamic Feature Mining of ICDM Workshop
 
 * Conference Program Committee: AAAI 2019-2020, ICLR 2019-2021, NeurIPS 2019-2020, IJCAI 2018-2022, ICPR 2016-2021
