@@ -88,7 +88,9 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 #### 2024
 
-* Hong Tao, Jiacheng Jiang, Chenping Hou, **Tingjin Luo**, Ruidong Fan, Jing Zhang.Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, vol. 33, pp. 957-971, 2024, doi: 10.1109/TIP.2024.3354106. (CCF A, JCR Q1, IF: 10.8)
+* **Tingjin Luo**, Yang Yang<sup>*</sup>, Dongyun Yi, Jieping Ye. Robust discriminative feature learning with calibrated data reconstruction and sparse low-rank model, _Applied Intelligence_, vol. 54, 2867–2880 (2024). https://doi.org/10.1007/s10489-017-1060-7. (ESI, JCR Q2, IF: 3.4)[[PDF]](https://link.springer.com/article/10.1007/s10489-017-1060-7)
+
+* Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 54(3): 1708 - 1721, March 2024. (JCR Q1, IF: 9.4) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10045779)
 
 * Pinhan Fu, Xinyan Liang, **Tingjin Luo**,  Qian Guo, Yayu Zhang, Yuhua Qian<sup>#</sup>. Core-Structures-Guided Multi-Modal Classification Neural Architecture Search. _The 33rd International Joint Conference on Artificial Intelligence_, pp. 3980-3988, 2024. (CCF A)
 
@@ -96,19 +98,17 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Yueying Liu, **Tingjin Luo**<sup>#</sup>. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. _Frontiers of Computer Science_, 2024, Accepted.  (JCR Q2, CCF B) [[PDF]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-3228-0)
 
-* Hong Tao, Jiacheng Jiang, Chenping Hou<sup>#</sup>, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2024, 33(1): 957 - 971. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://ieeexplore.ieee.org/document/10411763)
+* Hong Tao, Jiacheng Jiang, Chenping Hou<sup>#</sup>, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2024, 33(1): 957 - 971. (JCR Q1, CCF A, IF: 10.8) [[PDF]](https://ieeexplore.ieee.org/document/10411763)
 
 #### 2023
 
 * Hao Zhou, Jun Zhang<sup>#</sup>, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 45, no. 4, pp. 4274-4288, 1 April 2023. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9858006)
 
-* Wenzhang Zhuge, **Tingjin Luo**<sup>#</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Absent Multi-view Semi-supervised Classification, _IEEE Transactions on Cybernetics_, 2023, Accepted. (JCR Q1, IF: 19.118) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10045779)
-
 * Xinyue Dong, **Tingjin Luo**<sup>#</sup>, Ruidong Fan, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _Frontiers of Computer Science_, 2023, 17(4): 174327.  (JCR Q2, CCF B, CCF T1, IF: 2.669) [[PDF]](https://link.springer.com/article/10.1007/s11704-022-1624-5)
 
 * Ningzhao Sun<sup>*</sup>, **Tingjin Luo**<sup>*</sup>, Hong Tao, Chenping Hou<sup>#</sup>, Dewen Hu<sup>#</sup>, Semi-supervised Learning with Label Proportion,  _IEEE Transactions on Knowledge and Data Engineering_, vol. 35, no. 1, pp. 877-890, 1 Jan. 2023. (CCF A, IF: 9.235) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9419731)
 
-* Yueying Liu, **Tingjin Luo**<sup>#</sup>. Joint Distribution Alignment and Transfer Subspace Learning for Unsupervised Domain Adaptation. IEEE 9th International Conference on Cloud Computing and Intelligence Systems, Accepted, 2023.
+* Yueying Liu, **Tingjin Luo**<sup>#</sup>. Joint Distribution Alignment and Transfer Subspace Learning for Unsupervised Domain Adaptation. IEEE 9th International Conference on Cloud Computing and Intelligence Systems, Dali, China, 2023, pp. 53-58, doi: 10.1109/CCIS59572.2023.10262974.
 
 * Shilin Gu, **Tingjin Luo**, Ming He, and Chenping Hou, Online Learning with Incremental Feature Space and Bandit Feedback, _IEEE Transactions on Knowledge and Data Engineering_, 2023, Accepted. (CCF A, IF: 9.235) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10114584)
 
