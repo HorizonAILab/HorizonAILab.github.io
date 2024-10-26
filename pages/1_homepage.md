@@ -77,16 +77,20 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Chenping Hou. Label Shift Correction via Confidence-Guided Self-Training. _NeurIPS_, 2023, Review. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/ICML2023-SSLF.pdf)
 
-* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Multi-experts Collaboration Learning for Long-tailed Visual Recognition, _The 33rd International Joint Conference on Artificial Intelligence_, 2023, Under Review. (CCF A)
-
-* Pinhan Fu, Xinyan Liang, **Tingjin Luo**, Yuhua Qian. Core-Structures-Guided Multi-Modal Classification Neural Architecture Search. _The 33rd International Joint Conference on Artificial Intelligence_, 2024, Under Review. (CCF A)
-
 * Feijiang Li, Yuhua Qian, Jieting Wang, Hongren Yan, **Tingjin Luo**. SoCo: Second Order Induced Co-association Relation for Clustering Ensemble, 2024, Under Review.
 
 ### Publications
 (* indicates equal contributions, and # indicates advisees)
 
+#### 2025
+
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Multi-experts Collaboration Learning for Long-tailed Visual Recognition, _Information Fusion_, Volume 115, 102734, March 2025. (CAAI A, JCR Q1, IF: 14.7)
+
 #### 2024
+
+* Hong Tao, Jiacheng Jiang, Chenping Hou, **Tingjin Luo**, Ruidong Fan, Jing Zhang.Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, vol. 33, pp. 957-971, 2024, doi: 10.1109/TIP.2024.3354106. (CCF A, JCR Q1, IF: 10.8)
+
+* Pinhan Fu, Xinyan Liang, **Tingjin Luo**,  Qian Guo, Yayu Zhang, Yuhua Qian<sup>#</sup>. Core-Structures-Guided Multi-Modal Classification Neural Architecture Search. _The 33rd International Joint Conference on Artificial Intelligence_, pp. 3980-3988, 2024. (CCF A)
 
 * Zhangqi Jiang, **Tingjin Luo**<sup>#</sup>, Xinyan Liang. Deep Incomplete Multi-View Learning Network with Insufficient Label Information, _38th AAAI Conference on Artificial Intelligence (AAAI-24)_, Accepted. (CCF A) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/29189)
 
