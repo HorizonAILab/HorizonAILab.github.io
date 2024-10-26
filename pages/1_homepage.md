@@ -114,7 +114,7 @@ I am currently recruiting self-motivated PhD and MPhil students to join our grou
 
 * Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Dewen Hu, Chenping Hou. Incomplete Multi-view Learning under Label Shift. _IEEE Transactions on Image Processing_, 2023.06, Accepted. (JCR Q1, CCF A, IF: 11.041) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10173762)
 
-* Xiuqi Huang, Haotian Ni, **Tingjin Luo**, Hong Tao, Chenping Hou<sup>#</sup>, Decorrelated Spectral Regression: An Unsupervised Dimension Reduction Method under Data Selection Bias, Neurocomputing, Accepted, 2023. (JCR Q2, IF: 5.779) [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005295)
+* Xiuqi Huang, Haotian Ni, **Tingjin Luo**, Hong Tao, Chenping Hou<sup>#</sup>, Decorrelated Spectral Regression: An Unsupervised Dimension Reduction Method under Data Selection Bias, Neurocomputing, Volume 549, 7 September 2023, 126406. (JCR Q2, IF: 5.779) [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005295)
 
 #### 2022
 
