@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homepages "
 title_separator          : "-"
 name                     : &name "Tingjin Luo"
 description              : &description "personal description"
