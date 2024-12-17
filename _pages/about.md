@@ -21,6 +21,24 @@ redirect_from:
 
 **简介**: 罗廷金现任[国防科技大学](https://www.nudt.edu.cn/)[理学院](https://www.nudt.edu.cn/xysz/wlxy/index.htm)副教授。于2018年获博士学位，已在顶级期刊或会议上发表40余篇学术论文，主要包括IEEE TPAMI，IEEE TKDE, IEEE TIP, IEEE TCYB, KDD, AAAI, ICME, PAKDD等。目前担任IEEE TIP、IEEE TKDE、中国科学等10余家国际权威期刊审稿人，并受邀担任ICML、IJCAI、AAAI、ICDM、ICPR等多个国际会议的PC Member。主持基础加强重点项目课题、国家自然科学基金等6项。获军队科技进步奖、中国系统工程学会优秀博士学位论文奖、湖南省优秀博士学位论文、学校秀青年创新奖等荣誉。入选湖南省湖湘青年英才计划和高层次卓越人才计划等。
 
+# Research (研究领域)
+My research interests lie in machine learning, data mining, and learning-based vision problems. Particularly, I'm interested in weakly-supervised learning and its applications, such as semi-supervised learning, positive-unlabeled learning, label noise learning, partial label learning, etc.
+
+我的研究方向主要为机器学习、数据挖掘及基于学习的计算机视觉问题。特别地，我关注弱监督学习方法及其应用，比如半监督学习、PU学习、标签噪声学习、偏标记学习等。
+
+# Representative Work
+
+
+# Contact
+
+Address: College of Liberal Arts and Sciences, National University of Defense Technology: No.1 Fuyuan Road, Kaifu District, Changsha, Hunan, China, 410073
+通讯地址： 湖南省长沙市开福区福元路一号国防科技大学理学院应用数学研究中心
+
+
+Office: Room S481, College of Sciences, National University of Defense Technology
+办公地址： 国防科技大学理学院S481室
+
+
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
