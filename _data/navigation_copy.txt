@@ -6,9 +6,6 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Services (学术服务)"
-    url: /services/ 
-
   - title: "Publications"
     url: "/#-publications"
 
