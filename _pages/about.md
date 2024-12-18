@@ -44,7 +44,7 @@ I have published 50+ papers <a href='https://scholar.google.com/citations?user=w
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div align="center"><img src='images/pub_figs/middle_layers.png' alt="sym" width="65%"></div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/pub_figs/middle_layers.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](http://arxiv.org/abs/2411.16724) \\
