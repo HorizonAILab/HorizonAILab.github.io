@@ -5,10 +5,10 @@ AcadHomepage For Tingjin Luo
 
 <div align="center">
 
-[![](https://img.shields.io/github/stars/HorizonAILa/HorizonAILa.github.io)](https://github.com/HorizonAILa/HorizonAILa.github.io)
-[![](https://img.shields.io/github/forks/HorizonAILa/HorizonAILa.github.io)](https://github.com/HorizonAILa/HorizonAILa.github.io)
-[![](https://img.shields.io/github/issues/HorizonAILa/HorizonAILa.github.io)](https://github.com/HorizonAILa/HorizonAILa.github.io)
-[![](https://img.shields.io/github/license/HorizonAILa/HorizonAILa.github.io)](https://github.com/HorizonAILa/HorizonAILa.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+[![](https://img.shields.io/github/stars/HorizonAILab/HorizonAILab.github.io)](https://github.com/HorizonAILab/HorizonAILab.github.io)
+[![](https://img.shields.io/github/forks/HorizonAILab/HorizonAILab.github.io)](https://github.com/HorizonAILab/HorizonAILab.github.io)
+[![](https://img.shields.io/github/issues/HorizonAILab/HorizonAILab.github.io)](https://github.com/HorizonAILab/HorizonAILab.github.io)
+[![](https://img.shields.io/github/license/HorizonAILab/HorizonAILab.github.io)](https://github.com/HorizonAILab/HorizonAILab.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
 </div>
 
 
