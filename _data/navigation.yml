@@ -6,11 +6,23 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Services (学术服务)"
+  - title: "Services"
     url: /services/ 
 
+  - title: "Research"
+    url: "/research/"
+
   - title: "Publications"
-    url: "/#-publications"
+    url: "/publications/"
+
+  - title: "Teaching"
+    url: "/teaching/"
+
+  - title: "Students"
+    url: "/students/
+
+  - title: "Projects"
+    url: "/projects/"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
