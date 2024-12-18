@@ -44,32 +44,29 @@ I have published 50+ papers <a href='https://scholar.google.com/citations?user=w
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/pub_figs/middle_layers.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/pub_figs/middle_layers.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](http://arxiv.org/abs/2411.16724) \\
-**Zhangqi Jiang**, Junkai Chen, Beier Zhu, Tingjin Luo, Yankun Shen, Xu Yang
+[Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](http://arxiv.org/abs/2411.16724), Submitted to Conference \\
+Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
 
-_arXiv_, 2024
 
-TL;DR: We address how LVLMs process visual information and whether this process causes hallucination.
-First, we identify the middle layers are crucial for handling visual data in LVLMs, which can be further divided into two stages: **visual information enrichment** and **semantic refinement**.
-Second, we find that real tokens consistently receive higher attention weights than hallucinated ones, serving as a strong indicator of hallucination.
-Third, we observe that hallucination tokens often result from attention heads interacting with inconsistent objects.
+- We address how LVLMs process visual information and whether this process causes hallucination.
+- First, we identify the middle layers are crucial for handling visual data in LVLMs, which can be further divided into two stages: **visual information enrichment** and **semantic refinement**.
+- Second, we find that real tokens consistently receive higher attention weights than hallucinated ones, serving as a strong indicator of hallucination.
+- Third, we observe that hallucination tokens often result from attention heads interacting with inconsistent objects.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/pub_figs/DIMvLN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/pub_figs/DIMvLN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Incomplete Multi-View Learning Network with Insufficient Label Information](https://ojs.aaai.org/index.php/AAAI/article/view/29189) \\
+[Deep Incomplete Multi-View Learning Network with Insufficient Label Information](https://ojs.aaai.org/index.php/AAAI/article/view/29189), _AAAI_, 2024, \[[**code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]\\
 **Zhangqi Jiang**, Tingjin Luo, Xinyan Liang
-
-_AAAI_, 2024 \\
-\[[**code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]
-
-TL;DR: To tackle the double missing of features and labels problem, we propose a novel deep learning model by incorporating graph neural networks and semi-supervised learning into a unified framework.
+-  To tackle the double missing of features and labels problem, we propose a novel deep incomplete multi-view learning network (DIMvLN) to tackle the problem of insufficient label information in multi-view learning.
+- DIMvLN integrates graph neural networks and semi-supervised learning into a unified framework to effectively handle incomplete multi-view data and insufficient label information.
+- Extensive experiments on real-world datasets demonstrate the effectiveness of DIMvLN in improving the performance of multi-view learning tasks.
 </div>
 </div>
 
