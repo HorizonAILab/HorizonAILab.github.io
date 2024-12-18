@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Projects
+# Projects（研究项目）
 
 - Robust Multiple Instance Learning via Sparse Optimization, National Science Foundation of China, 2020–2022, Principal Investigator.
 
