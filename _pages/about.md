@@ -83,9 +83,6 @@ Office: Room S481, College of Sciences, National University of Defense Technolog
 办公地址： 国防科技大学理学院S481室
 
 
-My research interest includes neural machine translation and computer vision. 
-
-
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
