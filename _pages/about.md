@@ -44,6 +44,35 @@ I have published 50+ papers <a href='https://scholar.google.com/citations?user=w
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div align="center"><img src='images/pub_figs/middle_layers.png' alt="sym" width="65%"></div></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](http://arxiv.org/abs/2411.16724) \\
+**Zhangqi Jiang**, Junkai Chen, Beier Zhu, Tingjin Luo, Yankun Shen, Xu Yang
+
+_arXiv_, 2024
+
+TL;DR: We address how LVLMs process visual information and whether this process causes hallucination.
+First, we identify the middle layers are crucial for handling visual data in LVLMs, which can be further divided into two stages: **visual information enrichment** and **semantic refinement**.
+Second, we find that real tokens consistently receive higher attention weights than hallucinated ones, serving as a strong indicator of hallucination.
+Third, we observe that hallucination tokens often result from attention heads interacting with inconsistent objects.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pub_figs/DIMvLN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Incomplete Multi-View Learning Network with Insufficient Label Information](https://ojs.aaai.org/index.php/AAAI/article/view/29189) \\
+**Zhangqi Jiang**, Tingjin Luo, Xinyan Liang
+
+_AAAI_, 2024 \\
+\[[**code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]
+
+TL;DR: To tackle the double missing of features and labels problem, we propose a novel deep learning model by incorporating graph neural networks and semi-supervised learning into a unified framework.
+</div>
+</div>
+
 # Contact
 
 Address: College of Liberal Arts and Sciences, National University of Defense Technology: No.1 Fuyuan Road, Kaifu District, Changsha, Hunan, China, 410073
