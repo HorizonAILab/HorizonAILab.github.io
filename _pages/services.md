@@ -43,6 +43,7 @@ author_profile: true
 ### Area Chair/Senior Program Committee Memberr (国际会议领域主席/高级程序委员成员)
 
 - IJCAI: 2025
+- AAAI: 2025
 
 ### Program Committee Member/Reviewer (国际会议审稿人)
 
