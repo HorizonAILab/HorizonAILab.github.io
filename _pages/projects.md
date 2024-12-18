@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Projects (项目)"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
 
-### Projects (项目)
+# Projects
 
 - Robust Multiple Instance Learning via Sparse Optimization, National Science Foundation of China, 2020–2022, Principal Investigator.
 
@@ -13,7 +13,7 @@ author_profile: true
 
 - Provincial NSF Project for Distinguished Young Scholars
 
-### Sponsors (资助机构)
+# Sponsors (资助机构)
 
 - [National Science Foundation of China](https://www.nsfc.gov.cn/)
 
