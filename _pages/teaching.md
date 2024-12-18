@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Teaching (教学)"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-### Undergraduate Courses (本科生课程)
+# Undergraduate Courses (本科生课程)
 
 - Probability and Mathematical Statistics(概率论与梳理统计，春季学期，面向工科专业) -- 2020-2022，NUDT
 
@@ -15,4 +15,4 @@ author_profile: true
 
 - Multivariate Statistical Analysis(多元统计分析，秋季学期，面向应用统计学专业) -- 2020 Fall, NUDT
 
-### Graduate Courses (研究生课程)
+# Graduate Courses (研究生课程)
