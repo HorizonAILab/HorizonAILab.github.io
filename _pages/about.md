@@ -22,7 +22,9 @@ redirect_from:
 **简介**: 罗廷金现任[国防科技大学](https://www.nudt.edu.cn/)[理学院](https://www.nudt.edu.cn/xysz/wlxy/index.htm)副教授。于2018年获博士学位，已在顶级期刊或会议上发表60余篇学术论文，主要包括IEEE TPAMI，IEEE TKDE, IEEE TIP, IEEE TCYB, KDD, AAAI, ICME, PAKDD等。目前担任IEEE TIP、IEEE TKDE、中国科学等10余家国际权威期刊审稿人，并受邀担任ICML、IJCAI、AAAI、ICDM、ICPR等多个国际会议的PC Member。主持基础加强重点项目课题、国家自然科学基金等6项。获中国系统工程学会优秀博士学位论文奖、湖南省优秀博士学位论文、学校秀青年创新奖等荣誉。入选湖南省湖湘青年英才计划和高层次卓越人才计划等。
 
 # Research (研究领域)
-My research interests lie in machine learning, data mining, and learning-based vision problems. Particularly, I'm interested in weakly-supervised learning and its applications, such as semi-supervised learning, multi-label learning, label noise learning, partial label learning, etc. I have published more than 60 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=w0YDfhcAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests lie in machine learning, data mining, and learning-based vision problems. Particularly, I'm interested in weakly-supervised learning and its applications, such as semi-supervised learning, multi-label learning, label noise learning, partial label learning, etc. 
+
+I have published 50+ papers <a href='https://scholar.google.com/citations?user=w0YDfhcAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Fhorizonailab.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as KDD, AAAI and ACM MM etc. 
 
 我的研究方向主要为机器学习、数据挖掘及基于学习的计算机视觉问题。特别地，我关注多视图学习、弱监督学习方法及其应用，比如半监督学习、标签噪声学习、偏标记学习等。
 
