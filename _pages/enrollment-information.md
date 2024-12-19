@@ -5,6 +5,10 @@ permalink: /enrollment_information/
 author_profile: true
 ---
 
+# Enrollment Informations (招生信息)
+
+<font color=red>I am currently recruiting self-motivated PhD and MPhil students. Please carefully read the following contents before sending me an E-mail:</font>
+
 ### Opening Positions
 - There are opening research positions in my group at all levels, including Postdoc, research assistant, Ph.D. student, and master student. Please send me an E-mail which contains your CV, score sheet, certificates, and representative publications if you are interested.
 
