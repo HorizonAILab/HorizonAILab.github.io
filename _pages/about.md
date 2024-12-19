@@ -73,7 +73,7 @@ Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
 </div>
 </div>
 
-# Projects
+# 💻 Projects
 
 - Robust Multiple Instance Learning via Sparse Optimization, [National Science Foundation of China](https://www.nsfc.gov.cn/), 2020–2022, Principal Investigator.
 
