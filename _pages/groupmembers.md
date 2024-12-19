@@ -5,8 +5,6 @@ permalink: /groupmembers/
 author_profile: true
 ---
 
-<font color=red>I am currently recruiting self-motivated PhD and MPhil students. Please carefully read the following contents before sending me an E-mail:</font>
-
 # Group Members (课题组成员)
 
 ## PhD Student
