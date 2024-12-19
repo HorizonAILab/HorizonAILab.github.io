@@ -5,7 +5,9 @@ permalink: /news/
 author_profile: true
 ---
 
-* 2024.12.10: Two papers "Semi-Supervised Multi-View Multi-Label Learning with View-Specific Transformer and Enhanced Pseudo-Label" and "Core-to-Global Reasoning for Compositional Visual Question Answering" accepted by _**39th AAAI Conference on Artificial Intelligence (AAAI-25)**_. Congratulations to Quanjiang Li, Hao Zhou and all coauthors.
+# 🔥 News
+
+* 2024.12.10: &nbsp;🎉🎉 Two papers "Semi-Supervised Multi-View Multi-Label Learning with View-Specific Transformer and Enhanced Pseudo-Label" and "Core-to-Global Reasoning for Compositional Visual Question Answering" accepted by _**39th AAAI Conference on Artificial Intelligence (AAAI-25)**_. Congratulations to Quanjiang Li, Hao Zhou and all coauthors.
 
 * 2024.10.08: One papers "Dynamic Collaborative Learning with Heterogeneous Knowledge Transfer for Long-tailed Visual Recognition" accepted by _**Information Fusion**_. Congratulations to Hao Zhou and all coauthors.
 
