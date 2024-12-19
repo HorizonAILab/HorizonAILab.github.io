@@ -5,8 +5,6 @@ main:
 
   - title: "News"
     url: "/news/"
-  
-  - title
 
   - title: "Services"
     url: /services/ 
