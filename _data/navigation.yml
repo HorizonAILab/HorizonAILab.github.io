@@ -21,7 +21,7 @@ main:
     url: "/groupmembers/"
 
   - title: "Enrollment Informations"
-    url: "/enrollment-information/"
+    url: "/enrollmentinformation/"
 
   - title: "Contact"
     url: "/#contact"
