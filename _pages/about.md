@@ -82,6 +82,7 @@ Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
 
 # 🏆 Honors and Awards
 - 湖南省数学建模竞赛优秀指导教师，12/2024
+- 优秀本科生毕业设计指导老师, 08/2023
 - 湖南省数学建模竞赛优秀指导教师，12/2022
 - 湖南省“芙蓉计划”湖湘青年英才、湖湘青年科技创新人才，09/2021
 - 湖南省数学建模竞赛优秀指导教师，12/2021
