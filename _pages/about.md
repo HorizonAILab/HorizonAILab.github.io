@@ -69,10 +69,32 @@ Hao Zhou, Jun Zhang, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/pub_figs/DIMvLN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Incomplete Multi-View Learning Network with Insufficient Label Information](https://ojs.aaai.org/index.php/AAAI/article/view/29189), _AAAI_, 2024, \[[**code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]\\
+**Zhangqi Jiang**, Tingjin Luo, Xinyan Liang
+-  To tackle the double missing of features and labels problem, we propose a novel deep incomplete multi-view learning network (DIMvLN) to tackle the problem of insufficient label information in multi-view learning.
+- DIMvLN integrates graph neural networks and semi-supervised learning into a unified framework to effectively handle incomplete multi-view data and insufficient label information.
+- Extensive experiments on real-world datasets demonstrate the effectiveness of DIMvLN in improving the performance of multi-view learning tasks.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/pub_figs/DIMvLN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Incomplete Multi-View Learning Network with Insufficient Label Information](https://ojs.aaai.org/index.php/AAAI/article/view/29189), _AAAI_, 2024, \[[**code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]\\
+**Zhangqi Jiang**, Tingjin Luo, Xinyan Liang
+-  To tackle the double missing of features and labels problem, we propose a novel deep incomplete multi-view learning network (DIMvLN) to tackle the problem of insufficient label information in multi-view learning.
+- DIMvLN integrates graph neural networks and semi-supervised learning into a unified framework to effectively handle incomplete multi-view data and insufficient label information.
+- Extensive experiments on real-world datasets demonstrate the effectiveness of DIMvLN in improving the performance of multi-view learning tasks.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/pub_figs/TPAMI2025CFEN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring the Essence of Relationships for Scene Graph Generation via Causal Features Enhancement Network](https://ieeexplore.ieee.org/document/9858006), IEEE Transactions on Pattern Analysis and Machine Intelligence [[Code]](https://github.com/zhouhao0515/unbiasedSGG-DSDI)\\
+[Exploring the Essence of Relationships for Scene Graph Generation via Causal Features Enhancement Network](https://ieeexplore.ieee.org/document/9858006), IEEE Transactions on Pattern Analysis and Machine Intelligence [[Code]](https://github.com/zhouhao0515/unbiasedSGG-CFEN)\\
 Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Liguo Liu
 
 - Existing SGG methods often fit the relationships' distribution by introducing language prior or statistical knowledge. However, the relationships should be the semantic reflection of the interaction between objects, rather than the statistical dependency between their categories. 
