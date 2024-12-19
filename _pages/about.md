@@ -82,7 +82,7 @@ Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
 - Provincial NSF Project for Distinguished Young Scholars， [National Science Foundation of Hunan Province](https://kjt.hunan.gov.cn/kjt/zxgz/zkjj/index.html), 2025–2027, Principal Investigator.
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - Outstanding Talents Program of NUDT, 07/2021
 - Fund for NUDT Young Innovator Awards, 12/2020
 - Outstanding Doctoral Dissertation Award of SESC, 10/2020 (4 in China)
