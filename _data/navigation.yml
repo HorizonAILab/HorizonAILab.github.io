@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Enrollment Informations"
-    url: "/#enrollment"
+    url: "/#enrollment-Informations-(招生信息)"
 
   - title: "News"
     url: "/news/"
