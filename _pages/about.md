@@ -51,9 +51,9 @@ I have published 50+ papers <a href='https://scholar.google.com/citations?user=w
 [Debiased Scene Graph Generation for Dual Imbalance Learning](https://ieeexplore.ieee.org/document/9858006), IEEE Transactions on Pattern Analysis and Machine Intelligence [[Code]](https://github.com/zhouhao0515/unbiasedSGG-DSDI)\\
 Hao Zhou, Jun Zhang, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei
 
-- Scene graph generation (SGG) is one of the hottest topics in computer vision and has attracted many interests since it provides rich semantic information between objects. In practice, the SGG datasets are often dual imbalanced, presented as a large number of backgrounds and rarely few foregrounds, and highly skewed foreground relationships categories (i.e., the long-tailed distribution). 
+- Scene graph generation (SGG) is one of the hottest topics in computer vision and has attracted many interests since it provides rich semantic information between objects. In practice, the SGG datasets are often dual imbalanced, presented as a large number of backgrounds and rarely few foregrounds, and highly skewed foreground relationships categories. 
 - To reduce its side effect and make the contributions of different categories equally, we propose a novel debiased SGG method (named DSDI) by incorporating biased resistance loss and causal intervention tree.
-- To learn more discriminate representation of the foreground by expanding the foreground features space, the biased resistance loss decouples the background classification from foreground relationship recognition. Meanwhile, a causal graph of content and context is designed to remove the context bias and learn unbiased relationship features via casual intervention tree.
+- To learn more discriminate representation of the foreground by expanding the foreground features space, the biased resistance loss decouples the background classification from foreground relationship recognition. Meanwhile, a causal graph of content and context is designed to learn unbiased relationship features via casual intervention tree.
 </div>
 </div>
 
