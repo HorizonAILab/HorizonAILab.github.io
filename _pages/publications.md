@@ -34,8 +34,15 @@ author_profile: true
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Multi-experts Collaboration Learning for Long-tailed Visual Recognition, _Information Fusion_, Volume 115, 102734, March 2025. (CAAI A, JCR Q1, IF: 14.7)
 
 * Yueying Liu, Tingjin Luo#. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. Frontiers of Computer Science, 2025, 19(2): 192307 https://doi.org/10.1007/s11704-023-3228-0. (2023.03投稿Xiaobo Sheng，2023.11.19Accept，CCF B类期刊)
-* 
-* 
+
+* Hao Zhou, Tingjin Luo#, Yongming He, Jun Zhang. Dynamic Collaborative Learning with Heterogeneous Knowledge Transfer for Long-tailed Visual Recognition, Information Fusion, 2025, Volume 115, March 2025, 102734. https://doi.org/10.1016/j.inffus.2024.102734. (CAAI A类期刊)
+
+* Xinyue Zhang, Tingjin Luo#. Imbalanced Multi-instance Multi-label Learning via Tensor Product-based Semantic Fusion. Frontiers of Computer Science, 2024, Accepted. (JCR Q2, CCF B)
+
+* Quanjiang Li, Tingjin Luo#, Mingdie Jiang, Zhangqi Jiang, Chenping Hou, Feijiang Li. Semi-Supervised Multi-View Multi-Label Learning with View-Specific Transformer and Enhanced Pseudo-Label. Proceedings of the Thirty-Nineth AAAI Conference on Artificial Intelligence, 2025, Accepted. (CCF A)
+
+* Hao Zhou, Tingjin Luo#, Zhangqi Jiang. Core-to-Global Reasoning for Compositional Visual Question Answering. Proceedings of the Thirty-Nineth AAAI Conference on Artificial Intelligence, 2025, Under Review. (CCF A)
+
 
 ### 2024
 
