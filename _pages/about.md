@@ -81,10 +81,10 @@ Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
 
 
 # 🏆 Honors and Awards
-- 湖南省数学建模竞赛优秀指导教授，12/2024
-- 湖南省数学建模竞赛优秀指导教授，12/2022
+- 湖南省数学建模竞赛优秀指导教师，12/2024
+- 湖南省数学建模竞赛优秀指导教师，12/2022
 - 湖南省“芙蓉计划”湖湘青年英才、湖湘青年科技创新人才，09/2021
-- 湖南省数学建模竞赛优秀指导教授，12/2021
+- 湖南省数学建模竞赛优秀指导教师，12/2021
 - Outstanding Talents Program of NUDT, 07/2021
 - Fund for NUDT Young Innovator Awards, 12/2020
 - Outstanding Doctoral Dissertation Award of SESC（中国系统工程学会优秀博士学位论文）, 10/2020 (4 in China)
