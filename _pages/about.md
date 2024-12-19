@@ -135,5 +135,5 @@ Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
 Office: Room S481, College of Sciences, National University of Defense Technology
 办公地址： 国防科技大学理学院应用数学研究中心S481室
 
-Address: College of Liberal Arts and Sciences, National University of Defense Technology: No.1 Fuyuan Road, Kaifu District, Changsha, Hunan, China, 410073
+Address: No.1 Fuyuan Road, Kaifu District, Changsha, Hunan, China, 410073
 通讯地址： 湖南省长沙市开福区福元路一号国防科技大学理学院应用数学研究中心
