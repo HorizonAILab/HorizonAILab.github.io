@@ -33,6 +33,10 @@ author_profile: true
 
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Multi-experts Collaboration Learning for Long-tailed Visual Recognition, _Information Fusion_, Volume 115, 102734, March 2025. (CAAI A, JCR Q1, IF: 14.7)
 
+* Yueying Liu, Tingjin Luo#. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. Frontiers of Computer Science, 2025, 19(2): 192307 https://doi.org/10.1007/s11704-023-3228-0. (2023.03投稿Xiaobo Sheng，2023.11.19Accept，CCF B类期刊)
+* 
+* 
+
 ### 2024
 
 * **Tingjin Luo**, Yang Yang<sup>#</sup>, Dongyun Yi, Jieping Ye. Robust discriminative feature learning with calibrated data reconstruction and sparse low-rank model, _Applied Intelligence_, vol. 54, 2867–2880 (2024). (ESI, JCR Q2, IF: 3.4)[[PDF]](https://link.springer.com/article/10.1007/s10489-017-1060-7)
@@ -47,7 +51,7 @@ author_profile: true
 
 * Hong Tao, Jiacheng Jiang, Chenping Hou<sup>#</sup>, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2024, 33(1): 957 - 971. (JCR Q1, CCF A, IF: 10.8) [[PDF]](https://ieeexplore.ieee.org/document/10411763)
 
-* 周浩，**罗廷金**<sup>#</sup>，崔国恒. 结合对象属性识别的图像场景图生成方法研究. _**计算机科学**_, 2024, 录用. (CCF T2级中文期刊)
+* 周浩，**罗廷金**<sup>#</sup>，崔国恒. 结合对象属性识别的图像场景图生成方法研究. _**计算机科学**_, 2024, 51（11）： 205-212. (CCF T2级中文期刊)
 
 * 周浩，王超，崔国恒，**罗廷金**<sup>#</sup>.基于多语义关联与融合的视觉问答模型.  _**计算机应用**_, 2024, 录用. (CCF T2级中文期刊) 
 
