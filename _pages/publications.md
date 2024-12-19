@@ -47,6 +47,10 @@ author_profile: true
 
 * Hong Tao, Jiacheng Jiang, Chenping Hou<sup>#</sup>, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2024, 33(1): 957 - 971. (JCR Q1, CCF A, IF: 10.8) [[PDF]](https://ieeexplore.ieee.org/document/10411763)
 
+* 周浩，**罗廷金**<sup>#</sup>，崔国恒. 结合对象属性识别的图像场景图生成方法研究. _**计算机科学**_, 2024, 录用. (CCF T2级中文期刊)
+
+* 周浩，王超，崔国恒，**罗廷金**<sup>#</sup>.基于多语义关联与融合的视觉问答模型.  _**计算机应用**_, 2024, 录用. (CCF T2级中文期刊) 
+
 ### 2023
 
 * Hao Zhou, Jun Zhang<sup>#</sup>, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 45, no. 4, pp. 4274-4288, 1 April 2023. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9858006)
