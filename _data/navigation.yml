@@ -15,5 +15,8 @@ main:
   - title: "Patents"
     url: "/patents/"
 
+  - title: "Group Members (课题组成员)"
+    url: "/groupmembers/"
+
   - title: "Contact"
     url: "/#contact"
