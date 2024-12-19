@@ -66,7 +66,7 @@ author_profile: true
 
 ### 2023
 
-* Hao Zhou, Jun Zhang<sup>#</sup>, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 45, no. 4, pp. 4274-4288, 1 April 2023. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9858006)
+* Hao Zhou, Jun Zhang<sup>#</sup>, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 45, no. 4, pp. 4274-4288, 1 April 2023. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9858006)[[CODE]](https://github.com/zhouhao0515/unbiasedSGG-DSDI)
 
 * Xinyue Dong, **Tingjin Luo**<sup>#</sup>, Ruidong Fan, Wenzhang Zhuge, Chenping Hou<sup>#</sup>, Active Label Distribution Learning via Kernel Maximum Mean Discrepancy, _Frontiers of Computer Science_, 2023, 17(4): 174327.  (JCR Q2, CCF B, CCF T1, IF: 2.669) [[PDF]](https://link.springer.com/article/10.1007/s11704-022-1624-5)
 
