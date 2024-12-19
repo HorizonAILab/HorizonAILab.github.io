@@ -23,6 +23,8 @@ redirect_from:
 
 <font color=#FF000 >课题组欢迎真正热爱科研、喜欢探索、乐于挑战、想学知识的同学加入。**特别提醒**：如果你只是单纯想通过读研获得学位上的提升，请不要联系我，否则在这个过程中我们双方都会很难受。</font>
 
+<font color=red>I am currently recruiting self-motivated PhD and MPhil students. Please carefully read the following contents before sending me an E-mail:</font>
+
 # Research (研究领域)
 My research interests lie in machine learning, data mining, and learning-based vision problems. Particularly, I'm interested in weakly-supervised learning and its applications, such as semi-supervised learning, multi-label learning, label noise learning, partial label learning, etc. 
 
