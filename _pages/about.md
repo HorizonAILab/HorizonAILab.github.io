@@ -70,24 +70,32 @@ Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
 </div>
 </div>
 
-# Contact
+# Projects
 
-Address: College of Liberal Arts and Sciences, National University of Defense Technology: No.1 Fuyuan Road, Kaifu District, Changsha, Hunan, China, 410073
-通讯地址： 湖南省长沙市开福区福元路一号国防科技大学理学院应用数学研究中心
+- Robust Multiple Instance Learning via Sparse Optimization, [National Science Foundation of China](https://www.nsfc.gov.cn/), 2020–2022, Principal Investigator.
 
+- Dynamic Multi-label Learning Theory and Methods for Open-source Intelligence Analysis, [National Science Foundation of China](https://www.nsfc.gov.cn/), 2024–2027, Principal Investigator.
 
-Office: Room S481, College of Sciences, National University of Defense Technology
-办公地址： 国防科技大学理学院S481室
-
+- Provincial NSF Project for Distinguished Young Scholars， [National Science Foundation of Hunan Province](https://kjt.hunan.gov.cn/kjt/zxgz/zkjj/index.html), 2025–2027, Principal Investigator.
 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations and Work Experience
+
+- 09/2007-06/2011: National University of Defense Technology (NUDT,国防科技大学), B.E.
+
+- 09/2011-12/2013: National University of Defense Technology (NUDT,国防科技大学), Ph.D.
+
+- 03/2014-06/2018: National University of Defense Technology (NUDT,国防科技大学), Ph.D.
+
+- 10/2015-09/2017: University of Michigan, Ann Arbor (UMich,美国密歇根大学安娜堡分校), Ph.D.
+
+- 06/2020-Now: National University of Defense Technology (NUDT), Associate Professor in College of Sciences
+
+- 07/2018-12/2020: National University of Defense Technology (NUDT), Assistant Professor in College of Sciences
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -95,3 +103,11 @@ Office: Room S481, College of Sciences, National University of Defense Technolog
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# Contact
+
+Office: Room S481, College of Sciences, National University of Defense Technology
+办公地址： 国防科技大学理学院应用数学研究中心S481室
+
+Address: College of Liberal Arts and Sciences, National University of Defense Technology: No.1 Fuyuan Road, Kaifu District, Changsha, Hunan, China, 410073
+通讯地址： 湖南省长沙市开福区福元路一号国防科技大学理学院应用数学研究中心
