@@ -122,6 +122,12 @@ Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
 
 - Multivariate Statistical Analysis(多元统计分析，秋季学期，面向应用统计学专业) -- 2020 Fall, NUDT
 
+# 🚀 Machine Learning Resources
+- [Practical tips for machine learning practitioners](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), via Pedro Domingos.
+- [The Master Algorithm](http://www.basicbooks.com/full-details?isbn=9780465065707), written by Pedro Domingos.
+- [Introduction to machine learning for social scientists](https://tyleransom.github.io/research/IntroMachineLearning.pdf), Introduction to machine learning for social scientists: Slides from a short presentation that outlines what machine learning is and how social scientists can benefit from using its methods.
+
+
 # 📧 Contact
 
 Office: Room S481, College of Sciences, National University of Defense Technology
