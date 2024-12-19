@@ -53,7 +53,7 @@ Hao Zhou, Jun Zhang, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei
 
 - Scene graph generation (SGG) is one of the hottest topics in computer vision and has attracted many interests since it provides rich semantic information between objects. In practice, the SGG datasets are often dual imbalanced, presented as a large number of backgrounds and rarely few foregrounds, and highly skewed foreground relationships categories (i.e., the long-tailed distribution). 
 - To reduce its side effect and make the contributions of different categories equally, we propose a novel debiased SGG method (named DSDI) by incorporating biased resistance loss and causal intervention tree.
-- We first deeply analyze the potential causes of dual imbalanced problem in SGG. Then, to learn more discriminate representation of the foreground by expanding the foreground features space, the biased resistance loss decouples the background classification from foreground relationship recognition. Meanwhile, a causal graph of content and context is designed to remove the context bias and learn unbiased relationship features via casual intervention tree.
+- To learn more discriminate representation of the foreground by expanding the foreground features space, the biased resistance loss decouples the background classification from foreground relationship recognition. Meanwhile, a causal graph of content and context is designed to remove the context bias and learn unbiased relationship features via casual intervention tree.
 </div>
 </div>
 
@@ -90,9 +90,8 @@ Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
 Quanjiang Li, **Tingjin Luo#**, Jiaohui Liao
 
 
-- Incomplete features and label noise in multi-view multi-label data significantly undermine the reliability and performance, motivating researchers to explore the mechanism of representation and information recovery.
-- We propose a theory-inspired Deep Multi-View Multi-Label Learning method with Incomplete Views and Noisy Labels named DMMIvNL to address these problems.
-- Specifically, to promote the synthesis of task-relevant shared information and preserve the distinctiveness of individual features from limited views, we have developed a feature extraction modular based on the information bottleneck theory, and formulated its theoretical upper bound into its objective.
+- Incomplete features and label noise in multi-view multi-label data significantly undermine the reliability and performance.
+- We propose a theory-inspired Deep Multi-View Multi-Label Learning method with Incomplete Views and Noisy Labels named DMMIvNL. Specifically, to promote the synthesis of task-relevant shared information and preserve the distinctiveness of individual features from limited views, we have developed a feature extraction modular based on the information bottleneck theory, and formulated its theoretical upper bound into its objective.
 - Meanwhile, we theoretically prove that minimizing the volume of the transition matrix ensures the statistical consistency with classifier training. Besides, a cycle-consistent estimation principle is proposed in the volume minimization network to improve the recognition stability of multi-label noise. Moreover, leveraging inherent real semantics information and label correlations are employed as model regularization to reduce the risk of excessive noise fitting.
 </div>
 </div>
