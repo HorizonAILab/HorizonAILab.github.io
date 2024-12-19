@@ -29,7 +29,7 @@ I have published 50+ papers <a href='https://scholar.google.com/citations?user=w
 我的研究方向主要为机器学习、数据挖掘及基于学习的计算机视觉问题。特别地，我关注多视图学习、弱监督学习方法及其应用，比如半监督学习、标签噪声学习、偏标记学习等。
 
 
-# Enrollment Informations (招生信息)
+# 👨🏻‍👩🏻‍👦🏻‍👦🏻 Enrollment Informations (招生信息)
 
 <font color=red>课题组欢迎真正热爱科研、喜欢探索、乐于挑战、想学知识的同学加入。特别提醒：如果你只是单纯想通过读研获得学位上的提升，请不要联系我，否则在这个过程中我们双方都会很难受。</font>
 
