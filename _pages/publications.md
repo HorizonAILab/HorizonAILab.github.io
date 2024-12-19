@@ -43,7 +43,6 @@ author_profile: true
 
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Zhangqi Jiang. Core-to-Global Reasoning for Compositional Visual Question Answering. Proceedings of the Thirty-Nineth AAAI Conference on Artificial Intelligence, 2025, Accepted. (CCF A类会议)
 
-
 ### 2024
 
 * **Tingjin Luo**, Yang Yang<sup>#</sup>, Dongyun Yi, Jieping Ye. Robust discriminative feature learning with calibrated data reconstruction and sparse low-rank model, _Applied Intelligence_, vol. 54, 2867–2880 (2024). (ESI, JCR Q2, IF: 3.4)[[PDF]](https://link.springer.com/article/10.1007/s10489-017-1060-7)
