@@ -112,7 +112,7 @@ Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
 - 10/2020: "基于非凸稀疏优化的鲁棒多示例学习方法", _中国系统工程学会第21届学术年会 2020_, **中国陕西西安**,  大会报告
 - 01/2019: "高维数据特征分析方法", _学校量子交叉学术年会 2018_, **中国湖南长沙**,  小组报告
 
-# Teaching Experience
+# 📚 Teaching Experience
 
 - Probability and Mathematical Statistics(概率论与梳理统计，春季学期，面向工科专业) -- 2020-2022，NUDT
 
