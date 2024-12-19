@@ -21,7 +21,7 @@ redirect_from:
 
 **简介**: 罗廷金现任[国防科技大学](https://www.nudt.edu.cn/)[理学院](https://www.nudt.edu.cn/xysz/wlxy/index.htm)副教授。于2018年获博士学位，已在顶级期刊或会议上发表60余篇学术论文，主要包括IEEE TPAMI，IEEE TKDE, IEEE TIP, IEEE TCYB, KDD, AAAI, ICME, PAKDD等。目前担任IEEE TIP、IEEE TKDE、中国科学等10余家国际权威期刊审稿人，并受邀担任ICML、IJCAI、AAAI、ICDM、ICPR等多个国际会议的PC Member。主持基础加强重点项目课题、国家自然科学基金等6项。获中国系统工程学会优秀博士学位论文奖、湖南省优秀博士学位论文、学校秀青年创新奖等荣誉。入选湖南省湖湘青年英才计划和高层次卓越人才计划等。
 
-<font color=red>课题组欢迎真正热爱科研、喜欢探索、乐于挑战、想学知识的同学加入。**特别提醒**：如果你只是单纯想通过读研获得学位上的提升，请不要联系我，否则在这个过程中我们双方都会很难受。</font>
+<font color=red>课题组欢迎真正热爱科研、喜欢探索、乐于挑战、想学知识的同学加入。特别提醒：如果你只是单纯想通过读研获得学位上的提升，请不要联系我，否则在这个过程中我们双方都会很难受。</font>
 
 # Research (研究领域)
 My research interests lie in machine learning, data mining, and learning-based vision problems. Particularly, I'm interested in weakly-supervised learning and its applications, such as semi-supervised learning, multi-label learning, label noise learning, partial label learning, etc. 
