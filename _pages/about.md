@@ -21,14 +21,29 @@ redirect_from:
 
 **简介**: 罗廷金现任[国防科技大学](https://www.nudt.edu.cn/)[理学院](https://www.nudt.edu.cn/xysz/wlxy/index.htm)副教授。于2018年获博士学位，已在顶级期刊或会议上发表60余篇学术论文，主要包括IEEE TPAMI，IEEE TKDE, IEEE TIP, IEEE TCYB, KDD, AAAI, ICME, PAKDD等。目前担任IEEE TIP、IEEE TKDE、中国科学等10余家国际权威期刊审稿人，并受邀担任ICML、IJCAI、AAAI、ICDM、ICPR等多个国际会议的PC Member。主持基础加强重点项目课题、国家自然科学基金等6项。获中国系统工程学会优秀博士学位论文奖、湖南省优秀博士学位论文、学校秀青年创新奖等荣誉。入选湖南省湖湘青年英才计划和高层次卓越人才计划等。
 
-<font color=red>课题组欢迎真正热爱科研、喜欢探索、乐于挑战、想学知识的同学加入。特别提醒：如果你只是单纯想通过读研获得学位上的提升，请不要联系我，否则在这个过程中我们双方都会很难受。</font>
-
 # Research (研究领域)
 My research interests lie in machine learning, data mining, and learning-based vision problems. Particularly, I'm interested in weakly-supervised learning and its applications, such as semi-supervised learning, multi-label learning, label noise learning, partial label learning, etc. 
 
 I have published 50+ papers <a href='https://scholar.google.com/citations?user=w0YDfhcAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FHorizonAILab%2Fhorizonailab.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as KDD, AAAI and ACM MM etc. 
 
 我的研究方向主要为机器学习、数据挖掘及基于学习的计算机视觉问题。特别地，我关注多视图学习、弱监督学习方法及其应用，比如半监督学习、标签噪声学习、偏标记学习等。
+
+
+# Enrollment Informations (招生信息)
+
+<font color=red>课题组欢迎真正热爱科研、喜欢探索、乐于挑战、想学知识的同学加入。特别提醒：如果你只是单纯想通过读研获得学位上的提升，请不要联系我，否则在这个过程中我们双方都会很难受。</font>
+
+There are opening research positions in my group at all levels, including Postdoc, research assistant, Ph.D. student, and master student. Please send me an E-mail which contains your CV, score sheet, certificates, and representative publications if you are interested.
+
+<font color=red>I am currently recruiting self-motivated undergraduate students (mainly @NUDT) to join my group for research training. Please carefully read the following contents before sending me an E-mail:</font>
+
+**Research interests**: I mainly study how to design advanced machine learning algorithms using mathematical tools, which can be further applied to computer vision, data mining, and other fields. Recent research interests include weakly supervised learning (e.g., semi-supervised learning, label noise robust learning, PU learning, partial label learning, etc.), interactive machine learning (curriculum learning, machine teaching, etc.).
+
+**Admission expectations**: I prefer the students who have solid mathematical foundations, strong programming skills, and good English abilities (listening/speaking/reading/writing). The experiences in research (e.g. academic competition, publications, extracurricular academic activities, etc.) will be a benefit. Besides, I also recommend you take [Machine Learning Course instructed by Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) (or at least one of pattern recognition or computer vision classes) before getting into machine learning research.
+
+**Training objectives**: 1) After carefully organized scientific research training, the students are expected to gain solid professional knowledge, rigorous scientific thinking, strong practical ability, broad academic vision, and important scientific literacy for independent problem discovery, thinking, and solving; 2)Publish high-level and impactful papers in top journals or conferences, and is interested in continuing academic research after graduation.
+
+**My promise**: 1) Since I have always been in the frontline of scientific research, I will provide you a full range of effective guidance in algorithm design, coding, experimental verification, paper writing, patent application, presentation, etc. 2) Provide you enjoyable scientific research atmosphere, comfortable research environment, generous allowance/rewards, and efficient computing equipment; 3) I will not let you deal with administrative affairs that are not related to your research, so as to ensure that you have sufficient time for your research; 4) For the students who succesfully get their papers accepted by top conferences, I will try my best to financially support them to participate in the conferences; 5) For outstanding PhD students, I will provide a joint training opportunity with overseas universities with a duration of 0.5-2 years; 6) For outstanding graduates, I would be happy to write recommendation letters for job hunting or university application.
 
 # 📝 Representative Publications (部分代表性论文)
 
