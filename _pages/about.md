@@ -80,8 +80,16 @@ Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Outstanding Talents Program of NUDT, 07/2021
+- Fund for NUDT Young Innovator Awards, 12/2020
+- Outstanding Doctoral Dissertation Award of SESC, 10/2020 (4 in China)
+- Outstanding Doctoral Dissertation Award of Hunan Province, 08/2020
+- NUDT Postgraduate Academic Innovation Star, 10/2017 (10 out of 300+)
+- NUDT ZhouMingXi Scholarship, 12/2017
+- CSC Scholarship, 10/2015-09/2017
+
+-  中国系统工程学会优秀博士学位论文奖，10/2020
+-  湖南省优秀博士学位论文，08/2020
 
 # 📖 Educations and Work Experience
 
@@ -98,11 +106,25 @@ Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
 - 07/2018-12/2020: National University of Defense Technology (NUDT), Assistant Professor in College of Sciences
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 08/2017: Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning, _Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery & Data Mining_, **Halifax, Canada** (Oral)\| [\[video\]](https://github.com/)
+- 10/2020: "基于非凸稀疏优化的鲁棒多示例学习方法", _中国系统工程学会第21届学术年会 2020_, **中国陕西西安**,  大会报告
+- 01/2019: "高维数据特征分析方法", _学校量子交叉学术年会 2018_, **中国湖南长沙**,  小组报告\| [\[video\]](https://github.com/)
+
+# Teaching Experience
+
+## Undergraduate Courses (本科生课程)
+
+- Probability and Mathematical Statistics(概率论与梳理统计，春季学期，面向工科专业) -- 2020-2022，NUDT
+
+- Mathematical Modeling(数学建模，春季学期，面向工科专业) -- 2023-Now，NUDT
+
+- Statistical Forecasting and Decision Making(统计预测与决策，秋季学期，面向应用统计学专业) -- 2019-Now, NUDT
+
+- Multivariate Statistical Analysis(多元统计分析，秋季学期，面向应用统计学专业) -- 2020 Fall, NUDT
+
+## Graduate Courses (研究生课程)
+
 
 # Contact
 
