@@ -33,7 +33,7 @@ author_profile: true
 
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Multi-experts Collaboration Learning for Long-tailed Visual Recognition, _Information Fusion_, Volume 115, 102734, March 2025. (CAAI A, JCR Q1, IF: 14.7)
 
-* Yueying Liu, **Tingjin Luo**<sup>#</sup>. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. Frontiers of Computer Science, 2025, 19(2): 192307 https://doi.org/10.1007/s11704-023-3228-0. (2023.03投稿Xiaobo Sheng，2023.11.19Accept，CCF B类期刊)
+* Yueying Liu, **Tingjin Luo**<sup>#</sup>. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. Frontiers of Computer Science, 2025, 19(2): 192307. (JCR Q2, CCF B) [[PDF]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-3228-0)
 
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Collaborative Learning with Heterogeneous Knowledge Transfer for Long-tailed Visual Recognition, Information Fusion, 2025, Volume 115, March 2025, 102734. https://doi.org/10.1016/j.inffus.2024.102734. (CAAI A类期刊)
 
@@ -41,7 +41,7 @@ author_profile: true
 
 * Quanjiang Li, **Tingjin Luo**<sup>#</sup>, Mingdie Jiang, Zhangqi Jiang, Chenping Hou, Feijiang Li. Semi-Supervised Multi-View Multi-Label Learning with View-Specific Transformer and Enhanced Pseudo-Label. Proceedings of the Thirty-Nineth AAAI Conference on Artificial Intelligence, 2025, Accepted. (CCF A类会议)
 
-* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Zhangqi Jiang. Core-to-Global Reasoning for Compositional Visual Question Answering. Proceedings of the Thirty-Nineth AAAI Conference on Artificial Intelligence, 2025, Under Review. (CCF A类会议)
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Zhangqi Jiang. Core-to-Global Reasoning for Compositional Visual Question Answering. Proceedings of the Thirty-Nineth AAAI Conference on Artificial Intelligence, 2025, Accepted. (CCF A类会议)
 
 
 ### 2024
@@ -54,13 +54,16 @@ author_profile: true
 
 * Zhangqi Jiang, **Tingjin Luo**<sup>#</sup>, Xinyan Liang. Deep Incomplete Multi-View Learning Network with Insufficient Label Information, _38th AAAI Conference on Artificial Intelligence (AAAI-24)_, Accepted. (CCF A) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/29189)
 
-* Yueying Liu, **Tingjin Luo**<sup>#</sup>. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. _Frontiers of Computer Science_, 2024, Accepted.  (JCR Q2, CCF B) [[PDF]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-3228-0)
-
 * Hong Tao, Jiacheng Jiang, Chenping Hou<sup>#</sup>, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2024, 33(1): 957 - 971. (JCR Q1, CCF A, IF: 10.8) [[PDF]](https://ieeexplore.ieee.org/document/10411763)
 
 * 周浩，**罗廷金**<sup>#</sup>，崔国恒. 结合对象属性识别的图像场景图生成方法研究. _**计算机科学**_, 2024, 51（11）： 205-212. (CCF T2级中文期刊)
 
 * 周浩，王超，崔国恒，**罗廷金**<sup>#</sup>.基于多语义关联与融合的视觉问答模型.  _**计算机应用**_, 2024, 录用. (CCF T2级中文期刊) 
+
+* Xinyue Zhang, **Tingjin Luo**<sup>#</sup>, Yueying Liu, Chenping Hou. Imbalanced Multi-instance Multi-label Learning via Coding Ensemble and Adaptive Thresholds. The 32nd ACM International Conference on Multimedia, October 28 - November 1, 2024, Melbourne , VIC , Australia, 2024, Association for Computing Machinery, New York, NY, USA, 5413–5422.[[PDF]](https://doi.org/10.1145/3664647.3680911) (CCF A类会议) 
+
+* Quanjiang Li, **Tingjin Luo**<sup>#</sup>, Mingdie Jiang, Jiahui Liao, Zhangqi Jiang. Deep Incomplete Multi-View Network Semi-Supervised Multi-Label Learning with Unbiased Loss. The 32nd ACM International Conference on Multimedia, October 28 - November 1, 2024, Melbourne, VIC , Australia, 2024, Association for Computing Machinery, New York, NY, USA, 9048–9056. [[PDF]](https://doi.org/10.1145/3664647.3681414) (CCF A类会议)
+
 
 ### 2023
 
