@@ -12,8 +12,8 @@ main:
   - title: "Publications"
     url: "/publications/"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-    
+  - title: "Patents"
+    url: "/patents/"
+
   - title: "Contact"
     url: "/#contact"
