@@ -72,22 +72,23 @@ Hao Zhou, Jun Zhang, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/pub_figs/DIMvLN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Incomplete Multi-View Learning Network with Insufficient Label Information](https://ojs.aaai.org/index.php/AAAI/article/view/29189), _AAAI_, 2024, \[[**code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]\\
-**Zhangqi Jiang**, Tingjin Luo, Xinyan Liang
--  To tackle the double missing of features and labels problem, we propose a novel deep incomplete multi-view learning network (DIMvLN) to tackle the problem of insufficient label information in multi-view learning.
-- DIMvLN integrates graph neural networks and semi-supervised learning into a unified framework to effectively handle incomplete multi-view data and insufficient label information.
-- Extensive experiments on real-world datasets demonstrate the effectiveness of DIMvLN in improving the performance of multi-view learning tasks.
+[Imbalanced Multi-instance Multi-label Learning via Coding Ensemble and Adaptive Thresholds](https://dl.acm.org/doi/10.1145/3664647.3680911), _ACMMM_, 2024, \[[**Code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]\\
+Xinyue Zhang, **Tingjin Luo**<sup>#</sup>, Yueying Liu, Chenping Hou
+-  Multi-instance multi-label learning (MIML), which deals with objects with complex structures and multiple semantics, plays a crucial role in various fields. In practice, the naturally skewed label distribution and label dependence contribute to the issue of label imbalance in MIML, which is crucial but rarely studied.
+- To address this issue, we propose a novel imbalanced multi-instance multi-label learning method named IMIMLC, based on the error-correcting coding ensemble and an adaptive threshold strategy. 
+- Furthermore, IMIMLC adaptively learns thresholds for each individual label by margin maximization, preventing inaccurate predictions caused by the semantic discrepancy across many labels and their unbalanced ratios.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/pub_figs/DIMvLN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Incomplete Multi-View Learning Network with Insufficient Label Information](https://ojs.aaai.org/index.php/AAAI/article/view/29189), _AAAI_, 2024, \[[**code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]\\
-**Zhangqi Jiang**, Tingjin Luo, Xinyan Liang
--  To tackle the double missing of features and labels problem, we propose a novel deep incomplete multi-view learning network (DIMvLN) to tackle the problem of insufficient label information in multi-view learning.
-- DIMvLN integrates graph neural networks and semi-supervised learning into a unified framework to effectively handle incomplete multi-view data and insufficient label information.
-- Extensive experiments on real-world datasets demonstrate the effectiveness of DIMvLN in improving the performance of multi-view learning tasks.
+[Deep Incomplete Multi-View Network Semi-Supervised Multi-Label Learning with Unbiased Loss](https://dl.acm.org/doi/10.1145/3664647.3681414), _ACMMM_, 2024, \[[**code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]\\
+Quanjiang Li, **Tingjin Luo**<sup>#</sup>, Mingdie Jiang, Jiahui Liao, Zhangqi Jiang
+-  Due to the explosive growth in data sources and label categories, multi-view multi-label learning has garnered widespread attention. However, multi-view multi-label data often exhibits incomplete features and a huge number of unlabeled instances, due to the technical limitations and high cost of manual labeling in practice.
+- Learning for such simultaneous missing of view features and labels is crucial but rarely studied, particularly when the labeled samples are limited. In this paper, we tackle this problem by proposing a novel Deep Incomplete Multi-View Semi-Supervised Multi-Label Learning method (DIMvSML).
+- Specifically, to improve high-level representations of missing features, deep graph network is firstly employed to recover the feature information with structural similarity relations. Meanwhile, we design the structure-specific deep feature extractors to obtain discriminative information and preserve the cross-view consistency for the recovered data with instance-level contrastive loss. Furthermore, to eliminate the bias of the estimate of the risk that the semi-supervised multi-label methods minimise, we design a safe estimate framework with an unbiased loss and improve its empirical performance by using pseudo-labels of unlabeled data. Besides, we provide both the theoretical proof of better estimate variance and the intuitive explanation of our debiased framework.
+-  Extensive experimental results on public datasets validate the superiority of DIMvSML compared with state-of-the-art methods.
 </div>
 </div>
 
