@@ -45,7 +45,7 @@ I have published 50+ papers <a href='https://scholar.google.com/citations?user=w
 
 # 📝 Representative Publications (部分代表性论文)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2023</div><img src='images/pub_figs/middle_layers.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2023</div><img src='images/pub_figs/TPAMI2023DSDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Debiased Scene Graph Generation for Dual Imbalance Learning](https://ieeexplore.ieee.org/document/9858006), IEEE Transactions on Pattern Analysis and Machine Intelligence [[Code]](https://github.com/zhouhao0515/unbiasedSGG-DSDI)\\
