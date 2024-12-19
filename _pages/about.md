@@ -69,6 +69,18 @@ Hao Zhou, Jun Zhang, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/pub_figs/TPAMI2025CFEN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring the Essence of Relationships for Scene Graph Generation via Causal Features Enhancement Network](https://ieeexplore.ieee.org/document/9858006), IEEE Transactions on Pattern Analysis and Machine Intelligence [[Code]](https://github.com/zhouhao0515/unbiasedSGG-DSDI)\\
+Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Liguo Liu
+
+- Existing SGG methods often fit the relationships' distribution by introducing language prior or statistical knowledge. However, the relationships should be the semantic reflection of the interaction between objects, rather than the statistical dependency between their categories. 
+- To solve this problem, we propose a novel Causal Features Enhancement Network (CFEN) to mine the essential semantic features between objects and relationships. Specifically, by decomposing the object features into class-generic and object-specific components, the causal graph framework is designed to analyze these existing SGG methods. 
+- To measure the influence of object-specific features for relationship recognition, we construct the counterfactual training framework for computing the difference between fact and counterfactual logits. Besides, to strengthen the role of object-specific features and learn the interaction between objects, a distribution matching loss is proposed to compute the KL divergence between counterfactual outputs and standard difference distributions and modulate the relations predictions.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/pub_figs/middle_layers.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
