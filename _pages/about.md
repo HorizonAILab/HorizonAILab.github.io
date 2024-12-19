@@ -85,17 +85,17 @@ Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/pub_figs/middle_layers.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/pub_figs/CVPR2025DMMIvNL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](http://arxiv.org/abs/2411.16724), Submitted to Conference \\
-Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
+[Theory-Inspired Deep Multi-View Multi-Label Learning with Incomplete Views and Noisy Labels](http://arxiv.org/abs/2411.16724), Submitted to Conference \\
+Quanjiang Li, **Tingjin Luo#**, Jiaohui Liao
 
 
-- We address how LVLMs process visual information and whether this process causes hallucination.
-- First, we identify the middle layers are crucial for handling visual data in LVLMs, which can be further divided into two stages: **visual information enrichment** and **semantic refinement**.
-- Second, we find that real tokens consistently receive higher attention weights than hallucinated ones, serving as a strong indicator of hallucination.
-- Third, we observe that hallucination tokens often result from attention heads interacting with inconsistent objects.
+- Incomplete features and label noise in multi-view multi-label data significantly undermine the reliability and performance, motivating researchers to explore the mechanism of representation and information recovery.
+- We propose a theory-inspired Deep Multi-View Multi-Label Learning method with Incomplete Views and Noisy Labels named DMMIvNL to address these problems.
+- Specifically, to promote the synthesis of task-relevant shared information and preserve the distinctiveness of individual features from limited views, we have developed a feature extraction modular based on the information bottleneck theory, and formulated its theoretical upper bound into its objective.
+- Meanwhile, we theoretically prove that minimizing the volume of the transition matrix ensures the statistical consistency with classifier training. Besides, a cycle-consistent estimation principle is proposed in the volume minimization network to improve the recognition stability of multi-label noise. Moreover, leveraging inherent real semantics information and label correlations are employed as model regularization to reduce the risk of excessive noise fitting.
 </div>
 </div>
 
