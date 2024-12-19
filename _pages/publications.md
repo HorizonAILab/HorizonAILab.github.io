@@ -5,11 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Books and Chapters
+# Publications (学术论文与著作)
+
+- Note that the copyrights of the listed papers belong to the corresponding publishers, so you are not allowed to distribute them without permission. (本网页所列文章的版权归出版商所有，未经许可不得传播。)
+
+- The papers and codes on this page can only be used for research. They cannot be used for commercial purpose without permission. (本网页所列文章、代码仅供研究使用，未经许可不得用于商业用途。)
+
+- IEEE/ACM Transactions系列文章为相关领域的世界顶级期刊，AAAI、IJCAI为人工智能领域国际顶级会议，CVPR、ICCV、ECCV为计算机视觉领域国际顶级会议，ICML、NeurIPS、ICLR为机器学习领域国际顶级会议，KDD、ICDE、ICDM为数据挖掘领域国际顶级会议。
+
+## Books and Chapters
 
 ---
 
-### Preprints and Working Papers
+## Preprints and Working Papers
 (* indicates equal contributions and # indicates advisees)
 
 * Hao Zhou, Jun Zhang, **Tingjin Luo**<sup>#</sup>, Jun Lei, Shuohao Li, Not the Statistical Bias, Mining the Essential Causality for Scene Graph Generation via Causal Association Extraction Network, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2023, Under Review. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://HorizonAILab.github.io/papers/TPAMI2023-CAE-Net.pdf)
@@ -18,14 +26,14 @@ author_profile: true
 
 * Feijiang Li, Yuhua Qian, Jieting Wang, Hongren Yan, **Tingjin Luo**. SoCo: Second Order Induced Co-association Relation for Clustering Ensemble, 2024, Under Review.
 
-### Publications
+## Publications
 (* indicates equal contributions, and # indicates advisees)
 
-#### 2025
+### 2025
 
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Multi-experts Collaboration Learning for Long-tailed Visual Recognition, _Information Fusion_, Volume 115, 102734, March 2025. (CAAI A, JCR Q1, IF: 14.7)
 
-#### 2024
+### 2024
 
 * **Tingjin Luo**, Yang Yang<sup>#</sup>, Dongyun Yi, Jieping Ye. Robust discriminative feature learning with calibrated data reconstruction and sparse low-rank model, _Applied Intelligence_, vol. 54, 2867–2880 (2024). (ESI, JCR Q2, IF: 3.4)[[PDF]](https://link.springer.com/article/10.1007/s10489-017-1060-7)
 
@@ -39,7 +47,7 @@ author_profile: true
 
 * Hong Tao, Jiacheng Jiang, Chenping Hou<sup>#</sup>, **Tingjin Luo**, Ruidong Fan, Jing Zhang, Compound Weakly Supervised Clustering, _IEEE Transactions on Image Processing_, 2024, 33(1): 957 - 971. (JCR Q1, CCF A, IF: 10.8) [[PDF]](https://ieeexplore.ieee.org/document/10411763)
 
-#### 2023
+### 2023
 
 * Hao Zhou, Jun Zhang<sup>#</sup>, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei, Debiased Scene Graph Generation for Dual Imbalance Learning, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 45, no. 4, pp. 4274-4288, 1 April 2023. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9858006)
 
@@ -55,7 +63,7 @@ author_profile: true
 
 * Xiuqi Huang, Haotian Ni, **Tingjin Luo**, Hong Tao, Chenping Hou<sup>#</sup>, Decorrelated Spectral Regression: An Unsupervised Dimension Reduction Method under Data Selection Bias, Neurocomputing, Volume 549, 7 September 2023, 126406. (JCR Q2, IF: 5.779) [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005295)
 
-#### 2022
+### 2022
 
 * Jing Zhang, Hong Tao<sup>#</sup>, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Safe Incomplete Label Distribution Learning,  _Pattern Recognition_, Volume 125, May 2022, 108518. (JCR Q1, CCF B, IF: 8.518) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-SILDL.pdf)
 
@@ -63,7 +71,7 @@ author_profile: true
 
 * Xijia Tang, Chao Xu, **Tingjin Luo**, Chenping Hou<sup>#</sup>. Multi-instance positive and unlabeled learning with bi-level embedding, _Intelligent Data Analysis_, 26(3): 659-678, 2022. 
 
-#### 2021
+### 2021
 
 * Hao Zhou, Yazhou Yang, **Tingjin Luo**<sup>#</sup>, Jun Zhang<sup>#</sup>, Jun Lei, Shuohao Li, A Unified Deep Sparse Graph Attention Network for Scene Graph Generation, _Pattern Recognition_, 2021, **Accepted**. (JCR Q1, CCF B, IF: 8.518) [[PDF]](https://HorizonAILab.github.io/papers/PR2021-DSGAT.pdf)
 
@@ -73,7 +81,7 @@ author_profile: true
 
 * Xinyue Dong, Shilin Gu, Wenzhang Zhuge, **Tingjin Luo**, Chenping Hou<sup>#</sup>, Active Label Distribution Learning, _Neurocomputing_, vol. 436, pp. 12-21, 2021, DOI: 10.1016/j.neucom.2020.12.128. (JCR Q1, CCF B, IF: 5.779) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2021-ALDL.pdf)
 
-#### 2020
+### 2020
 
 * Ruidong Fan, **Tingjin Luo**, Wenzhang Zhuge, Sheng Qiang, Chenping Hou<sup>#</sup>, Multi-view Subspace Learning via Bidirectional Sparsity, _Pattern Recognition_, 108: 107524, 2020, DOI: 10.1016/j.patcog.2020.107524, (JCR Q1, CCF B, IF: 8.518). [[PDF]](https://HorizonAILab.github.io/papers/PR2020-MvSLBS.pdf)[[Code]](https://HorizonAILab.github.io/codes/MvSLBS)
 
@@ -81,7 +89,7 @@ author_profile: true
 
 * Wenzhang Zhuge, **Tingjin Luo**, Hong Tao, Chenping Hou<sup>#</sup>, Dongyun Yi, Multi-View Spectral Clustering With Incomplete Graphs, _IEEE Access_, vol. 8, pp. 99820-99831, 2020, DOI: 10.1109/ACCESS.2020.2997755. (IF: 3.745) [[PDF]](https://HorizonAILab.github.io/papers/IEEEAccess2020-MvSCIG.pdf)
 
-#### 2019
+### 2019
 
 * **Tingjin Luo**, Chenping Hou<sup>#</sup>, Feiping Nie, Dongyun Yi, Dimension Reduction for Non-Gaussian Data by Adaptive Discriminative Analysis, _IEEE Transactions on Cybernetics_, vol. 49, no. 3, pp. 933-946, March 2019, DOI: 10.1109/TCYB.2018.2789524. (JCR Q1, IF: 19.118) [[PDF]](https://HorizonAILab.github.io/papers/TCYB2019-ADA.pdf)[[CODE]](https://HorizonAILab.github.io/codes/code_ADA.zip)
 
@@ -91,7 +99,7 @@ author_profile: true
 
 * Haodong Yang, Jun Zhang<sup>#</sup>, Shuohao Li<sup>#</sup>, **Tingjin Luo**, Bi-direction Hierarchical LSTM with Spatial-Temporal Attention for Action Recognition, Journal of Intelligent & Fuzzy Systems, vol.36, no. 1, pp. 775-786, 2019, DOI: 10.3233/JIFS-18209. (IF: 1.851) [[PDF]](https://HorizonAILab.github.io/papers/JIFS2019-BHLSTM.pdf)
 
-#### 2018
+### 2018
 
 * **Tingjin Luo**, Chenping Hou<sup>#</sup>, Feiping Nie, Hong Tao, Dongyun Yi, Semi-Supervised Feature Selection via Insensitive Sparse Regression with Application to Video Semantic Recognition, _IEEE Transactions on Knowledge and Data Engineering_, vol. 30, no. 10, pp. 1943-1956, 2018, DOI: 10.1109/TKDE.2018.2810286, WOS:000444603900009. (CCF A, IF: 9.235) [[PDF]](https://HorizonAILab.github.io/papers/TKDE2018-ISR.pdf)
 
@@ -99,7 +107,7 @@ author_profile: true
 
 * Gongmin Lan, Chenping Hou<sup>#</sup>, Feiping Nie, **Tingjin Luo**, Dongyun Yi, Robust Feature Selection via Simultaneous Capped Norm and Sparse Regularizer Minimization, _Neurocomputing_, vol. 283, pp. 228-240, 2018, DOI: 10.1016/j.neucom.2017.12.055, WOS:000424896600021. (JCR Q1, CCF B, IF: 5.779) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2018-RFS.pdf)
 
-#### 2017
+### 2017
 
 * **Tingjin Luo**, Weizhong Zhang, Shuang Qiu, Yang Yang, Dongyun Yi, Guangtao Wang, Jieping Ye<sup>#</sup>, Jie Wang<sup>#</sup>, Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning, _Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2017)_, Halifax, Canada, August 2017, pp. 345-354, DOI: 10.1145/3097983.3097984, EI:  20173704157018. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/KDD2017-NMIL.pdf)
 
@@ -109,7 +117,7 @@ author_profile: true
 
 * Guangtao Wang, Jiayu Zhou, Jingjie Ni, **Tingjin Luo**, Wei Long, Hai Zhen, Gao Cong, Jieping Ye<sup>#</sup>, Robust Self-Tuning Sparse Subspace Clustering, _Procedings of 17th IEEE International Conference on Data Mining Workshops (ICDMW 2017)_, pp.858-865, New Orleans, USA, 2017, DOI: 10.1109/ICDMW.2017.117, WOS:000425845700114. [[PDF]](https://HorizonAILab.github.io/papers/ICDMW2017-RSSSC.pdf)
 
-#### Before 2017
+### Before 2017
 
 * **Tingjin Luo**, Chenping Hou<sup>#</sup>, Dongyun Yi, Jun Zhang, Discriminative Orthogonal Elastic Preserving Projections for Classification, _Neurocomputing_, vol. 179, pp. 54-68, 2016, DOI: 10.1016/j.neucom.2015.11.037, WOS:000370090300005. (JCR Q1, CCF B, IF: 5.779) [[PDF]](https://HorizonAILab.github.io/papers/Neurocomputing2016-DOEPP.pdf)
 

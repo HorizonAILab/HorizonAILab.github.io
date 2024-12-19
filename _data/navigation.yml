@@ -5,6 +5,8 @@ main:
 
   - title: "News"
     url: "/news/"
+  
+  - title
 
   - title: "Services"
     url: /services/ 
@@ -15,8 +17,11 @@ main:
   - title: "Patents"
     url: "/patents/"
 
-  - title: "Group Members (课题组成员)"
+  - title: "Group Members"
     url: "/groupmembers/"
+
+  - title: "Enrollment Informations"
+    url: "/enrollment-information/"
 
   - title: "Contact"
     url: "/#contact"
