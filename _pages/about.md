@@ -48,14 +48,13 @@ I have published 50+ papers <a href='https://scholar.google.com/citations?user=w
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2023</div><img src='images/pub_figs/middle_layers.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](http://arxiv.org/abs/2411.16724), Submitted to Conference \\
-Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
+[Debiased Scene Graph Generation for Dual Imbalance Learning](https://ieeexplore.ieee.org/document/9858006), IEEE Transactions on Pattern Analysis and Machine Intelligence [[Code]](https://github.com/zhouhao0515/unbiasedSGG-DSDI)\\
+Hao Zhou, Jun Zhang, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei
 
 
-- We address how LVLMs process visual information and whether this process causes hallucination.
-- First, we identify the middle layers are crucial for handling visual data in LVLMs, which can be further divided into two stages: **visual information enrichment** and **semantic refinement**.
-- Second, we find that real tokens consistently receive higher attention weights than hallucinated ones, serving as a strong indicator of hallucination.
-- Third, we observe that hallucination tokens often result from attention heads interacting with inconsistent objects.
+-Scene graph generation (SGG) is one of the hottest topics in computer vision and has attracted many interests since it provides rich semantic information between objects. In practice, the SGG datasets are often dual imbalanced, presented as a large number of backgrounds and rarely few foregrounds, and highly skewed foreground relationships categories (i.e., the long-tailed distribution). 
+- To reduce its side effect and make the contributions of different categories equally, we propose a novel debiased SGG method (named DSDI) by incorporating biased resistance loss and causal intervention tree.
+- We first deeply analyze the potential causes of dual imbalanced problem in SGG. Then, to learn more discriminate representation of the foreground by expanding the foreground features space, the biased resistance loss decouples the background classification from foreground relationship recognition. Meanwhile, a causal graph of content and context is designed to remove the context bias and learn unbiased relationship features via casual intervention tree.
 </div>
 </div>
 
