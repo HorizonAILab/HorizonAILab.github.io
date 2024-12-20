@@ -189,9 +189,9 @@ Quanjiang Li, **Tingjin Luo#**, Jiaohui Liao
 
 # 📚 Teaching Experience
 
-- Probability and Mathematical Statistics(概率论与梳理统计，春季学期，面向工科专业) -- 2020-2022，NUDT
+- Probability and Mathematical Statistics(概率论与梳理统计，春季学期，面向工科专业) -- 2020-2022, NUDT
 
-- Mathematical Modeling(数学建模，春季学期，面向工科专业) -- 2023-Now，NUDT
+- Mathematical Modeling(数学建模，春季学期，面向工科专业) -- 2023-Now, NUDT
 
 - Statistical Forecasting and Decision Making(统计预测与决策，秋季学期，面向应用统计学专业) -- 2019-Now, NUDT
 
@@ -201,6 +201,7 @@ Quanjiang Li, **Tingjin Luo#**, Jiaohui Liao
 - [Practical tips for machine learning practitioners](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), via Pedro Domingos.
 - [The Master Algorithm](http://www.basicbooks.com/full-details?isbn=9780465065707), written by Pedro Domingos.
 - [Introduction to machine learning for social scientists](https://tyleransom.github.io/research/IntroMachineLearning.pdf), Introduction to machine learning for social scientists: Slides from a short presentation that outlines what machine learning is and how social scientists can benefit from using its methods.
+- [CCF Rec. Conference Deadlines](https://ccfddl.com/)
 
 
 # 📧 Contact
