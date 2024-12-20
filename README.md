@@ -1,6 +1,4 @@
-<h1 align="center">
-[AcadHomepage For Tingjin Luos](https://horizonailab.github.io)
-</h1>
+# [AcadHomepage For Tingjin Luos](https://horizonailab.github.io)
 
 I am now working on weakly supervised learning and LLM security research. If you are seeking any form of academic cooperation, please feel free to email me at tingjinluo@hotmail.com.
 
