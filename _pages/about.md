@@ -49,11 +49,11 @@ My research interests lie in machine learning, data mining, and learning-based v
 <div class='paper-box-text' markdown="1">
 
 [Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning](https://ieeexplore.ieee.org/document/9858006), **<font color=navy>ACM SIGKDD International Conference on Knowledge Discovery & Data Mining</font>**, Halifax, Canada [[PDF]](https://dl.acm.org/doi/10.1145/3097983.3097984)\\
-**Tingjin Luo**, Weizhong Zhang, Shuang Qiu, Yang Yang, Dongyun Yi, Guangtao Wang, Jieping Ye<sup>#</sup>, Jie Wang<sup>#</sup>
+**Tingjin Luo**, Weizhong Zhang, Shuang Qiu, Yang Yang, Dongyun Yi, Jieping Ye, Jie Wang
 
-- Functional annotation of human genes is fundamentally important for understanding the molecular basis of various genetic diseases. A major challenge in determining the functions of human genes lies in the functional diversity of proteins, that is, a gene can perform different functions as it may consist of multiple protein coding isoforms.
-- We propose a novel approach to differentiate the functions of PCIs by integrating sparse simplex projection with the framework of multi-instance learning (MIL). To solve the resulting highly nontrivial non-convex and non-smooth optimization problem, we further develop an efficient block coordinate descent algorithm. 
-- Extensive experiments on human genome data demonstrate that the proposed approaches significantly outperform the state-of-the-art methods in terms of functional annotation accuracy of human PCIs and efficiency.
+- Functional annotation of human genes is fundamentally important for understanding the molecular basis of various genetic diseases. A major challenge in determining the functions of human genes lies in the functional diversity of proteins.
+- We propose a novel approach to differentiate the functions of PCIs by integrating sparse simplex projection with the framework of multi-instance learning and develop an efficient block coordinate descent algorithm. 
+- Extensive experiments on human genome data demonstrate that they significantly outperform the state-of-the-art methods.
 </div>
 </div>
 
