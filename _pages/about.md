@@ -52,7 +52,7 @@ My research interests lie in machine learning, data mining, and learning-based v
 **Tingjin Luo**, Weizhong Zhang, Shuang Qiu, Yang Yang, Dongyun Yi, Guangtao Wang, Jieping Ye<sup>#</sup>, Jie Wang<sup>#</sup>
 
 - Functional annotation of human genes is fundamentally important for understanding the molecular basis of various genetic diseases. A major challenge in determining the functions of human genes lies in the functional diversity of proteins, that is, a gene can perform different functions as it may consist of multiple protein coding isoforms.
--  In this paper, we propose a novel approach to differentiate the functions of PCIs by integrating sparse simplex projection---that is, a nonconvex sparsity-inducing regularizer---with the framework of multi-instance learning (MIL). To solve the resulting highly nontrivial non-convex and non-smooth optimization problem, we further develop an efficient block coordinate descent algorithm. 
+-  In this paper, we propose a novel approach to differentiate the functions of PCIs by integrating sparse simplex projection--that is, a nonconvex sparsity-inducing regularizer--with the framework of multi-instance learning (MIL). To solve the resulting highly nontrivial non-convex and non-smooth optimization problem, we further develop an efficient block coordinate descent algorithm. 
 - Extensive experiments on human genome data demonstrate that the proposed approaches significantly outperform the state-of-the-art methods in terms of functional annotation accuracy of human PCIs and efficiency.
 </div>
 </div>
