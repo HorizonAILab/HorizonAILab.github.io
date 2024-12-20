@@ -85,8 +85,8 @@ Xinyue Zhang, **Tingjin Luo**<sup>#</sup>, Yueying Liu, Chenping Hou
 
 [Deep Incomplete Multi-View Network Semi-Supervised Multi-Label Learning with Unbiased Loss](https://dl.acm.org/doi/10.1145/3664647.3681414), _ACMMM_, 2024, \[[**Code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]\\
 Quanjiang Li, **Tingjin Luo**<sup>#</sup>, Mingdie Jiang, Jiahui Liao, Zhangqi Jiang
-- Multi-view multi-label data often exhibits incomplete features and a huge number of unlabeled instances, due to the technical limitations and high cost of manual labeling in practice.
-- We propose a novel Deep Incomplete Multi-View Semi-Supervised Multi-Label Learning method (DIMvSML). Specifically, we design the structure-specific deep feature extractors to obtain discriminative information and preserve the cross-view consistency for the recovered data with instance-level contrastive loss. 
+- Multi-view multi-label data often exhibits incomplete features and a huge number of unlabeled instances, due to the high cost of manual labeling.
+- We propose a novel Deep Incomplete Multi-View Semi-Supervised Multi-Label Learning method (DIMvSML). Specifically, we design the structure-specific deep feature extractors to obtain discriminative information and preserve the cross-view consistency with instance-level contrastive loss. 
 - Furthermore, to eliminate the bias of the estimate of the risk of SSL, we design a safe estimate framework with an unbiased loss and improve its empirical performance by pseudo-labels. 
 - Besides, we provide both the theoretical proof of better estimate variance and the intuitive explanation of our debiased framework.
 </div>
