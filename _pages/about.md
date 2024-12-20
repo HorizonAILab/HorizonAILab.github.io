@@ -48,7 +48,7 @@ My research interests lie in machine learning, data mining, and learning-based v
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM KDD 2017</div><img src='images/pub_figs/ACMKDD2017WLRM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning](https://ieeexplore.ieee.org/document/9858006), **<font color=navy>ACM SIGKDD International Conference on Knowledge Discovery & Data Mining</font>**, Halifax, Canada [[PDF]](https://dl.acm.org/doi/10.1145/3097983.3097984)\\
+[Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning](https://dl.acm.org/doi/10.1145/3097983.3097984), **<font color=navy>ACM SIGKDD International Conference on Knowledge Discovery & Data Mining</font>**, Halifax, Canada [[Code]](https://github.com/HorizonAILab/Paper_Code)\\
 **Tingjin Luo**, Weizhong Zhang, Shuang Qiu, Dongyun Yi, Jieping Ye, Jie Wang
 
 - Functional annotation of genes is fundamentally important for understanding the molecular basis of various genetic diseases. A major challenge in determining the functions of genes lies in the functional diversity of proteins.
