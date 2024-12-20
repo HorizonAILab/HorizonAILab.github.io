@@ -26,7 +26,7 @@ redirect_from:
 # Research (研究领域)
 My research interests lie in machine learning, data mining, and learning-based vision problems. Particularly, I'm interested in weakly-supervised learning and its applications, such as semi-supervised learning, multi-label learning, label noise learning, partial label learning, etc. 
 
-我的研究方向主要为机器学习、数据挖掘及基于学习的计算机视觉问题。特别地，我关注多视图学习、弱监督学习方法及其应用，比如半监督学习、标签噪声学习、偏标记学习等。
+我的研究方向主要为机器学习、数据挖掘及基于学习的计算机视觉问题。特别地，我关注开放环境下的多视图学习与弱监督学习方法及其应用，比如多标签学习、半监督学习、标签噪声学习、偏标记学习等。
 
 
 # 👨🏻‍👩🏻‍👦🏻‍👦🏻 Enrollment Informations (招生信息)
