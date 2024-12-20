@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
 <span class='anchor' id='about-me'></span>
 
 <br> **Biography**: Hi, I am Associate Professor with the [College of Sciences](https://www.nudt.edu.cn/xysz/wlxy/index.htm), [National University of Defense Technology (NUDT)](https://www.nudt.edu.cn/), Changsha, Hunan, China. He has received his B.Eng. and Ph.D degree (advised by [Prof. Dongyun Yi](https://www.researchgate.net/profile/Dongyun-Yi)) from NUDT. He was a visiting Ph.D. student (advised by [Prof. Jieping Ye](http://www.yelabs.net/)) with the University of Michigan from 2015 to 2017. He has published more than 60 papers <a href='https://scholar.google.com/citations?user=w0YDfhcAAAAJ&hl'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FHorizonAILab%2Fhorizonailab.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> in the top international AI journals and conferences, such as IEEE TPAMI, IEEE TKDE, TCYB, Pattern Recognition, KDD, AAAI and ACM MM etc. His research interests focus on machine learning, multi-media analysis, data mining and scene understanding. Dr. Luo received Outstanding Doctoral Dissertation Award of SESC and Hunan Province in 2020. He has served as AC/SPC/PC of several conferences including NeurIPS, ICLR, ICML and CVPR etc. <br> 
@@ -43,6 +44,18 @@ My research interests lie in machine learning, data mining, and learning-based v
 - **<font color=navy>Training objectives</font>**: 1) After carefully organized scientific research training, the students are expected to gain solid professional knowledge, rigorous scientific thinking, strong practical ability, broad academic vision, and important scientific literacy for independent problem discovery, thinking, and solving; 2)Publish high-level and impactful papers in top journals or conferences, and is interested in continuing academic research after graduation. 经过精心组织的科研训练，使学生具备扎实的专业知识、缜密的科研思维、较强的动手能力、广阔的学术视野，及独立发现问题、思考问题、解决问题的重要科学素养； 在校期间在世界顶级期刊或会议上发表高水平、有影响力的论文，并有志于毕业后继续从事学术研究工作。
 
 # 📝 Representative Publications (部分代表性论文)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM KDD 2017</div><img src='images/pub_figs/ACMKDD2017WLRM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning](https://ieeexplore.ieee.org/document/9858006), **<font color=navy>ACM SIGKDD International Conference on Knowledge Discovery & Data Mining</font>**, Halifax, Canada [[PDF]](https://dl.acm.org/doi/10.1145/3097983.3097984)\\
+**Tingjin Luo**, Weizhong Zhang, Shuang Qiu, Yang Yang, Dongyun Yi, Guangtao Wang, Jieping Ye<sup>#</sup>, Jie Wang<sup>#</sup>
+
+- Functional annotation of human genes is fundamentally important for understanding the molecular basis of various genetic diseases. A major challenge in determining the functions of human genes lies in the functional diversity of proteins, that is, a gene can perform different functions as it may consist of multiple protein coding isoforms (PCIs). However, due to the lack of isoform-level gold-standards (ground-truth annotation), many existing functional annotation approaches are developed at gene-level.
+-  In this paper, we propose a novel approach to differentiate the functions of PCIs by integrating sparse simplex projection---that is, a nonconvex sparsity-inducing regularizer---with the framework of multi-instance learning (MIL). Our framework is flexible to incorporate various smooth and non-smooth loss functions such as logistic loss and hinge loss. To solve the resulting highly nontrivial non-convex and non-smooth optimization problem, we further develop an efficient block coordinate descent algorithm. 
+- Extensive experiments on human genome data demonstrate that the proposed approaches significantly outperform the state-of-the-art methods in terms of functional annotation accuracy of human PCIs and efficiency.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2023</div><img src='images/pub_figs/TPAMI2023DSDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
