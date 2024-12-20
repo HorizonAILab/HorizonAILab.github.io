@@ -69,7 +69,7 @@ Hao Zhou, Jun Zhang, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/pub_figs/ACM2024IMIMLC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/pub_figs/ACMMM2024IMIMLC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Imbalanced Multi-instance Multi-label Learning via Coding Ensemble and Adaptive Thresholds](https://dl.acm.org/doi/10.1145/3664647.3680911), _ACMMM_, 2024, \[[**Code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]\\
@@ -80,7 +80,7 @@ Xinyue Zhang, **Tingjin Luo**<sup>#</sup>, Yueying Liu, Chenping Hou
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/pub_figs/DIMvLN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/pub_figs/ACMMM2024DIMvSML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Incomplete Multi-View Network Semi-Supervised Multi-Label Learning with Unbiased Loss](https://dl.acm.org/doi/10.1145/3664647.3681414), _ACMMM_, 2024, \[[**code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]\\
