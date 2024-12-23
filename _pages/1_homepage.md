@@ -11,6 +11,9 @@ permalink: /homepage/
 
 | <br> **Biography**: Hi, I am Associate Professor with the [College of Sciences](https://www.nudt.edu.cn/xysz/wlxy/index.htm), [National University of Defense Technology (NUDT)](https://www.nudt.edu.cn/), Changsha, Hunan, China. He has received his B.Eng. and Ph.D degree (advised by [Prof. Dongyun Yi](https://www.researchgate.net/profile/Dongyun-Yi)) from NUDT. He was a visiting Ph.D. student (advised by [Prof. Jieping Ye](http://www.yelabs.net/)) with the University of Michigan from 2015 to 2017. He has authored more than 50 papers in journals and conferences, such as IEEE TPAMI, IEEE TKDE, TCYB, Pattern Recognition and KDD etc. His research interests focus on machine learning, multi-media analysis, data mining and scene understanding. Dr. Luo received Outstanding Doctoral Dissertation Award of SESC and Hunan Province in 2020. He has served as AC/SPC/PC of several conferences including NeurIPS, ICLR, ICML, IJCAI, AAAI and ICPR etc. <br> <br> **Email:** <tingjinluo@hotmail.com>  <br> **Follow me:** [DBLP](https://dblp.org/pid/175/8608.html) &emsp; [Researchgate](https://www.researchgate.net/profile/Tingjin-Luo)  &emsp; [GitHub](https://github.com/HorizonAILab/) <br><br>| &emsp;![image](https://HorizonAILab.github.io/images/horizon.jpg)&emsp; |
 
+
+<a href='https://scholar.google.com/citations?user=w0YDfhcAAAAJ&hl'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FHorizonAILab%2Fhorizonailab.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
 ### News and Events
 
 * 2024.08.11: One papers "Imbalanced Multi-instance Multi-label Learning via Tensor Product-based Semantic Fusion" accepted by _**Frontiers of Computer Science**_. Congratulations to Xinyue Zhang and all coauthors.
