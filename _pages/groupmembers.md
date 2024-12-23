@@ -14,7 +14,7 @@ author_profile: true
 
 ## Master Students
 
-- Master of 2023: Quanjiang Li(李泉江),Zhangqi Jiang(姜璋琪),Huiting Yuan(袁慧婷).
+- Master of 2023: Quanjiang Li(李泉江),[Zhangqi Jiang(姜璋琪)](https://zhangqijiang07.github.io/),Huiting Yuan(袁慧婷).
 
 - Master of 2024: Mingdie Jiang(江明蝶),Yuchen Zhang(张宇辰),Mengtao Yang(杨梦涛).
 
