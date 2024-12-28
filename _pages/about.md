@@ -203,6 +203,8 @@ Quanjiang Li, **Tingjin Luo#**, Jiaohui Liao
 - [Introduction to machine learning for social scientists](https://tyleransom.github.io/research/IntroMachineLearning.pdf), Introduction to machine learning for social scientists: Slides from a short presentation that outlines what machine learning is and how social scientists can benefit from using its methods.
 - [CCF Recommendation Conference Deadlines](https://ccfddl.com/)
 - [CCF Recommendation List of All Conferences and Journals](https://ccf.atom.im/)
+- [Papers with Code](https://paperswithcode.com/datasets)
+- [Matrix cookbook](https://ece.uwaterloo.ca/~ece602/MISC/matrixcookbook.pdf)
 
 
 # 📧 Contact
