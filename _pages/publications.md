@@ -24,7 +24,7 @@ author_profile: true
 
 * Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Chenping Hou. Label Shift Correction via Confidence-Guided Self-Training. _NeurIPS_, 2023, Review. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/ICML2023-SSLF.pdf)
 
-* Feijiang Li, Yuhua Qian, Jieting Wang, Hongren Yan, **Tingjin Luo**. SoCo: Second Order Induced Co-association Relation for Clustering Ensemble, 2024, Under Review.
+* Feijiang Li, Yuhua Qian, Jieting Wang, Hongren Yan, **Tingjin Luo**. How Relation Enrichment Improves Clustering Ensemble Performance: A Second Order Induced Relation View, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025, Under Review.
 
 ## Publications
 (* indicates equal contributions, and # indicates advisees)
