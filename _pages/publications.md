@@ -35,11 +35,9 @@ author_profile: true
 
 * Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo**<sup>#</sup>, Yankun Shen, Xu Yang<sup>#</sup>. Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens. _Proceedings of IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)_, 2025, Accepted. (CCF A类会议)
 
-* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Multi-experts Collaboration Learning for Long-tailed Visual Recognition, _Information Fusion_, Volume 115, 102734, March 2025. (CAAI A, JCR Q1, IF: 14.7)
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Multi-experts Collaboration Learning for Long-tailed Visual Recognition, _Information Fusion_, Volume 115, 102734, March 2025. https://doi.org/10.1016/j.inffus.2024.102734. (CAAI A, JCR Q1, IF: 14.7)
 
-* Yueying Liu, **Tingjin Luo**<sup>#</sup>. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. Frontiers of Computer Science, 2025, 19(2): 192307. (JCR Q2, CCF B) [[PDF]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-3228-0)
-
-* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Collaborative Learning with Heterogeneous Knowledge Transfer for Long-tailed Visual Recognition, Information Fusion, 2025, Volume 115, March 2025, 102734. https://doi.org/10.1016/j.inffus.2024.102734. (CAAI A类期刊)
+* Yueying Liu, **Tingjin Luo**<sup>#</sup>. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. Frontiers of Computer Science, 2025, 19(2): 192307.  (JCR Q2, CCF B) [[PDF]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-3228-0)
 
 * Xinyue Zhang, **Tingjin Luo**<sup>#</sup>. Imbalanced Multi-instance Multi-label Learning via Tensor Product-based Semantic Fusion. Frontiers of Computer Science, 2024, Accepted. (JCR Q2, CCF B)
 
