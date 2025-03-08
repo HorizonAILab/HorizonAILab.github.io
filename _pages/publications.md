@@ -31,6 +31,10 @@ author_profile: true
 
 ### 2025
 
+* Quangjiang Li, **Tingjin Luo**<sup>#</sup>, Jiahui Liao. Deep Multi-View Multi-Label Learning with Incomplete Views and Noisy Labels. _Proceedings of IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)_, 2025, Accepted. (CCF A类会议)
+
+* Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo**<sup>#</sup>, Yankun Shen, Xu Yang<sup>#</sup>. Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens. _Proceedings of IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)_, 2025, Accepted. (CCF A类会议)
+
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Multi-experts Collaboration Learning for Long-tailed Visual Recognition, _Information Fusion_, Volume 115, 102734, March 2025. (CAAI A, JCR Q1, IF: 14.7)
 
 * Yueying Liu, **Tingjin Luo**<sup>#</sup>. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. Frontiers of Computer Science, 2025, 19(2): 192307. (JCR Q2, CCF B) [[PDF]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-3228-0)
