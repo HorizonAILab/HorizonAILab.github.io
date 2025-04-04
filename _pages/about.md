@@ -119,7 +119,7 @@ Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Liguo Liu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/pub_figs/middle_layers.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](http://arxiv.org/abs/2411.16724), Submitted to Conference \\
+[Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](http://arxiv.org/abs/2411.16724), Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition \\
 Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
 
 
@@ -133,7 +133,7 @@ Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/pub_figs/CVPR2025DMMIvNL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Theory-Inspired Deep Multi-View Multi-Label Learning with Incomplete Views and Noisy Labels](http://arxiv.org/abs/2411.16724), Submitted to Conference \\
+[Theory-Inspired Deep Multi-View Multi-Label Learning with Incomplete Views and Noisy Labels](http://arxiv.org/abs/2411.16724), Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition \\
 Quanjiang Li, **Tingjin Luo#**, Jiaohui Liao
 
 - We propose a theory-inspired Deep Multi-View Multi-Label Learning method with Incomplete Views and Noisy Labels named DMMIvNL, based on the information bottleneck theory.
