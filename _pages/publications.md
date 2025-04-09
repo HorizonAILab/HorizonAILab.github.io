@@ -20,8 +20,6 @@ author_profile: true
 ## Preprints and Working Papers
 (* indicates equal contributions and # indicates advisees)
 
-* Hao Zhou, Jun Zhang, **Tingjin Luo**<sup>#</sup>, Jun Lei, Shuohao Li, Not the Statistical Bias, Mining the Essential Causality for Scene Graph Generation via Causal Association Extraction Network, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2023, Under Review. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://HorizonAILab.github.io/papers/TPAMI2023-CAE-Net.pdf)
-
 * Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Chenping Hou. Label Shift Correction via Confidence-Guided Self-Training. _NeurIPS_, 2023, Review. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/ICML2023-SSLF.pdf)
 
 * Feijiang Li, Yuhua Qian, Jieting Wang, Hongren Yan, **Tingjin Luo**. How Relation Enrichment Improves Clustering Ensemble Performance: A Second Order Induced Relation View, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025, Under Review.
@@ -30,6 +28,8 @@ author_profile: true
 (* indicates equal contributions, and # indicates advisees)
 
 ### 2025
+
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Guoli Li,Exploring the Essence of Relationships for Scene Graph Generation via Causal Features Enhancement Network, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2025, Accepted. (JCR Q1, CCF A, IF: 20.8) [[PDF]](https://HorizonAILab.github.io/papers/TPAMI2023-CAE-Net.pdf)
 
 * Quangjiang Li, **Tingjin Luo**<sup>#</sup>, Jiahui Liao. Deep Multi-View Multi-Label Learning with Incomplete Views and Noisy Labels. _Proceedings of IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)_, 2025, Accepted. (CCF A类会议)
 
