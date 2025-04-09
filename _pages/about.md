@@ -143,19 +143,6 @@ Quanjiang Li, **Tingjin Luo#**, Jiaohui Liao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/pub_figs/TPAMI2025CFEN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Exploring the Essence of Relationships for Scene Graph Generation via Causal Features Enhancement Network](http://ieeexplore.ieee.org/document/), **<font color=navy>IEEE Transactions on Pattern Analysis and Machine Intelligence</font>** \\
-Hao Zhou, **Tingjin Luo#**, Jun Zhang, Guoli Li
-
-- We analyze the causal association between objects and relationships, and declare that the relationships should be the interaction between object parts rather than the statistical dependence between object categories.
-- To measure the influence of object-specific features from object features for relations prediction, a counterfactual training framework is proposed to calculate the difference between fact and counterfactual logits based on the feature decomposition. 
-- To capture the essential semantic features between objects and relationships, the distribution matching loss is designed to support correct relations predictions and suppress biased predictions via computing KL divergence. 
-- Compared with the current state-of-the-art methods, the extensive experimental results on VG150 and VrR-VG datasets demonstrate the effectiveness and superiority of our proposed CFEN.
-</div>
-</div>
-
 # 💻 Projects
 
 - Robust Multiple Instance Learning via Sparse Optimization, [National Science Foundation of China](https://www.nsfc.gov.cn/), 2020–2022, Principal Investigator.
