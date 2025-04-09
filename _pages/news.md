@@ -7,7 +7,9 @@ author_profile: true
 
 # 🔥 News
 
-* 2025.2.27: &nbsp;🎉🎉 Two papers "Deep Multi-View Multi-Label Learning with Incomplete Views and Noisy Labels" and "Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens" accepted by _**IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)**_. Congratulations to Quanjiang Li, Zhangqi Jiang and all coauthors.
+* 2025.04.09: &nbsp;🎉🎉 One paper "Exploring the Essence of Relationships for Scene Graph Generation via Causal Features Enhancement Network" accepted by _**IEEE Transactions on Pattern Analysis and Machine Intelligence**_. Congratulations to Hao Zhou and all coauthors.
+
+* 2025.02.27: &nbsp;🎉🎉 Two papers "Deep Multi-View Multi-Label Learning with Incomplete Views and Noisy Labels" and "Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens" accepted by _**IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)**_. Congratulations to Quanjiang Li, Zhangqi Jiang and all coauthors.
 
 * 2024.12.10: &nbsp;🎉🎉 Two papers "Semi-Supervised Multi-View Multi-Label Learning with View-Specific Transformer and Enhanced Pseudo-Label" and "Core-to-Global Reasoning for Compositional Visual Question Answering" accepted by _**39th AAAI Conference on Artificial Intelligence (AAAI-25)**_. Congratulations to Quanjiang Li, Hao Zhou and all coauthors.
 
