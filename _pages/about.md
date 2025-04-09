@@ -133,13 +133,26 @@ Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/pub_figs/CVPR2025DMMIvNL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Theory-Inspired Deep Multi-View Multi-Label Learning with Incomplete Views and Noisy Labels](http://arxiv.org/abs/2411.16724), **<font color=navy>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</font>** \\
+[Theory-Inspired Deep Multi-View Multi-Label Learning with Incomplete Views and Noisy Labels](http://openaccess.thecvf.com/content/CVPR2025/papers/Li_Theory-Inspired_Deep_Multi-View_Multi-Label_Learning_With_Incomplete_Views_and_Noisy_Labels_CVPR_2025_paper.pdf), **<font color=navy>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</font>** \\
 Quanjiang Li, **Tingjin Luo#**, Jiaohui Liao
 
 - We propose a theory-inspired Deep Multi-View Multi-Label Learning method with Incomplete Views and Noisy Labels named DMMIvNL, based on the information bottleneck theory.
 - Meanwhile, we theoretically prove that minimizing the volume of the transition matrix ensures the statistical consistency with classifier training. 
 - Besides, a cycle-consistent estimation is proposed in the volume minimization network to improve the recognition stability of multi-label noise. 
 - Moreover, leveraging inherent semantics and label correlations are employed as model regularization to reduce the risk of noise fitting.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/pub_figs/TPAMI2025CFEN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring the Essence of Relationships for Scene Graph Generation via Causal Features Enhancement Network](http://ieeexplore.ieee.org/document/), **<font color=navy>IEEE Transactions on Pattern Analysis and Machine Intelligence</font>** \\
+Hao Zhou, **Tingjin Luo#**, Jun Zhang, Guoli Li
+
+- We analyze the causal association between objects and relationships, and declare that the relationships should be the interaction between object parts rather than the statistical dependence between object categories.
+- To measure the influence of object-specific features from object features for relations prediction, a counterfactual training framework is proposed to calculate the difference between fact and counterfactual logits based on the feature decomposition. 
+- To capture the essential semantic features between objects and relationships, the distribution matching loss is designed to support correct relations predictions and suppress biased predictions via computing KL divergence. 
+- Compared with the current state-of-the-art methods, the extensive experimental results on VG150 and VrR-VG datasets demonstrate the effectiveness and superiority of our proposed CFEN.
 </div>
 </div>
 
