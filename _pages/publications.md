@@ -20,8 +20,6 @@ author_profile: true
 ## Preprints and Working Papers
 (* indicates equal contributions and # indicates advisees)
 
-* Hao Zhou, Jun Zhang, **Tingjin Luo**<sup>#</sup>, Jun Lei, Shuohao Li, Not the Statistical Bias, Mining the Essential Causality for Scene Graph Generation via Causal Association Extraction Network, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2023, Under Review. (JCR Q1, CCF A, IF: 24.314) [[PDF]](https://HorizonAILab.github.io/papers/TPAMI2023-CAE-Net.pdf)
-
 * Ruidong Fan, Xiao Ouyang, **Tingjin Luo**, Chenping Hou. Label Shift Correction via Confidence-Guided Self-Training. _NeurIPS_, 2023, Review. (CCF A) [[PDF]](https://HorizonAILab.github.io/papers/ICML2023-SSLF.pdf)
 
 * Feijiang Li, Yuhua Qian, Jieting Wang, Hongren Yan, **Tingjin Luo**. How Relation Enrichment Improves Clustering Ensemble Performance: A Second Order Induced Relation View, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025, Under Review.
@@ -31,11 +29,15 @@ author_profile: true
 
 ### 2025
 
-* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Multi-experts Collaboration Learning for Long-tailed Visual Recognition, _Information Fusion_, Volume 115, 102734, March 2025. (CAAI A, JCR Q1, IF: 14.7)
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Guoli Li,Exploring the Essence of Relationships for Scene Graph Generation via Causal Features Enhancement Network, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2025, Accepted. (JCR Q1, CCF A, IF: 20.8) [[PDF]](https://HorizonAILab.github.io/papers/TPAMI2023-CAE-Net.pdf)
 
-* Yueying Liu, **Tingjin Luo**<sup>#</sup>. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. Frontiers of Computer Science, 2025, 19(2): 192307. (JCR Q2, CCF B) [[PDF]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-3228-0)
+* Quangjiang Li, **Tingjin Luo**<sup>#</sup>, Jiahui Liao. Deep Multi-View Multi-Label Learning with Incomplete Views and Noisy Labels. _Proceedings of IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)_, 2025, Accepted. (CCF A类会议)
 
-* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Collaborative Learning with Heterogeneous Knowledge Transfer for Long-tailed Visual Recognition, Information Fusion, 2025, Volume 115, March 2025, 102734. https://doi.org/10.1016/j.inffus.2024.102734. (CAAI A类期刊)
+* Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo**<sup>#</sup>, Yankun Shen, Xu Yang<sup>#</sup>. Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens. _Proceedings of IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)_, 2025, Accepted. (CCF A类会议)
+
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>, Yongming He, Jun Zhang. Dynamic Multi-experts Collaboration Learning for Long-tailed Visual Recognition, _Information Fusion_, Volume 115, 102734, March 2025. https://doi.org/10.1016/j.inffus.2024.102734. (CAAI A, JCR Q1, IF: 14.7)
+
+* Yueying Liu, **Tingjin Luo**<sup>#</sup>. Nonconvex and discriminative transfer subspace learning for unsupervised domain adaptation. Frontiers of Computer Science, 2025, 19(2): 192307.  (JCR Q2, CCF B) [[PDF]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-3228-0)
 
 * Xinyue Zhang, **Tingjin Luo**<sup>#</sup>. Imbalanced Multi-instance Multi-label Learning via Tensor Product-based Semantic Fusion. Frontiers of Computer Science, 2024, Accepted. (JCR Q2, CCF B)
 
