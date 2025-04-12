@@ -74,7 +74,7 @@ Hao Zhou, Jun Zhang, **Tingjin Luo**<sup>#</sup>, Yazhou Yang, Jun Lei
 <div class='paper-box-text' markdown="1">
 
 [Deep Incomplete Multi-View Learning Network with Insufficient Label Information](https://ojs.aaai.org/index.php/AAAI/article/view/29189), **<font color=navy>AAAI Conference on Artificial Intelligence</font>**, 2024, \[[**Code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]\\
-**Zhangqi Jiang**, Tingjin Luo, Xinyan Liang
+Zhangqi Jiang, **Tingjin Luo**<sup>#</sup>, Xinyan Liang
 -  To tackle the double missing of features and labels problem, we propose a novel deep incomplete multi-view learning network (DIMvLN).
 - DIMvLN integrates graph neural networks and semi-supervised learning into a unified framework to effectively handle incomplete multi-view data and insufficient label information.
 - Extensive experiments on real-world datasets demonstrate the effectiveness of DIMvLN in improving the performance of multi-view learning tasks.
@@ -120,7 +120,7 @@ Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Liguo Liu
 <div class='paper-box-text' markdown="1">
 
 [Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](http://arxiv.org/abs/2411.16724), Submitted to Conference \\
-Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang
+Zhangqi Jiang, Junkai Chen, Beier Zhu, **Tingjin Luo#**, Yankun Shen, Xu Yang<sup>#</sup>
 
 
 - We address how LVLMs process visual information and whether this process causes hallucination.
