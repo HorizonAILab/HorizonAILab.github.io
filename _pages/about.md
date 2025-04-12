@@ -154,8 +154,6 @@ Quanjiang Li, **Tingjin Luo#**, Jiaohui Liao
 
 - Dynamic Multi-label Learning Theory and Methods for Open-source Intelligence Analysis, [National Science Foundation of China](https://www.nsfc.gov.cn/), 2024–2027, Principal Investigator.
 
-- Provincial NSF Project for Distinguished Young Scholars， [National Science Foundation of Hunan Province](https://kjt.hunan.gov.cn/kjt/zxgz/zkjj/index.html), 2025–2027, Principal Investigator.
-
 
 # 🏆 Honors and Awards
 - 湖南省数学建模竞赛优秀指导教师，12/2024
