@@ -18,7 +18,7 @@ author_profile: true
 - Associate Editor of Pattern Recognition (IF: 11.7, SCI A1 TOP) (2024-present)
 - Associate Editor of Information Fusion (IF: 7.5, SCI A1 TOP, CAAI A) (2024-present)
 - Editorial board member for Frontiers of Computer Science (CCF B) (2022-present)
-
+- 国防科技大学学报青年编委(2025-present)
 
 ## Journal Reviewer (国际学术期刊审稿人)
 
