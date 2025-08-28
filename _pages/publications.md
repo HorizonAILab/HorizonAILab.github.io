@@ -29,6 +29,8 @@ author_profile: true
 
 ### 2025
 
+* Huiting Yuan, **Tingjin Luo**<sup>#</sup>, Xinghao Wu, Jie Jiang. Tackling Noisy Labels with Noise-Free Prototype Guided Representation Calibration. Knowledge-Based Systems. 2025, Accepted. (JCR Q1, CCF B, IF: 7.6) 
+
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Guoli Li,Exploring the Essence of Relationships for Scene Graph Generation via Causal Features Enhancement Network, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2025, Accepted. (JCR Q1, CCF A, IF: 20.8) [[PDF]](https://HorizonAILab.github.io/papers/TPAMI2023-CAE-Net.pdf)
 
 * Quangjiang Li, **Tingjin Luo**<sup>#</sup>, Jiahui Liao. Deep Multi-View Multi-Label Learning with Incomplete Views and Noisy Labels. _Proceedings of IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)_, 2025, Accepted. (CCF A类会议)
