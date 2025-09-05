@@ -27,6 +27,8 @@ author_profile: true
 ## Publications
 (* indicates equal contributions, and # indicates advisees)
 
+### 2026
+
 ### 2025
 
 * Huiting Yuan, **Tingjin Luo**<sup>#</sup>, Xinghao Wu, Jie Jiang. Tackling Noisy Labels with Noise-Free Prototype Guided Representation Calibration. Knowledge-Based Systems. 2025, Accepted. (JCR Q1, CCF B, IF: 7.6) 
