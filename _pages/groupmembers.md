@@ -19,14 +19,16 @@ author_profile: true
 
 - Master of 2025: Xiangyao Li(李向垚), Yang Li(栗阳), Mengyuan Tong(仝梦园).
 
+- Master of 2026: 
 
 ## Graduated Students
 
 ### PhD Student
 - PhD of 2020: Wenzhang Zhuge(诸葛文章，导师：易东云教授).
 - PhD of 2021: Hao Zhou(周浩，导师：张军教授).
-- PhD of 2024: Shilin Gu(古仕林，导师：侯臣平教授).
+- PhD of 2024: Shilin Gu(古仕林，导师：国家杰青侯臣平教授).
+- PhD of 2025: Ruidong Fan(范瑞东，导师：国家杰青侯臣平教授).
 
 ### Master Students
-- Master of 2023: Yueyin Liu(刘玥瑛), 2021-2023, 国防科技大学在读博士.
-- Master of 2024: Xinyue Zhang(张馨月,研究生二等奖学金、校级优秀学员), 2022-2024, 国防科技大学在读博士.
+- Yueyin Liu(刘玥瑛), 2021-2023, 国防科技大学在读博士.
+- Xinyue Zhang(张馨月), 2022-2024,研究生二等奖学金、校级优秀学员, 国防科技大学在读博士.
