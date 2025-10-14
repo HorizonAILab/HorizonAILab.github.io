@@ -11,7 +11,7 @@ author_profile: true
 
 - The papers and codes on this page can only be used for research. They cannot be used for commercial purpose without permission. (本网页所列文章、代码仅供研究使用，未经许可不得用于商业用途。)
 
-- IEEE/ACM Transactions系列文章为相关领域的世界顶级期刊，AAAI、IJCAI为人工智能领域国际顶级会议，CVPR、ICCV、ECCV为计算机视觉领域国际顶级会议，ICML、NeurIPS、ICLR为机器学习领域国际顶级会议，KDD、ICDE、ICDM为数据挖掘领域国际顶级会议。
+- Nature/Science及子刊、IEEE/ACM Transactions系列文章为相关领域的国际顶级期刊，AAAI、IJCAI为人工智能领域国际顶级会议，CVPR、ICCV、ECCV为计算机视觉领域国际顶级会议，ICML、NeurIPS、ICLR为机器学习领域国际顶级会议，KDD、ICDE、ICDM为数据挖掘领域国际顶级会议。
 
 ## Books and Chapters
 
