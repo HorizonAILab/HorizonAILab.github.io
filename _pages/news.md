@@ -9,6 +9,8 @@ author_profile: true
 
 * 2025.09.25: &nbsp;🎉🎉 Three papers accepted by _**Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)**_. Congratulations to Quanjiang Li, Zhangqi Jiang and all coauthors.
 
+* 2025.09.25: &nbsp;🎉🎉 One paper "Noise-Free Prototype Guided Representation Calibration under Label Noise" accepted by _**Knowledge-Based Systems**_. Congratulations to Huiting Yuan and all coauthors.
+
 * 2025.04.09: &nbsp;🎉🎉 One paper "Exploring the Essence of Relationships for Scene Graph Generation via Causal Features Enhancement Network" accepted by _**IEEE Transactions on Pattern Analysis and Machine Intelligence**_. Congratulations to Hao Zhou and all coauthors.
 
 * 2025.02.27: &nbsp;🎉🎉 Two papers "Deep Multi-View Multi-Label Learning with Incomplete Views and Noisy Labels" and "Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens" accepted by _**IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)**_. Congratulations to Quanjiang Li, Zhangqi Jiang and all coauthors.
