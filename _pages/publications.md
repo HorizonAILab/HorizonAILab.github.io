@@ -29,9 +29,15 @@ author_profile: true
 
 ### 2026
 
+* Huiting Yuan, **Tingjin Luo**<sup>#</sup>, Xinghao Wu, Jie Jiang. Tackling Noisy Labels with Noise-Free Prototype Guided Representation Calibration. Knowledge-Based Systems. 2025, Accepted. (JCR Q1, CCF B, IF: 7.6) 
+
+
+
 ### 2025
 
-* Huiting Yuan, **Tingjin Luo**<sup>#</sup>, Xinghao Wu, Jie Jiang. Tackling Noisy Labels with Noise-Free Prototype Guided Representation Calibration. Knowledge-Based Systems. 2025, Accepted. (JCR Q1, CCF B, IF: 7.6) 
+* Quangjiang Li, Tianxiang Xu, **Tingjin Luo**<sup>#</sup>, Yan Zhong, Yang Li, Yiyun Zhou, Chenping Hou. Theory-Driven Label-Specific Representation for Incomplete Multi-View Multi-Label Learning. _Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)_, 2025, Accepted. (CCF A类会议)
+
+* Zhangqi Jiang, **Tingjin Luo**<sup>#</sup>, Xu Yang, Xinyan Liang. Adversarial Graph Fusion for Incomplete Multi-view Semi-supervised Learning with Tensorial Imputation, _Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)_, 2025, Accepted. (CCF A类会议)
 
 * Hao Zhou, **Tingjin Luo**<sup>#</sup>, Jun Zhang, Guoli Li,Exploring the Essence of Relationships for Scene Graph Generation via Causal Features Enhancement Network, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2025, Accepted. (JCR Q1, CCF A, IF: 20.8) [[PDF]](https://HorizonAILab.github.io/papers/TPAMI2023-CAE-Net.pdf)
 
