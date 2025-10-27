@@ -7,6 +7,8 @@ author_profile: true
 
 # 🔥 News
 
+* 2025.10.26: &nbsp;🎉🎉 One paper "Nonconvex and Adaptive Multi-Label Learning for Highly Incomplete Labels" accepted by _**Knowledge-Based Systems**_. Congratulations to Quanjiang Li and all coauthors.
+
 * 2025.09.25: &nbsp;🎉🎉 Three papers accepted by _**Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)**_. Congratulations to Quanjiang Li, Zhangqi Jiang and all coauthors.
 
 * 2025.08.18: &nbsp;🎉🎉 One paper "Noise-Free Prototype Guided Representation Calibration under Label Noise" accepted by _**Knowledge-Based Systems**_. Congratulations to Huiting Yuan and all coauthors.
