@@ -7,6 +7,10 @@ author_profile: true
 
 # 🔥 News
 
+* 2025.11.23: &nbsp;🎉🎉 Two papers "Deep Partial Label Feature Selection with Cluster-Guided Disambiguation" and "ESTIM: Efficient and Scalable Tensorial Incomplete Multi-view Semi-supervised Classification" accepted by _**The 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining**_. Congratulations to Mengyuan Tong, Xiangyao Li and all coauthors.
+
+* 2025.11.08: &nbsp;🎉🎉 Two papers "Multi-Label Classification with Incremental and Decremental Features" and "DPRM: A Dual Implicit Process Reward Model for Automatic Labeling and Collaborative Reasoning in Multi-Hop Question Answering" accepted by _**Fourty AAAI Conference on Artificial Intelligence**_. Congratulations to Mingdie Jiang, Xinyi Wang and all coauthors.
+
 * 2025.10.26: &nbsp;🎉🎉 One paper "Nonconvex and Adaptive Multi-Label Learning for Highly Incomplete Labels" accepted by _**Knowledge-Based Systems**_. Congratulations to Quanjiang Li and all coauthors.
 
 * 2025.09.25: &nbsp;🎉🎉 Three papers accepted by _**Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)**_. Congratulations to Quanjiang Li, Zhangqi Jiang and all coauthors.
