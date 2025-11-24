@@ -29,9 +29,9 @@ author_profile: true
 
 ### 2026
 
-* **Tingjin Luo**, Mengyuan Tong, Qingchang Shu, Yueyin Liu, Hao Zhou#, Zheng Wang#. Deep Partial Label Feature Selection with Cluster-Guided Disambiguation. Proceedings of the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026, Accepted. (CCF A类会议)
+* **Tingjin Luo**, Mengyuan Tong, Qingchang Shu, Yueyin Liu, Hao Zhou, Zheng Wang. Deep Partial Label Feature Selection with Cluster-Guided Disambiguation. Proceedings of the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026, Accepted. (CCF A类会议)
 
-* **Tingjin Luo**, Xiangyao Li, Zhangqi Jiang, Shuanghui Zhang#, Dewen Hu#. ESTIM: Efficient and Scalable Tensorial Incomplete Multi-view Semi-supervised Classification. Proceedings of the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026, Accepted. (CCF A类会议)
+* **Tingjin Luo**, Xiangyao Li, Zhangqi Jiang, Shuanghui Zhang, Dewen Hu. ESTIM: Efficient and Scalable Tensorial Incomplete Multi-view Semi-supervised Classification. Proceedings of the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026, Accepted. (CCF A类会议)
 
 * Mingdie Jiang*, Quangjiang Li*, **Tingjin Luo**<sup>#</sup>, Yiping Song, Chenping Hou. Multi-Label Classification with Incremental and Decremental Features. Proceedings of the Fourty AAAI Conference on Artificial Intelligence, 2026, Accepted. (CCF A类会议)
 
