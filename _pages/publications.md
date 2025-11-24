@@ -29,11 +29,20 @@ author_profile: true
 
 ### 2026
 
-* Huiting Yuan, **Tingjin Luo**<sup>#</sup>, Xinghao Wu, Jie Jiang. Tackling Noisy Labels with Noise-Free Prototype Guided Representation Calibration. Knowledge-Based Systems. 2025, Accepted. (JCR Q1, CCF B, IF: 7.6) 
+* **Tingjin Luo**, Mengyuan Tong, Qingchang Shu, Yueyin Liu, Hao Zhou#, Zheng Wang#. Deep Partial Label Feature Selection with Cluster-Guided Disambiguation. Proceedings of the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026, Accepted. (CCF A类会议)
 
+* **Tingjin Luo**, Xiangyao Li, Zhangqi Jiang, Shuanghui Zhang#, Dewen Hu#. ESTIM: Efficient and Scalable Tensorial Incomplete Multi-view Semi-supervised Classification. Proceedings of the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026, Accepted. (CCF A类会议)
+
+* Mingdie Jiang*, Quangjiang Li*, **Tingjin Luo**<sup>#</sup>, Yiping Song, Chenping Hou. Multi-Label Classification with Incremental and Decremental Features. Proceedings of the Fourty AAAI Conference on Artificial Intelligence, 2026, Accepted. (CCF A类会议)
+
+* Xinyi Wang, Yiping Song<sup>#</sup>, Zhiliang Tian, Bo Liu, **Tingjin Luo**, Minlie Huang. DPRM: A Dual Implicit Process Reward Model for Automatic Labeling and Collaborative Reasoning in Multi-Hop Question Answering. Proceedings of the Fourty AAAI Conference on Artificial Intelligence, 2026, Accepted. (CCF A类会议)
 
 
 ### 2025
+
+* **Tingjin Luo**<sup>#</sup>, Quanjiang Li, Mingdie Jiang, Chenping Hou. Nonconvex and Adaptive Multi label learning for Missing labels. _Knowledge-Based Systems_. 2026, Accepted. (JCR Q1, CCF B, IF: 7.6) 
+
+* Huiting Yuan, **Tingjin Luo**<sup>#</sup>, Xinghao Wu, Jie Jiang. Tackling Noisy Labels with Noise-Free Prototype Guided Representation Calibration. _Knowledge-Based Systems_. 2025, Accepted. (JCR Q1, CCF B, IF: 7.6) 
 
 * Quangjiang Li, Tianxiang Xu, **Tingjin Luo**<sup>#</sup>, Yan Zhong, Yang Li, Yiyun Zhou, Chenping Hou. Theory-Driven Label-Specific Representation for Incomplete Multi-View Multi-Label Learning. _Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)_, 2025, Accepted. (CCF A类会议)
 
