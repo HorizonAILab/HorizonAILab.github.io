@@ -29,18 +29,22 @@ author_profile: true
 
 ### 2026
 
-* **Tingjin Luo**, Mengyuan Tong, Qingchang Shu, Yueyin Liu, Hao Zhou, Zheng Wang. Deep Partial Label Feature Selection with Cluster-Guided Disambiguation. Proceedings of the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026, Accepted. (CCF A类会议)
+* **Tingjin Luo**, Yueyin Liu, Xinyue Zhang, Chenping Hou. Non-convex Transfer Subspace Learning via Embedded Distribution Alignment. _ IEEE Transactions on Image Processing_, 2026, Accepted. (CCF A类期刊)
 
-* **Tingjin Luo**, Xiangyao Li, Zhangqi Jiang, Shuanghui Zhang, Dewen Hu. ESTIM: Efficient and Scalable Tensorial Incomplete Multi-view Semi-supervised Classification. Proceedings of the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026, Accepted. (CCF A类会议)
+* Hao Zhou, **Tingjin Luo**<sup>#</sup>. Trust-calibrated Collaborative Learning for Long-Tailed Visual Recognition. _Proceedings of IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)_, 2026, Accepted. (CCF A类会议)
 
-* Mingdie Jiang*, Quangjiang Li*, **Tingjin Luo**<sup>#</sup>, Yiping Song, Chenping Hou. Multi-Label Classification with Incremental and Decremental Features. Proceedings of the Fourty AAAI Conference on Artificial Intelligence, 2026, Accepted. (CCF A类会议)
+* **Tingjin Luo**, Mengyuan Tong, Qingchang Shu, Yueyin Liu, Hao Zhou, Zheng Wang. Deep Partial Label Feature Selection with Cluster-Guided Disambiguation. _Proceedings of the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining_, 2026, Accepted. (CCF A类会议)
 
-* Xinyi Wang, Yiping Song<sup>#</sup>, Zhiliang Tian, Bo Liu, **Tingjin Luo**, Minlie Huang. DPRM: A Dual Implicit Process Reward Model for Automatic Labeling and Collaborative Reasoning in Multi-Hop Question Answering. Proceedings of the Fourty AAAI Conference on Artificial Intelligence, 2026, Accepted. (CCF A类会议)
+* **Tingjin Luo**, Xiangyao Li, Zhangqi Jiang, Shuanghui Zhang, Dewen Hu. ESTIM: Efficient and Scalable Tensorial Incomplete Multi-view Semi-supervised Classification. _Proceedings of the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining_, 2026, Accepted. (CCF A类会议)
+
+* Mingdie Jiang*, Quangjiang Li*, **Tingjin Luo**<sup>#</sup>, Yiping Song, Chenping Hou. Multi-Label Classification with Incremental and Decremental Features. _Proceedings of the Fourty AAAI Conference on Artificial Intelligence_, 2026, Accepted. (CCF A类会议)
+
+* Xinyi Wang, Yiping Song<sup>#</sup>, Zhiliang Tian, Bo Liu, **Tingjin Luo**, Minlie Huang. DPRM: A Dual Implicit Process Reward Model for Automatic Labeling and Collaborative Reasoning in Multi-Hop Question Answering. _Proceedings of the Fourty AAAI Conference on Artificial Intelligence_, 2026, Accepted. (CCF A类会议)
+
+* **Tingjin Luo**<sup>#</sup>, Quanjiang Li, Mingdie Jiang, Chenping Hou. Nonconvex and Adaptive Multi label learning for Missing labels. _Knowledge-Based Systems_. 2026, Accepted. (JCR Q1, CCF B, IF: 7.6) 
 
 
 ### 2025
-
-* **Tingjin Luo**<sup>#</sup>, Quanjiang Li, Mingdie Jiang, Chenping Hou. Nonconvex and Adaptive Multi label learning for Missing labels. _Knowledge-Based Systems_. 2026, Accepted. (JCR Q1, CCF B, IF: 7.6) 
 
 * Huiting Yuan, **Tingjin Luo**<sup>#</sup>, Xinghao Wu, Jie Jiang. Tackling Noisy Labels with Noise-Free Prototype Guided Representation Calibration. _Knowledge-Based Systems_. 2025, Accepted. (JCR Q1, CCF B, IF: 7.6) 
 
