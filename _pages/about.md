@@ -160,9 +160,7 @@ Quanjiang Li, **Tingjin Luo**<sup>#</sup>, Jiaohui Liao
 - Fund for NUDT Young Innovator Awards, 12/2020
 - Outstanding Doctoral Dissertation Award of SESC（中国系统工程学会优秀博士学位论文）, 10/2020 (4 in China)
 - Outstanding Doctoral Dissertation Award of Hunan Province（湖南省优秀博士学位论文）, 08/2020
-- NUDT Postgraduate Academic Innovation Star, 10/2017 (10 out of 300+)
-- NUDT ZhouMingXi Scholarship, 12/2017
-- CSC Scholarship, 10/2015-09/2017
+- NUDT Postgraduate Academic Innovation Star, 10/2017 (10 out of 400+)
 
 
 # 📖 Educations and Work Experience

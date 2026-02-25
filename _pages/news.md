@@ -7,6 +7,10 @@ author_profile: true
 
 # 🔥 News
 
+* 2026.02.22: &nbsp;🎉🎉 One paper "Non-convex Transfer Subspace Learning via Embedded Distribution Alignment" accepted by _**IEEE Transactions on Image Processing**_. Congratulations to Yueyin Liu and all coauthors.
+
+* 2026.02.21: &nbsp;🎉🎉 One paper "Trust-calibrated Collaborative Learning for Long-Tailed Visual Recognition" accepted by _**Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition**_. Congratulations to Hao Zhou and all coauthors.
+
 * 2025.11.23: &nbsp;🎉🎉 Two papers "Deep Partial Label Feature Selection with Cluster-Guided Disambiguation" and "ESTIM: Efficient and Scalable Tensorial Incomplete Multi-view Semi-supervised Classification" accepted by _**The 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining**_. Congratulations to Mengyuan Tong, Xiangyao Li and all coauthors.
 
 * 2025.11.08: &nbsp;🎉🎉 Two papers "Multi-Label Classification with Incremental and Decremental Features" and "DPRM: A Dual Implicit Process Reward Model for Automatic Labeling and Collaborative Reasoning in Multi-Hop Question Answering" accepted by _**Fourty AAAI Conference on Artificial Intelligence**_. Congratulations to Mingdie Jiang, Xinyi Wang and all coauthors.
