@@ -31,4 +31,4 @@ author_profile: true
 - Yueyin Liu(刘玥瑛), 2021-2023, 国防科技大学在读博士.
 - Xinyue Zhang(张馨月), 2022-2024,研究生二等奖学金、校级优秀学员, 国防科技大学在读博士.
 - Quanjiang Li(李泉江), 2023-2025,高地星火奖学金、校级优秀毕业生, 国防科技大学在读博士.
-[Zhangqi Jiang(姜璋琪)](https://zhangqijiang07.github.io/), 2023-2025,计划出国留学.
+- [Zhangqi Jiang(姜璋琪)](https://zhangqijiang07.github.io/), 2023-2025,计划出国留学.
