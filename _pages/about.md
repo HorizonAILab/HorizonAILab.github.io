@@ -205,5 +205,5 @@ Quanjiang Li, **Tingjin Luo**<sup>#</sup>, Jiaohui Liao
 
 # 📧 Contact
 
-- 办公地址： 国防科技大学理学院S481室
+- 办公地址： 国防科技大学理学院S481
 - 通讯地址： 湖南省长沙市开福区福元路一号国防科技大学理学院
